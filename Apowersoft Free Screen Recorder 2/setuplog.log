@@ -1,0 +1,455 @@
+﻿2015-11-04 22:43:08.965   Log opened. (Time zone: UTC+05:30)
+2015-11-04 22:43:08.965   Setup version: Inno Setup version 5.5.6 (u)
+2015-11-04 22:43:08.965   Original Setup EXE: F:\Softwares\free-screen-recorder-softonic.exe
+2015-11-04 22:43:08.965   Setup command line: /SL5="$4053A,16058487,546816,F:\Softwares\free-screen-recorder-softonic.exe" /SPAWNWND=$1904B8 /NOTIFYWND=$12052A 
+2015-11-04 22:43:08.965   Windows version: 10.0.10240  (NT platform: Yes)
+2015-11-04 22:43:08.965   64-bit Windows: Yes
+2015-11-04 22:43:08.965   Processor architecture: x64
+2015-11-04 22:43:08.965   User privileges: Administrative
+2015-11-04 22:43:08.981   64-bit install mode: No
+2015-11-04 22:43:11.580   Created temporary directory: C:\Users\CHANDR~1\AppData\Local\Temp\is-L075D.tmp
+2015-11-04 22:43:11.705   Extracting temporary file: C:\Users\CHANDR~1\AppData\Local\Temp\is-L075D.tmp\isxdl.dll
+2015-11-04 22:43:43.683   Starting the installation process.
+2015-11-04 22:43:43.699   Creating directory: F:\Softwares\Apowersoft Free Screen Recorder 2
+2015-11-04 22:43:43.730   Creating directory: C:\Users\CHANDRASAIMOHAN\AppData\Roaming\Apowersoft
+2015-11-04 22:43:43.730   Creating directory: C:\Users\CHANDRASAIMOHAN\AppData\Roaming\Apowersoft\Apowersoft Free Screen Recorder 2
+2015-11-04 22:43:43.730   Creating directory: C:\Users\CHANDRASAIMOHAN\AppData\Roaming\Apowersoft\Apowersoft Free Screen Recorder 2\2.0.3.0
+2015-11-04 22:43:43.730   Setting permissions on directory: C:\Users\CHANDRASAIMOHAN\AppData\Roaming\Apowersoft\Apowersoft Free Screen Recorder 2\2.0.3.0
+2015-11-04 22:43:43.730   Directory for uninstall files: F:\Softwares\Apowersoft Free Screen Recorder 2
+2015-11-04 22:43:43.730   Creating new uninstall log: F:\Softwares\Apowersoft Free Screen Recorder 2\unins000.dat
+2015-11-04 22:43:43.746   -- File entry --
+2015-11-04 22:43:43.746   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\unins000.exe
+2015-11-04 22:43:43.746   Time stamp of our file: 2015-11-04 22:43:08.449
+2015-11-04 22:43:43.746   Installing the file.
+2015-11-04 22:43:43.777   Uninstaller requires administrator: Yes
+2015-11-04 22:43:43.777   Successfully installed the file.
+2015-11-04 22:43:43.777   -- File entry --
+2015-11-04 22:43:43.777   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\AdjMmsEng.dll
+2015-11-04 22:43:43.777   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:43.777   Installing the file.
+2015-11-04 22:43:43.964   Successfully installed the file.
+2015-11-04 22:43:43.964   -- File entry --
+2015-11-04 22:43:43.964   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\AForge.Video.FFMPEG.dll
+2015-11-04 22:43:43.964   Time stamp of our file: 2015-08-20 12:06:34.000
+2015-11-04 22:43:43.964   Installing the file.
+2015-11-04 22:43:43.980   Successfully installed the file.
+2015-11-04 22:43:43.980   -- File entry --
+2015-11-04 22:43:43.980   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Apowersoft Free Screen Recorder 2.exe
+2015-11-04 22:43:43.980   Time stamp of our file: 2015-08-20 16:57:34.000
+2015-11-04 22:43:43.980   Installing the file.
+2015-11-04 22:43:44.230   Successfully installed the file.
+2015-11-04 22:43:44.230   -- File entry --
+2015-11-04 22:43:44.230   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Apowersoft Free Screen Recorder 2.exe.config
+2015-11-04 22:43:44.230   Time stamp of our file: 2015-08-15 21:45:50.000
+2015-11-04 22:43:44.230   Installing the file.
+2015-11-04 22:43:44.246   Successfully installed the file.
+2015-11-04 22:43:44.246   -- File entry --
+2015-11-04 22:43:44.246   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Apowersoft Troubleshooter.exe
+2015-11-04 22:43:44.246   Time stamp of our file: 2015-08-20 12:06:34.000
+2015-11-04 22:43:44.246   Installing the file.
+2015-11-04 22:43:44.246   Successfully installed the file.
+2015-11-04 22:43:44.246   -- File entry --
+2015-11-04 22:43:44.246   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Apowersoft Troubleshooter.exe.config
+2015-11-04 22:43:44.246   Time stamp of our file: 2015-08-20 12:06:34.000
+2015-11-04 22:43:44.246   Installing the file.
+2015-11-04 22:43:44.261   Successfully installed the file.
+2015-11-04 22:43:44.261   -- File entry --
+2015-11-04 22:43:44.261   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\ApowersoftMediaTools.dll
+2015-11-04 22:43:44.261   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:44.261   Installing the file.
+2015-11-04 22:43:44.277   Successfully installed the file.
+2015-11-04 22:43:44.277   -- File entry --
+2015-11-04 22:43:44.277   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\ApowersoftScreenCapturing.dll
+2015-11-04 22:43:44.277   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:44.277   Installing the file.
+2015-11-04 22:43:44.293   Successfully installed the file.
+2015-11-04 22:43:44.293   -- File entry --
+2015-11-04 22:43:44.293   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\ApowersoftScreenCapturingFilter.dll
+2015-11-04 22:43:44.293   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:44.293   Installing the file.
+2015-11-04 22:43:44.308   Successfully installed the file.
+2015-11-04 22:43:44.308   -- File entry --
+2015-11-04 22:43:44.308   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\ApowersoftVideoMixerFilter.dll
+2015-11-04 22:43:44.308   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:44.308   Installing the file.
+2015-11-04 22:43:44.308   Successfully installed the file.
+2015-11-04 22:43:44.308   -- File entry --
+2015-11-04 22:43:44.308   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\AudioSoundRecorder.dll
+2015-11-04 22:43:44.308   Time stamp of our file: 2015-08-15 21:57:08.000
+2015-11-04 22:43:44.308   Installing the file.
+2015-11-04 22:43:44.339   Successfully installed the file.
+2015-11-04 22:43:44.339   -- File entry --
+2015-11-04 22:43:44.339   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\avcodec-56.dll
+2015-11-04 22:43:44.339   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:44.339   Installing the file.
+2015-11-04 22:43:45.121   Successfully installed the file.
+2015-11-04 22:43:45.121   -- File entry --
+2015-11-04 22:43:45.121   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\avdevice-56.dll
+2015-11-04 22:43:45.121   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.121   Installing the file.
+2015-11-04 22:43:45.168   Successfully installed the file.
+2015-11-04 22:43:45.168   -- File entry --
+2015-11-04 22:43:45.168   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\avfilter-5.dll
+2015-11-04 22:43:45.168   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.168   Installing the file.
+2015-11-04 22:43:45.261   Successfully installed the file.
+2015-11-04 22:43:45.261   -- File entry --
+2015-11-04 22:43:45.261   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\avformat-56.dll
+2015-11-04 22:43:45.261   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.261   Installing the file.
+2015-11-04 22:43:45.499   Successfully installed the file.
+2015-11-04 22:43:45.499   -- File entry --
+2015-11-04 22:43:45.499   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\avutil-54.dll
+2015-11-04 22:43:45.499   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.499   Installing the file.
+2015-11-04 22:43:45.515   Successfully installed the file.
+2015-11-04 22:43:45.515   -- File entry --
+2015-11-04 22:43:45.515   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\EULA.txt
+2015-11-04 22:43:45.515   Time stamp of our file: 2015-08-15 21:50:38.000
+2015-11-04 22:43:45.515   Installing the file.
+2015-11-04 22:43:45.515   Successfully installed the file.
+2015-11-04 22:43:45.515   -- File entry --
+2015-11-04 22:43:45.515   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Faac.exe
+2015-11-04 22:43:45.515   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.515   Installing the file.
+2015-11-04 22:43:45.530   Successfully installed the file.
+2015-11-04 22:43:45.530   -- File entry --
+2015-11-04 22:43:45.530   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lame.exe
+2015-11-04 22:43:45.530   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.530   Installing the file.
+2015-11-04 22:43:45.546   Successfully installed the file.
+2015-11-04 22:43:45.546   -- File entry --
+2015-11-04 22:43:45.546   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\log.xml
+2015-11-04 22:43:45.546   Time stamp of our file: 2015-08-15 21:45:50.000
+2015-11-04 22:43:45.546   Installing the file.
+2015-11-04 22:43:45.546   Successfully installed the file.
+2015-11-04 22:43:45.546   -- File entry --
+2015-11-04 22:43:45.546   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\OggEnc.exe
+2015-11-04 22:43:45.546   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.546   Installing the file.
+2015-11-04 22:43:45.562   Successfully installed the file.
+2015-11-04 22:43:45.562   -- File entry --
+2015-11-04 22:43:45.562   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\postproc-53.dll
+2015-11-04 22:43:45.562   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.562   Installing the file.
+2015-11-04 22:43:45.577   Successfully installed the file.
+2015-11-04 22:43:45.577   -- File entry --
+2015-11-04 22:43:45.577   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\swresample-1.dll
+2015-11-04 22:43:45.577   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.577   Installing the file.
+2015-11-04 22:43:45.577   Successfully installed the file.
+2015-11-04 22:43:45.577   -- File entry --
+2015-11-04 22:43:45.577   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\swscale-3.dll
+2015-11-04 22:43:45.593   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.593   Installing the file.
+2015-11-04 22:43:45.609   Successfully installed the file.
+2015-11-04 22:43:45.609   -- File entry --
+2015-11-04 22:43:45.609   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Wma.exe
+2015-11-04 22:43:45.609   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.609   Installing the file.
+2015-11-04 22:43:45.609   Successfully installed the file.
+2015-11-04 22:43:45.609   -- File entry --
+2015-11-04 22:43:45.609   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\ChineseSimplified.png
+2015-11-04 22:43:45.609   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.609   Installing the file.
+2015-11-04 22:43:45.609   Creating directory: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang
+2015-11-04 22:43:45.624   Successfully installed the file.
+2015-11-04 22:43:45.624   -- File entry --
+2015-11-04 22:43:45.624   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\ChineseSimplified.xml
+2015-11-04 22:43:45.624   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.624   Installing the file.
+2015-11-04 22:43:45.624   Successfully installed the file.
+2015-11-04 22:43:45.624   -- File entry --
+2015-11-04 22:43:45.624   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\ChineseTraditional.png
+2015-11-04 22:43:45.624   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.624   Installing the file.
+2015-11-04 22:43:45.624   Successfully installed the file.
+2015-11-04 22:43:45.624   -- File entry --
+2015-11-04 22:43:45.624   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\ChineseTraditional.xml
+2015-11-04 22:43:45.624   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.624   Installing the file.
+2015-11-04 22:43:45.624   Successfully installed the file.
+2015-11-04 22:43:45.624   -- File entry --
+2015-11-04 22:43:45.624   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Czech.png
+2015-11-04 22:43:45.624   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.624   Installing the file.
+2015-11-04 22:43:45.624   Successfully installed the file.
+2015-11-04 22:43:45.624   -- File entry --
+2015-11-04 22:43:45.624   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Czech.xml
+2015-11-04 22:43:45.624   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.624   Installing the file.
+2015-11-04 22:43:45.640   Successfully installed the file.
+2015-11-04 22:43:45.640   -- File entry --
+2015-11-04 22:43:45.640   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Danish.png
+2015-11-04 22:43:45.640   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.640   Installing the file.
+2015-11-04 22:43:45.640   Successfully installed the file.
+2015-11-04 22:43:45.640   -- File entry --
+2015-11-04 22:43:45.640   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Danish.xml
+2015-11-04 22:43:45.640   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.640   Installing the file.
+2015-11-04 22:43:45.640   Successfully installed the file.
+2015-11-04 22:43:45.655   -- File entry --
+2015-11-04 22:43:45.655   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Dutch.png
+2015-11-04 22:43:45.655   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.655   Installing the file.
+2015-11-04 22:43:45.655   Successfully installed the file.
+2015-11-04 22:43:45.655   -- File entry --
+2015-11-04 22:43:45.655   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Dutch.xml
+2015-11-04 22:43:45.655   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.655   Installing the file.
+2015-11-04 22:43:45.655   Successfully installed the file.
+2015-11-04 22:43:45.655   -- File entry --
+2015-11-04 22:43:45.655   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\English.png
+2015-11-04 22:43:45.655   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.655   Installing the file.
+2015-11-04 22:43:45.655   Successfully installed the file.
+2015-11-04 22:43:45.655   -- File entry --
+2015-11-04 22:43:45.655   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\English.xml
+2015-11-04 22:43:45.655   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.655   Installing the file.
+2015-11-04 22:43:45.655   Successfully installed the file.
+2015-11-04 22:43:45.655   -- File entry --
+2015-11-04 22:43:45.655   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Finnish.png
+2015-11-04 22:43:45.655   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.655   Installing the file.
+2015-11-04 22:43:45.671   Successfully installed the file.
+2015-11-04 22:43:45.671   -- File entry --
+2015-11-04 22:43:45.671   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Finnish.xml
+2015-11-04 22:43:45.671   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.671   Installing the file.
+2015-11-04 22:43:45.671   Successfully installed the file.
+2015-11-04 22:43:45.671   -- File entry --
+2015-11-04 22:43:45.671   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\French.png
+2015-11-04 22:43:45.671   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.671   Installing the file.
+2015-11-04 22:43:45.671   Successfully installed the file.
+2015-11-04 22:43:45.671   -- File entry --
+2015-11-04 22:43:45.671   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\French.xml
+2015-11-04 22:43:45.671   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.671   Installing the file.
+2015-11-04 22:43:45.671   Successfully installed the file.
+2015-11-04 22:43:45.671   -- File entry --
+2015-11-04 22:43:45.671   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\German.png
+2015-11-04 22:43:45.671   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.671   Installing the file.
+2015-11-04 22:43:45.671   Successfully installed the file.
+2015-11-04 22:43:45.687   -- File entry --
+2015-11-04 22:43:45.687   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\German.xml
+2015-11-04 22:43:45.687   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.687   Installing the file.
+2015-11-04 22:43:45.687   Successfully installed the file.
+2015-11-04 22:43:45.687   -- File entry --
+2015-11-04 22:43:45.687   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Greek.png
+2015-11-04 22:43:45.687   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.687   Installing the file.
+2015-11-04 22:43:45.687   Successfully installed the file.
+2015-11-04 22:43:45.687   -- File entry --
+2015-11-04 22:43:45.687   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Greek.xml
+2015-11-04 22:43:45.687   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.687   Installing the file.
+2015-11-04 22:43:45.687   Successfully installed the file.
+2015-11-04 22:43:45.687   -- File entry --
+2015-11-04 22:43:45.687   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Hungarian.png
+2015-11-04 22:43:45.687   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.687   Installing the file.
+2015-11-04 22:43:45.687   Successfully installed the file.
+2015-11-04 22:43:45.687   -- File entry --
+2015-11-04 22:43:45.687   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Hungarian.xml
+2015-11-04 22:43:45.702   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.702   Installing the file.
+2015-11-04 22:43:45.702   Successfully installed the file.
+2015-11-04 22:43:45.702   -- File entry --
+2015-11-04 22:43:45.702   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Italian.png
+2015-11-04 22:43:45.702   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.702   Installing the file.
+2015-11-04 22:43:45.702   Successfully installed the file.
+2015-11-04 22:43:45.702   -- File entry --
+2015-11-04 22:43:45.702   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Italian.xml
+2015-11-04 22:43:45.702   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.702   Installing the file.
+2015-11-04 22:43:45.702   Successfully installed the file.
+2015-11-04 22:43:45.702   -- File entry --
+2015-11-04 22:43:45.702   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Japanese.png
+2015-11-04 22:43:45.702   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.702   Installing the file.
+2015-11-04 22:43:45.702   Successfully installed the file.
+2015-11-04 22:43:45.702   -- File entry --
+2015-11-04 22:43:45.718   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Japanese.xml
+2015-11-04 22:43:45.718   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.718   Installing the file.
+2015-11-04 22:43:45.718   Successfully installed the file.
+2015-11-04 22:43:45.718   -- File entry --
+2015-11-04 22:43:45.718   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Norwegian.png
+2015-11-04 22:43:45.718   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.718   Installing the file.
+2015-11-04 22:43:45.718   Successfully installed the file.
+2015-11-04 22:43:45.718   -- File entry --
+2015-11-04 22:43:45.718   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Norwegian.xml
+2015-11-04 22:43:45.718   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.718   Installing the file.
+2015-11-04 22:43:45.718   Successfully installed the file.
+2015-11-04 22:43:45.718   -- File entry --
+2015-11-04 22:43:45.718   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Polish.png
+2015-11-04 22:43:45.718   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.718   Installing the file.
+2015-11-04 22:43:45.718   Successfully installed the file.
+2015-11-04 22:43:45.718   -- File entry --
+2015-11-04 22:43:45.718   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Polish.xml
+2015-11-04 22:43:45.718   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.718   Installing the file.
+2015-11-04 22:43:45.734   Successfully installed the file.
+2015-11-04 22:43:45.734   -- File entry --
+2015-11-04 22:43:45.734   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\PortugueseBrazil.png
+2015-11-04 22:43:45.734   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.734   Installing the file.
+2015-11-04 22:43:45.734   Successfully installed the file.
+2015-11-04 22:43:45.734   -- File entry --
+2015-11-04 22:43:45.734   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\PortugueseBrazil.xml
+2015-11-04 22:43:45.734   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.734   Installing the file.
+2015-11-04 22:43:45.734   Successfully installed the file.
+2015-11-04 22:43:45.734   -- File entry --
+2015-11-04 22:43:45.734   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Slovenian.png
+2015-11-04 22:43:45.734   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.734   Installing the file.
+2015-11-04 22:43:45.734   Successfully installed the file.
+2015-11-04 22:43:45.734   -- File entry --
+2015-11-04 22:43:45.734   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Slovenian.xml
+2015-11-04 22:43:45.734   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.734   Installing the file.
+2015-11-04 22:43:45.749   Successfully installed the file.
+2015-11-04 22:43:45.749   -- File entry --
+2015-11-04 22:43:45.749   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Spanish.png
+2015-11-04 22:43:45.749   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.749   Installing the file.
+2015-11-04 22:43:45.749   Successfully installed the file.
+2015-11-04 22:43:45.749   -- File entry --
+2015-11-04 22:43:45.749   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Spanish.xml
+2015-11-04 22:43:45.749   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.749   Installing the file.
+2015-11-04 22:43:45.749   Successfully installed the file.
+2015-11-04 22:43:45.749   -- File entry --
+2015-11-04 22:43:45.749   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Swedish.png
+2015-11-04 22:43:45.749   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.749   Installing the file.
+2015-11-04 22:43:45.749   Successfully installed the file.
+2015-11-04 22:43:45.749   -- File entry --
+2015-11-04 22:43:45.749   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Swedish.xml
+2015-11-04 22:43:45.749   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.749   Installing the file.
+2015-11-04 22:43:45.765   Successfully installed the file.
+2015-11-04 22:43:45.765   -- File entry --
+2015-11-04 22:43:45.765   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Turkish.png
+2015-11-04 22:43:45.765   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.765   Installing the file.
+2015-11-04 22:43:45.765   Successfully installed the file.
+2015-11-04 22:43:45.765   -- File entry --
+2015-11-04 22:43:45.765   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Lang\Turkish.xml
+2015-11-04 22:43:45.765   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.765   Installing the file.
+2015-11-04 22:43:45.765   Successfully installed the file.
+2015-11-04 22:43:45.765   -- File entry --
+2015-11-04 22:43:45.765   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\ApowersoftScreenCapturing.dll
+2015-11-04 22:43:45.765   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.765   Dest file exists.
+2015-11-04 22:43:45.765   Time stamp of existing file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.765   Version of our file: 2.0.703.0
+2015-11-04 22:43:45.796   Version of existing file: 2.0.703.0
+2015-11-04 22:43:45.796   Existing file's SHA-1 hash matches our file. Skipping.
+2015-11-04 22:43:45.796   Will register the file (a DLL/OCX) later.
+2015-11-04 22:43:45.796   -- File entry --
+2015-11-04 22:43:45.796   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\ApowersoftScreenCapturingFilter.dll
+2015-11-04 22:43:45.796   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.796   Dest file exists.
+2015-11-04 22:43:45.796   Time stamp of existing file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.796   Version of our file: 1.70.703.0
+2015-11-04 22:43:45.812   Version of existing file: 1.70.703.0
+2015-11-04 22:43:45.812   Existing file's SHA-1 hash matches our file. Skipping.
+2015-11-04 22:43:45.812   Will register the file (a DLL/OCX) later.
+2015-11-04 22:43:45.812   -- File entry --
+2015-11-04 22:43:45.812   Dest filename: F:\Softwares\Apowersoft Free Screen Recorder 2\ApowersoftVideoMixerFilter.dll
+2015-11-04 22:43:45.812   Time stamp of our file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.812   Dest file exists.
+2015-11-04 22:43:45.812   Time stamp of existing file: 2015-08-15 21:49:06.000
+2015-11-04 22:43:45.812   Version of our file: 1.0.703.0
+2015-11-04 22:43:45.827   Version of existing file: 1.0.703.0
+2015-11-04 22:43:45.827   Existing file's SHA-1 hash matches our file. Skipping.
+2015-11-04 22:43:45.827   Will register the file (a DLL/OCX) later.
+2015-11-04 22:43:45.827   -- File entry --
+2015-11-04 22:43:45.827   Dest filename: C:\Users\CHANDRASAIMOHAN\AppData\Roaming\Apowersoft\Apowersoft Free Screen Recorder 2\reg
+2015-11-04 22:43:45.827   Time stamp of our file: 2015-08-15 21:50:38.000
+2015-11-04 22:43:45.827   Installing the file.
+2015-11-04 22:43:45.827   Successfully installed the file.
+2015-11-04 22:43:45.827   -- Icon entry --
+2015-11-04 22:43:45.827   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Apowersoft\Apowersoft Free Screen Recorder 2\Apowersoft Free Screen Recorder.lnk
+2015-11-04 22:43:45.827   Creating directory: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Apowersoft
+2015-11-04 22:43:45.843   Creating directory: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Apowersoft\Apowersoft Free Screen Recorder 2
+2015-11-04 22:43:45.843   Creating the icon.
+2015-11-04 22:43:45.952   Successfully created the icon.
+2015-11-04 22:43:45.952   -- Icon entry --
+2015-11-04 22:43:45.952   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Apowersoft\Apowersoft Free Screen Recorder 2\Apowersoft Free Screen Recorder on the Web.url
+2015-11-04 22:43:45.952   Creating the icon.
+2015-11-04 22:43:45.952   Successfully created the icon.
+2015-11-04 22:43:45.952   -- Icon entry --
+2015-11-04 22:43:45.952   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Apowersoft\Apowersoft Free Screen Recorder 2\Uninstall Apowersoft Free Screen Recorder.lnk
+2015-11-04 22:43:45.952   Creating the icon.
+2015-11-04 22:43:46.077   Successfully created the icon.
+2015-11-04 22:43:46.093   -- Icon entry --
+2015-11-04 22:43:46.093   Dest filename: C:\Users\Public\Desktop\Apowersoft Free Screen Recorder.lnk
+2015-11-04 22:43:46.093   Creating the icon.
+2015-11-04 22:43:46.093   Successfully created the icon.
+2015-11-04 22:43:46.109   -- Icon entry --
+2015-11-04 22:43:46.109   Dest filename: C:\Users\CHANDRASAIMOHAN\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\Apowersoft Free Screen Recorder 2.lnk
+2015-11-04 22:43:46.109   Creating the icon.
+2015-11-04 22:43:46.109   Successfully created the icon.
+2015-11-04 22:43:46.109   -- INI entry --
+2015-11-04 22:43:46.109   Dest filename: C:\Users\CHANDRASAIMOHAN\AppData\Roaming\Apowersoft\Apowersoft Free Screen Recorder 2\config.ini 
+2015-11-04 22:43:46.109   Section: Main
+2015-11-04 22:43:46.109   Entry: Language
+2015-11-04 22:43:46.109   Value: English
+2015-11-04 22:43:46.109   Updating the .INI file.
+2015-11-04 22:43:46.109   Successfully updated the .INI file.
+2015-11-04 22:43:46.109   -- INI entry --
+2015-11-04 22:43:46.109   Dest filename: C:\Users\CHANDRASAIMOHAN\AppData\Roaming\Apowersoft\Apowersoft Free Screen Recorder 2\config.ini
+2015-11-04 22:43:46.109   Section: Main
+2015-11-04 22:43:46.109   Entry: ID
+2015-11-04 22:43:46.109   Value: 1024
+2015-11-04 22:43:46.124   Updating the .INI file.
+2015-11-04 22:43:46.124   Successfully updated the .INI file.
+2015-11-04 22:43:46.124   -- INI entry --
+2015-11-04 22:43:46.124   Dest filename: C:\Users\CHANDRASAIMOHAN\AppData\Roaming\Apowersoft\Apowersoft Free Screen Recorder 2\config.ini
+2015-11-04 22:43:46.124   Section: Main
+2015-11-04 22:43:46.124   Entry: Version
+2015-11-04 22:43:46.124   Value: V2.0.3 (Build 08/20/2015)
+2015-11-04 22:43:46.124   Updating the .INI file.
+2015-11-04 22:43:46.124   Successfully updated the .INI file.
+2015-11-04 22:43:46.124   -- INI entry --
+2015-11-04 22:43:46.124   Dest filename: C:\Users\CHANDRASAIMOHAN\AppData\Roaming\Apowersoft\Apowersoft Free Screen Recorder 2\config.ini 
+2015-11-04 22:43:46.124   Section: Main
+2015-11-04 22:43:46.124   Entry: LaunchedTimes
+2015-11-04 22:43:46.124   Value: 0
+2015-11-04 22:43:46.124   Updating the .INI file.
+2015-11-04 22:43:46.124   Successfully updated the .INI file.
+2015-11-04 22:43:46.124   -- INI entry --
+2015-11-04 22:43:46.124   Dest filename: C:\Users\CHANDRASAIMOHAN\AppData\Roaming\Apowersoft\Apowersoft Free Screen Recorder 2\config.ini 
+2015-11-04 22:43:46.124   Section: Main
+2015-11-04 22:43:46.124   Entry: Type
+2015-11-04 22:43:46.124   Value: softnic
+2015-11-04 22:43:46.124   Updating the .INI file.
+2015-11-04 22:43:46.124   Successfully updated the .INI file.
+2015-11-04 22:43:46.187   Registering 32-bit DLL/OCX: F:\Softwares\Apowersoft Free Screen Recorder 2\ApowersoftScreenCapturing.dll
+2015-11-04 22:43:46.202   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "F:\Softwares\Apowersoft Free Screen Recorder 2\ApowersoftScreenCapturing.dll"
+2015-11-04 22:43:47.101   Registration successful.
+2015-11-04 22:43:47.101   Registering 32-bit DLL/OCX: F:\Softwares\Apowersoft Free Screen Recorder 2\ApowersoftScreenCapturingFilter.dll
+2015-11-04 22:43:47.101   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "F:\Softwares\Apowersoft Free Screen Recorder 2\ApowersoftScreenCapturingFilter.dll"
+2015-11-04 22:43:47.556   Registration successful.
+2015-11-04 22:43:47.556   Registering 32-bit DLL/OCX: F:\Softwares\Apowersoft Free Screen Recorder 2\ApowersoftVideoMixerFilter.dll
+2015-11-04 22:43:47.556   Spawning 32-bit RegSvr32: "C:\WINDOWS\system32\regsvr32.exe" /s "F:\Softwares\Apowersoft Free Screen Recorder 2\ApowersoftVideoMixerFilter.dll"
+2015-11-04 22:43:47.962   Registration successful.
+2015-11-04 22:43:48.024   Installation process succeeded.
+2015-11-04 22:43:52.879   Need to restart Windows? No
+2015-11-04 22:43:56.523   -- Run entry --
+2015-11-04 22:43:56.523   Run as: Original user
+2015-11-04 22:43:56.523   Type: Exec
+2015-11-04 22:43:56.523   Filename: F:\Softwares\Apowersoft Free Screen Recorder 2\Apowersoft Free Screen Recorder 2.exe

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Apowersoft LangName="Čeština" Time="04/27/2015">
+	<Comm>
+		<Region>Oblast</Region>
+		<RegionFullScreen>Celá obrazovka</RegionFullScreen>
+		<Options>Možnosti</Options>
+		<Help>Pomoc</Help>
+		<OnlineSupport>Online podpora</OnlineSupport>
+		<Purchase>Koupit</Purchase>
+		<Updates>Zkontrolujte pro aktualizace</Updates>
+		<About>O</About>
+		<Language>jazyk</Language>
+		<Tools>Nástroje</Tools>
+		<Exit>Ukončit</Exit>
+		<UserGuide>Uživatelský průvodce</UserGuide>
+		<Register>Registrovat</Register>
+		<Forum>Fórum</Forum>
+		<Support>Podpora</Support>
+		<Screenshot>Snímek obrazovky</Screenshot>
+		<Ready>Připraven</Ready>
+		<Default>Výchozí</Default>
+		<Width>Šířka</Width>
+		<Height>Výška</Height>
+		<FileName>Název Složky</FileName>
+		<DontShowAgain>Toto znovu neukazovat</DontShowAgain>
+		<Finished>Dokončeno</Finished>
+		<HotkeyRegisterError>Horký klíč je již registrován jinými aplikacemi:</HotkeyRegisterError>
+		<OpenMainWindow>Otevřít [#AppName#]</OpenMainWindow>
+		<ResetWarnings>Všechna dialogová varování byla resetována!</ResetWarnings>
+		<ProVersion>Verze Pro</ProVersion>
+		<CloseActionTitle>Přejete si</CloseActionTitle>
+		<CloseActionMinimizeToSystemTray>Minimalizovat na systémovou lištu</CloseActionMinimizeToSystemTray>
+		<CloseActionExitProgram>Ukončit program</CloseActionExitProgram>
+		<IsStillRunning> [#AppName#] stále běží...</IsStillRunning>
+		<FaildSaveFile>Uložení obrázku selhalo</FaildSaveFile>
+		<FaildPrintImage>Tisk obrázku selhal</FaildPrintImage>
+		<FaildCopyToClipboard>Uložení obrázku do schránky selhalo</FaildCopyToClipboard>
+		<HotkeyChangeAsk>Přejete si změnit horký klíč nyní?</HotkeyChangeAsk>
+		<CaptureImageTips>Klikněte, držte a táhněte oblast</CaptureImageTips>
+		<Confirm>Confirm</Confirm>
+		<Error>Chyba</Error>
+		<Custom>Vlastní</Custom>
+		<SelectRegion>Vybrat oblast</SelectRegion>
+		<Status>Stav</Status>
+	</Comm>
+	<Button>
+		<Close>Zavřít</Close>
+		<OK>OK</OK>
+		<Cancel>Zrušit</Cancel>
+		<Register>Registrovat</Register>
+		<OrderNow>Kupte nyní</OrderNow>
+		<CopyToClipboard>Kopírovat do schránky</CopyToClipboard>
+		<SaveAs>Uložit jako...</SaveAs>
+		<Yes>Ano</Yes>
+		<No>Ne</No>
+		<Evaluate>Ohodnotit</Evaluate>
+		<Settings>Nastavení</Settings>
+		<ResetWarnings>Resetovat dialogová varování</ResetWarnings>
+		<Save>Uložit</Save>
+		<Edit>Upravit</Edit>
+		<Upload>nahrát</Upload>
+		<Share>Sdílet</Share>
+		<TakeScreenshot>Take Screenshot</TakeScreenshot>
+		<Minimizetray>Minimalizovat na lištu</Minimizetray>
+		<OpenFolder>Otevřít složku</OpenFolder>
+		<SelectAll>Vybrat vše</SelectAll>
+		<DeselectAll>Zrušit výběr všeho</DeselectAll>
+		<ReCapture>Opětovný Snímek</ReCapture>
+		<SendEmail>Odeslat E-mail</SendEmail>
+		<Print>Tisknout</Print>
+	</Button>
+	<Options>
+		<General>Obecné</General>
+		<AutoStart>Spustit program po spuštění Windows</AutoStart>
+		<ConfirmQuit>Upozornit, když se program zavře</ConfirmQuit>
+		<HideInterface>Minimalizovat na lištu během nahrávání </HideInterface>
+		<IncludeCursor>Zahrnout kurzor do snímku</IncludeCursor>
+		<HotkeyEnable>Povolit zkratky kláves</HotkeyEnable>
+		<HotkeyScreenshot>Zkratky pro Screenshot</HotkeyScreenshot>
+		<HotkeyStartRecording>Spustit nahrávání</HotkeyStartRecording>
+		<HotkeyStopRecording>Zastavit nahrávání</HotkeyStopRecording>
+		<HotkeyPauseRecording>Pozastavit/obnovit nahrávání</HotkeyPauseRecording>
+		<HotkeyShowRecToolbar>Zobrazit/skrýt panel nástrojů</HotkeyShowRecToolbar>
+		<DefaultOutputDir>Výchozí výstupní složka:</DefaultOutputDir>
+		<ChooseOutputFolder>Choose the output folder</ChooseOutputFolder>
+		<Recording>Nahrávání</Recording>
+		<ShowCountdown>Zobrazit odpočítávání před nahráváním</ShowCountdown>
+		<Beep>Zvukový signál při spuštění nahrávání</Beep>
+		<ShowBoundary>Zobrazit rozsah nahrávky</ShowBoundary>
+		<ShowToolbar>Zobrazit panel nástrojů</ShowToolbar>
+		<RecordOnStart>Nahrávat automaticky, když se spustě program</RecordOnStart>
+		<VideoFormat>Formát videa:</VideoFormat>
+		<OptimizeVideo>Optimalizovat video</OptimizeVideo>
+		<DisableScreenSaver>Zakázat spořič obrazovky</DisableScreenSaver>
+		<HideDesktopIcons>Skrýt ikony na ploše</HideDesktopIcons>
+		<HideTaskbar>Automaticky skrýt hlavní panel</HideTaskbar>
+		<Advanced>Pokročilé nastavení</Advanced>
+		<MouseStyleSettings>Nastavení stylu myši</MouseStyleSettings>
+		<AudioInputSettings>Nastavení zvukového vstupu</AudioInputSettings>
+		<AdvVideoSettings>Pokročilá nastavení videa</AdvVideoSettings>
+		<SystemSound>Systémový zvuk:</SystemSound>
+		<Microphone>Mikrofon:</Microphone>
+		<AudioQuality>Kvalita zvuku:</AudioQuality>
+		<OpenSoundDialog>Otevřít zvukový dialog</OpenSoundDialog>
+		<Format>Formát</Format>
+		<Codec>Kodek:</Codec>
+		<Bitrate>Bitový tok:</Bitrate>
+		<FrameRate>Snímků za vteřinu:</FrameRate>
+		<AccessibleMode>Povolit režim usnadnění přístupu</AccessibleMode>
+		<AnimateMouseButtons>Animovaná tlačítka myši</AnimateMouseButtons>
+		<AnimateMouseClicks>Animované kliknutí myší</AnimateMouseClicks>
+		<LeftMouseClickColor>Barva animace kliknutí u levého tlačítka:</LeftMouseClickColor>
+		<RightMouseClickColor>Barva animace kliknutí u pravého tlačítka:</RightMouseClickColor>
+		<ShowMouseHotspot>Zobrazit aktivní bod myši</ShowMouseHotspot>
+		<MouseHotspotColor>Barva aktivního bodu myši:</MouseHotspotColor>
+		<MouseHotspotSize>Velikost aktivního bodu myši:</MouseHotspotSize>
+	</Options>
+	<PaintEdit>
+		<Rectangle>Obdélník</Rectangle>
+		<Ellipse>Elipsa</Ellipse>
+		<Arrow>Šipka</Arrow>
+		<CurveArrow>Zahnutá šipka</CurveArrow>
+		<Pencil>Pero</Pencil>
+		<HighLight>Zvýraznit</HighLight>
+		<Text>Text</Text>
+		<Undo>Zpět</Undo>
+		<Clear>Vyčistit</Clear>
+		<Line>Čára</Line>
+		<Thin>Tenký</Thin>
+		<Medium>Střední</Medium>
+		<Thick>Silný</Thick>
+		<Blur>Rozmazat</Blur>
+		<BlurPixelate>Pixely</BlurPixelate>
+		<BlurSmooth>Zjemnit</BlurSmooth>
+	</PaintEdit>
+	<Register>
+		<TrialVersion>Toto je zkušební verze</TrialVersion>
+		<Tips>Po registraci vám program umožní plně využívat všechny funkce, informujtese o aktualizacích a informacích o našich produktech.</Tips>
+		<Note>Note: E-mailová adresa je případně senzitivní.</Note>
+		<EmailAddress>E-mailová adresa</EmailAddress>
+		<LicenseCode>Licenční kód</LicenseCode>
+		<ThankYou>Děkujeme za registraci</ThankYou>
+		<RegistredFor>Registrováno pro [#email@email.com#]</RegistredFor>
+		<InvalidLicense>Licenční kód je neplatný nebo se neshoduje s touto verzí.</InvalidLicense>
+		<InvalidEmail>Neplatná E-mailová adresa![#NewLine#]Prosím ujistěte se, že zadáváte správnou e-mailovou adresu.</InvalidEmail>
+		<ChangeLicense>Změnit licenci</ChangeLicense>
+		<TechnicalSupport>Technická podpora</TechnicalSupport>
+		<TrialVersionReminder>Upozornění zkušební kopie</TrialVersionReminder>
+		<Benefits>Zakupte nyní a získejte tyto výhody</Benefits>
+		<BenefitsGot>Máte tyto výhody</BenefitsGot>
+		<Benefits1> Žádná další upozornění na vodoznak.</Benefits1>
+		<Benefits2> Žádná omezení funkcí.</Benefits2>
+		<Benefits3> Aktualizace zdarma v rámci hlavní verze.</Benefits3>
+		<Benefits4> Doživotní technická podpora e-mailem zdarma.</Benefits4>
+		<Benefits5> 30-denní záruka vrácení peněz.</Benefits5>
+		<TrialDaysLeft>Zkušební verze vyprší po [#Days#] dnu(dnech)</TrialDaysLeft>
+		<TrialExpired>Zkušební verze vypršela</TrialExpired>
+	</Register>
+	<Updates>
+		<NewVersion>Nová verze [#AppName#].[#NewLine#] byla zjištěna, přejete si aktualizovat nyní?</NewVersion>
+		<LatestVersion>Používáte poslední verzi!</LatestVersion>
+	</Updates>
+	<SchedulerTask>
+		<Title>Plánovač úloh</Title>
+		<CreateTask>Vytvořit úlohu</CreateTask>
+		<TaskList>Seznam úloh</TaskList>
+		<TaskName>Jméno</TaskName>
+		<Trigger>Spouštěč</Trigger>
+		<Daily>Jednou denně</Daily>
+		<Weekly>Jednou týdně</Weekly>
+		<StartTime>Čas spuštění</StartTime>
+		<Duration>Trvání</Duration>
+		<RepeatRec>Zopakovat nahrávání</RepeatRec>
+		<StopManually>Manuálně zastavit nahrávání</StopManually>
+		<RepeatTimes>Zopakovat časy</RepeatTimes>
+		<StopTime>Čas zastavení</StopTime>
+		<Stop>Zastavit</Stop>
+		<Delete>Smazat</Delete>
+		<Action>Činnost</Action>
+		<RecFullscreen>Nahrát celou obrazovku</RecFullscreen>
+		<RecRegion>Nahrát vybranou oblast</RecRegion>
+		<SelectRegion>Vybrat oblast</SelectRegion>
+		<RecOnlyAudio>Nahrát pouze audio</RecOnlyAudio>
+		<Shutdown>Ukončit</Shutdown>
+		<ShutdownAfterFinish>Vypnout počítač po dokončení úlohy</ShutdownAfterFinish>
+		<Create>Vytvořit</Create>
+		<Sunday>Neděle</Sunday>
+		<Monday>Pondělí</Monday>
+		<Tuesday>Úterý</Tuesday>
+		<Wednesday>Středa</Wednesday>
+		<Thursday>Čtvrtek</Thursday>
+		<Friday>Pátek</Friday>
+		<Saturday>Sobota</Saturday>
+		<TaskNameWarn>Jméno úlohy nemůže být prázdné nebo stejné jako jméno již existující úlohy.</TaskNameWarn>
+		<StartTimeWarn>Nastavte prosím příště čas spuštění.</StartTimeWarn>
+		<IntervalWarn>Prodleva by němela být menší než 1 vteřina.</IntervalWarn>
+		<StopTimeWarn>Nastavte prosím čas zastavení jako pozdější než čas spuštění.</StopTimeWarn>
+		<RegionWarn>Vlastní oblast by neměla být prázdná.</RegionWarn>
+		<DailyTime>V [#time#] každý den</DailyTime>
+		<Waiting>Čekání</Waiting>
+		<Running>Běží</Running>
+		<Stopped>Zastaveno</Stopped>
+		<NoScheduleTask>Žádné úkoly na programu</NoScheduleTask>
+		<ClosestTaskCountdown>Nejbližší úkoly na programu zbývají  [#time#]</ClosestTaskCountdown>
+	</SchedulerTask>
+	<Screenshot>
+		<HideInterface>Skýt při screenshotu</HideInterface>
+		<IncludeCursor>Zachytit kurzor myši</IncludeCursor>
+	</Screenshot>
+	<Record>
+		<Record>Nahrávat</Record>
+		<Start>Spustit</Start>
+		<Pause>Přerušit</Pause>
+		<Resume>Obnovit</Resume>
+		<Stop>Zastavit</Stop>
+		<ShowToolbar>Zobrazit panel nástrojů</ShowToolbar>
+		<AudioInput>Zvukový vstup</AudioInput>
+		<AroundMouse>Kolem myši</AroundMouse>
+		<WebCamera>Webkamera</WebCamera>
+		<OnlyAudio>Jen zvuk</OnlyAudio>
+		<None>Nic</None>
+		<SystemSound>Systémový zvuk</SystemSound>
+		<Microphone>Mikrofon</Microphone>
+		<SysSoundAndMicrophone>Systémový zvuk a mikrofon</SysSoundAndMicrophone>
+		<ViewLogs>Zobrazit zápisky</ViewLogs>
+		<Processing>Zpracovávám</Processing>
+		<FileName>Název souboru</FileName>
+		<Size>Velikost</Size>
+		<Duration>Délka trvání</Duration>
+		<Delete>Smazat</Delete>
+		<Remove>Odstranit</Remove>
+		<Rename>Přejmenovat</Rename>
+		<Play>Přehrát</Play>
+		<Convert>Konvertovat</Convert>
+		<VideoEdit>Úprava videa</VideoEdit>
+		<RemoveTip>Opravdu chcete odstranit vybrané soubory ze seznamu?</RemoveTip>
+		<DeleteTip>Opravdu chcete vybrané soubory trvale odstranit?</DeleteTip>
+		<FileNotFound>Požadovaný soubor nebyl nalezen:</FileNotFound>
+		<FileNameExist>Soubor s tímto jménem již v této složce existuje:</FileNameExist>
+		<AudioQualityHigh>Vysoká</AudioQualityHigh>
+		<AudioQualityStandard>Standardní</AudioQualityStandard>
+		<AudioQualityLow>Nízká</AudioQualityLow>
+		<Recording>Nahrávám...</Recording>
+		<Paused>Pozastaveno</Paused>
+		<Volume>Objem</Volume>
+		<ConnectCameraTip>Ouha, toto vyžaduje webkameru. Připojte prosím webkameru a zkuste to znovu.</ConnectCameraTip>
+		<SelectCamera>Vyberte webkameru</SelectCamera>
+		<OutputResolution>Výstupní rozlišení</OutputResolution>
+		<ComponentsError>Chyba v nahrávací komponentě. Chcete ji ihned opravit?</ComponentsError>
+		<FixSucceed>Chyba byla úspěšně opravena!</FixSucceed>
+		<FixFail>Nepodařilo se chybu opravit, přeinstalujte prosím program.</FixFail>
+	</Record>
+	<Upload>
+		<ToYouTube>Nahrát na YouTube</ToYouTube>
+		<ToFTP>Nahrát na FTP</ToFTP>
+		<Settings>Nahrát nastavení</Settings>
+		<OnYouTubeCom>Nahrát na youtube.com</OnYouTubeCom>
+		<Login>Přihlášení</Login>
+		<YouTubeUserName>Uživatelské jméno:</YouTubeUserName>
+		<UserNameNotBlank>E-mail by neměl zůstat prázdný</UserNameNotBlank>
+		<Password>Heslo:</Password>
+		<PasswordNotBlank>Heslo by nemělo zůstat prázdné</PasswordNotBlank>
+		<YouTubeLoginNote>Poznámka: Musíte povolit "Přístup pro méně zabezpečené aplikace" pro nahrání videí na YouTube.</YouTubeLoginNote>
+		<OpenWeb>Otevřít stránku videa po dokončení uploadu</OpenWeb>
+		<SetVideoInfo>Nastavce informace o videu před nahráním</SetVideoInfo>
+		<FtpServer>FTP server</FtpServer>
+		<FtpHostName>Jméno hosta:</FtpHostName>
+		<FtpHostNameTip>Jméno nebo  IP adresa FTP serveru</FtpHostNameTip>
+		<FtpUserName>Uživatelské jméno:</FtpUserName>
+		<FtpPort>Port:</FtpPort>
+		<FtpPortTip>Pokud zůstane prázdné, výchozí port 21 bude použit</FtpPortTip>
+		<FtpUserNameTip> Pokud zůstane prázdné, bude použit anonymní uživatel</FtpUserNameTip>
+		<FtpPasswordTip>Heslo uživatele, nechte jej prázdné pokud je použit anonymní uživatel</FtpPasswordTip>
+		<FtpRemoteDir>Vzdálený rozcestník:</FtpRemoteDir>
+		<FtpRemoteDirTip>Pokud zůstane prázdné, bude nastaven kořenový rozcestník</FtpRemoteDirTip>
+		<HostNotBlank>Jméno hosta by nemělo být prázdné</HostNotBlank>
+		<PasswordNeed>Heslo musí být specifikované pro neanonymního uživatele</PasswordNeed>
+		<VideoInfo>informace o videu</VideoInfo>
+		<File>Složka:</File>
+		<Title>Název:</Title>
+		<Desc>Popis:</Desc>
+		<Tags>Štítky:</Tags>
+		<Category>kategorie:</Category>
+		<TagsTip>Oddělit tagy ","</TagsTip>
+		<Public>Veřejné</Public>
+		<Private>Soukromé</Private>
+		<Successful>Úspěšně nahráno</Successful>
+		<Failed>Upload se nezdařil</Failed>
+		<Waiting>Čekání na upload</Waiting>
+		<Uploading>Upload</Uploading>
+		<CheckNetwork>Prosím, zkontrolujte připojení sítě se serverem</CheckNetwork>
+		<PermissionDenied>Povolení zamítnuto</PermissionDenied>
+		<AuthFailed>Ověření selhalo</AuthFailed>
+		<ImageTitle>Nahrát na [#Website#]</ImageTitle>
+		<ImageSecurityTips>Vaše složky jsou 100% bezpečné s bezpečnostní ochranou</ImageSecurityTips>
+		<Optional>Volitelné</Optional>
+		<OptionalTitle>Název</OptionalTitle>
+		<OptionalPassword>Heslo</OptionalPassword>
+		<TitleTips>Můžete nastavit jméno pro tento obrázek</TitleTips>
+		<PassswordTips>Vyžádejte si od návštěvníků heslo pro shlédnutí obrázku</PassswordTips>
+		<ShareOn>Sdílet na [#Twitter#]</ShareOn>
+		<YouTubeFileHelp>Neplatný formát souboru, zjistěte, jak jej převést do formátu kompatibilního s YouTube.</YouTubeFileHelp>
+		<NotYouTubeSupported>Váš soubor není YouTube podporován:</NotYouTubeSupported>
+		<ContinueUploading>Pokračovat v nahrávání?</ContinueUploading>
+	</Upload>	
+</Apowersoft>

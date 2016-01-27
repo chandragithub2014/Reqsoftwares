@@ -1,0 +1,38 @@
+http://forum.xda-developers.com/moto-360/general/guide-install-apk-moto-360-t3028067	
+
+Require Minimal ADB and Fastboot:
+
+
+
+//
+
+C:\Program Files (x86)\Minimal ADB and Fastboot>adb forward tcp:4444 localabstract:/adb-hub
+
+C:\Program Files (x86)\Minimal ADB and Fastboot>adb connect localhost:4444
+connected to localhost:4444
+
+C:\Program Files (x86)\Minimal ADB and Fastboot>adb devices
+List of devices attached
+FA51TWM00051    device
+localhost:4444  device
+
+
+C:\Program Files (x86)\Minimal ADB and Fastboot>adb -s localhost:4444 install E:\Android_studio_workspace\OMSWatch\wear\build\outputs\apk\wear-debug.apk
+45 KB/s (2776341 bytes in 59.324s)
+        pkg: /data/local/tmp/wear-debug.apk
+Success
+
+C:\Program Files (x86)\Minimal ADB and Fastboot>
+
+
+
+
+
+
+
+//
+
+
+//adb forward tcp:4444 localabstract:/adb-hub
+
+adb connect 127.0.0.1:4444

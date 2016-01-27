@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Apowersoft LangName="Türkçe" Time="04/27/2015">
+	<Comm> 
+		<Region>Bölge</Region>
+		<RegionFullScreen>Tam ekran</RegionFullScreen>
+		<Options>Seçenekler</Options>
+		<Help>Yardım</Help>
+		<OnlineSupport>Çevrimiçi Destek</OnlineSupport>
+		<Purchase>Satın Al</Purchase>
+		<Updates>Güncellemeleri denetle</Updates>
+		<About>Hakkımızda</About>
+		<Language>Dil</Language>
+		<Tools>Araçlar</Tools>
+		<Exit>Çıkış</Exit>
+		<UserGuide>Kullanıcı kılavuzu</UserGuide>
+		<Register>Kayıt Ol</Register>
+		<Forum>Forum</Forum>
+		<Support>Destek</Support>
+		<Screenshot>Ekran Görüntüsü</Screenshot>
+		<Ready>Hazır</Ready>
+		<Default>Varsayılan</Default>
+		<Width>En</Width>
+		<Height>Boy</Height>
+		<FileName>Dosya Adı</FileName>
+		<DontShowAgain>Bir daha gösterme</DontShowAgain>
+		<Finished>Tamamlandı</Finished>
+		<HotkeyRegisterError>Kısayol başka bir uygulama için tanımlı:</HotkeyRegisterError>
+		<OpenMainWindow>[#AppName#]yı aç</OpenMainWindow>
+		<ResetWarnings>Bütün uyarı mesajları başlangıç ayarlarına döndürüldü!</ResetWarnings>
+		<ProVersion>Pro Sürümü</ProVersion>
+		<CloseActionTitle>İstiyor musun</CloseActionTitle>
+		<CloseActionMinimizeToSystemTray>Görev Çubuğuna Küçült</CloseActionMinimizeToSystemTray>
+		<CloseActionExitProgram>Programdan çık</CloseActionExitProgram>
+		<IsStillRunning>[#AppName#] hala çalışıyor...</IsStillRunning>
+		<FaildSaveFile>İmaj kaydedilemedi</FaildSaveFile>
+		<FaildPrintImage>İmaj basılamadı</FaildPrintImage>
+		<FaildCopyToClipboard>İmaj klipborda kopyalanamadı</FaildCopyToClipboard>
+		<HotkeyChangeAsk>Kısayolu şimdi değiştirmek istiyor musun?</HotkeyChangeAsk>
+		<CaptureImageTips>Bölge seçmek için tıkla ve sürükle</CaptureImageTips>
+		<Confirm>Onayla</Confirm>
+		<Error>Hata</Error>
+		<Custom>Kişiselleştir</Custom>
+		<SelectRegion>Bölge seç</SelectRegion>
+		<Status>Durum</Status>
+	</Comm>
+	<Button> 
+		<Close>Kapat</Close>
+		<OK>Tamam</OK>
+		<Cancel>İptal</Cancel>
+		<Register>Kayıt Ol</Register>
+		<OrderNow>Satın Al</OrderNow>
+		<CopyToClipboard>Klipborda kopyala</CopyToClipboard>
+		<SaveAs>Farklı kaydet...</SaveAs>
+		<Yes>Evet</Yes>
+		<No>Hayır</No>
+		<Evaluate>Değerlendir</Evaluate>
+		<Settings>Ayarlar</Settings>
+		<ResetWarnings>Uyarı mesajlarını başlangıç ayarlarına döndür</ResetWarnings>
+		<Save>Kaydet</Save>
+		<Edit>Düzenle</Edit>
+		<Upload>Yükle</Upload>
+		<Share>Paylaş</Share>
+		<TakeScreenshot>Ekran Görüntüsü Al</TakeScreenshot>
+		<Minimizetray>Görev Çubuğuna Küçült</Minimizetray>
+		<OpenFolder>Klasör Aç</OpenFolder>
+		<SelectAll>Hepsini seç</SelectAll>
+		<DeselectAll>Seçilenleri Geri Al</DeselectAll>
+		<ReCapture>Tekrar Ekran Görüntüsü Al</ReCapture>
+		<SendEmail>E-mail Gönder</SendEmail>
+		<Print>Yazdır</Print>
+	</Button>
+	<Options>
+		<General>Genel</General>
+		<AutoStart>Windows başladığında programı başlat</AutoStart>
+		<ConfirmQuit>Program kapandığında uyar</ConfirmQuit>
+		<HideInterface>Kayıt sırasında küçült </HideInterface>
+		<IncludeCursor>Ekran görüntüsünde mouse izini dahil et</IncludeCursor>
+		<HotkeyEnable>Klavye kısayollarını etkinleştir</HotkeyEnable>
+		<HotkeyScreenshot>Ekran Görüntüsü Kısayolu</HotkeyScreenshot>
+		<HotkeyStartRecording>Kayda başla</HotkeyStartRecording>
+		<HotkeyStopRecording>Kaydı durdur</HotkeyStopRecording>
+		<HotkeyPauseRecording>Kaydı Duraklat/Yeniden başlat</HotkeyPauseRecording>
+		<HotkeyShowRecToolbar>Kayıt Araç Çubuğunu Göster/Gizle</HotkeyShowRecToolbar>
+		<DefaultOutputDir>Varsayılan çıktı dizini:</DefaultOutputDir>
+		<ChooseOutputFolder>Ekran görüntülerini kaydetmek için klasör seç</ChooseOutputFolder>
+		<Recording>Kaydediyor</Recording>
+		<ShowCountdown>Kayıttan önce geri sayımı göster</ShowCountdown>
+		<Beep>Kayıt Başladığında ses çıkar</Beep>
+		<ShowBoundary>Kayıt sınırını göster</ShowBoundary>
+		<ShowToolbar>Kayıt araç çubuğunu göster</ShowToolbar>
+		<RecordOnStart>Record automatically when the program starts</RecordOnStart>
+		<VideoFormat>Video formatı:</VideoFormat>
+		<OptimizeVideo>Videoyu optimize et</OptimizeVideo>
+		<DisableScreenSaver>Ekran koruyucuyu devre dışı bırak</DisableScreenSaver>
+		<HideDesktopIcons>Masaüstü simgeleri gizle</HideDesktopIcons>
+		<HideTaskbar>Görev çubuğunu otomatik gizle</HideTaskbar>
+		<Advanced>Gelişmiş</Advanced>
+		<MouseStyleSettings>Fare stili ayarları</MouseStyleSettings>
+		<AudioInputSettings>Ses girdisi ayarları</AudioInputSettings>
+		<AdvVideoSettings>Gelişmiş video seçenekleri</AdvVideoSettings>
+		<SystemSound>Sistem sesi:</SystemSound>
+		<Microphone>Mikrofon:</Microphone>
+		<AudioQuality>Ses kalitesi:</AudioQuality>
+		<OpenSoundDialog>Ses diyaloğunu aç</OpenSoundDialog>
+		<Format>Format</Format>
+		<Codec>Kodek:</Codec>
+		<Bitrate>Bithızı:</Bitrate>
+		<FrameRate>Çerçeve hızı:</FrameRate>
+		<AccessibleMode>Erişilebilirlik modunu etkinleştir</AccessibleMode>
+		<AnimateMouseButtons>Hareketli fare butonları</AnimateMouseButtons>
+		<AnimateMouseClicks>Hareketli fare tıkları</AnimateMouseClicks>
+		<LeftMouseClickColor>Tıklama animasyon rengi:</LeftMouseClickColor>
+		<RightMouseClickColor>Sağ tık animasyon rengi:</RightMouseClickColor>
+		<ShowMouseHotspot>Fare hotspot'unu göster</ShowMouseHotspot>
+		<MouseHotspotColor>Fare hotspot rengi:</MouseHotspotColor>
+		<MouseHotspotSize>Fare hot spot boyu:</MouseHotspotSize>
+	</Options>
+	<PaintEdit> 
+		<Rectangle>Dikdörtgen</Rectangle>
+		<Ellipse>Elips</Ellipse>
+		<Arrow>Ok</Arrow>
+		<CurveArrow>Kıvrık Ok</CurveArrow>
+		<Pencil>Kalem</Pencil>
+		<HighLight>Seç</HighLight>
+		<Text>Yazı</Text>
+		<Undo>Geri Al</Undo>
+		<Clear>Temizle</Clear>
+		<Line>Çizgi</Line>
+		<Thin>İnce</Thin>
+		<Medium>Orta</Medium>
+		<Thick>Kalın</Thick>
+		<Blur>Bulanık</Blur>
+		<BlurPixelate>Pikselle</BlurPixelate>
+		<BlurSmooth>Düz</BlurSmooth>
+	</PaintEdit>
+	<Register> 
+		<TrialVersion>Deneme sürümü</TrialVersion>
+		<Tips>Kayıt olduktan sonra, program tüm özellikleri kullanmanızı sağlar, güncellemelerden ve ürünle ilgili bilgileri almanızı sağlar.</Tips>
+		<Note>Not: E-mail adresi büyük harf küçük harf duyarlıdır.</Note>
+		<EmailAddress>E-mail Adresi</EmailAddress>
+		<LicenseCode>Lisans Kodu</LicenseCode>
+		<ThankYou>Kayıt olduğunuz için teşekkür ederiz</ThankYou>
+		<RegistredFor>[#email@email.com#] adına kayıtlı</RegistredFor>
+		<InvalidLicense>Lisans kodu geçersiz, veya bu sürüme ait değil.</InvalidLicense>
+		<InvalidEmail>Geçersiz E-mail adresi![#NewLine#]Lütfen doğru E-mail adresi yazdığınızdan emin olun.</InvalidEmail>
+		<ChangeLicense>Lisans Değiştir</ChangeLicense>
+		<TechnicalSupport>Teknik destek</TechnicalSupport>
+		<TrialVersionReminder>Deneme sürümü hatırlatması</TrialVersionReminder>
+		<Benefits>Şimdi satın alın ve bu özelliklere sahip olun</Benefits>
+		<BenefitsGot>Bu haklara sahip oldunuz</BenefitsGot>
+		<Benefits1> Uyarı mesajı ve filigran yok.</Benefits1>
+		<Benefits2> Bütün fonksiyonlara limitsiz erişim.</Benefits2>
+		<Benefits3> Aynı sürüm içinde ücretsiz güncelleme.</Benefits3>
+		<Benefits4> E-mail ile ömürboyu teknik destek.</Benefits4>
+		<Benefits5> 30-gün para iade garantisi.</Benefits5>
+		<TrialDaysLeft>Deneme sürümü [#Days#] gün sonra bitecek</TrialDaysLeft>
+		<TrialExpired>Deneme süresi doldu</TrialExpired>
+	</Register>
+	<Updates>
+		<NewVersion>[#AppName#] uygulamasının yeni bir sürümü mevcut.[#NewLine#] bulundu, şimdi güncellemek ister misiniz?</NewVersion>
+		<LatestVersion>En son sürümü kullanıyorsunuz!</LatestVersion>
+	</Updates>
+	<SchedulerTask>
+		<Title>Görev Programlayıcı</Title>
+		<CreateTask>Görev Yarat</CreateTask>
+		<TaskList>Görev Listesi</TaskList>
+		<TaskName>İsim</TaskName>
+		<Trigger>Tetik</Trigger>
+		<Daily>Günlük</Daily>
+		<Weekly>Haftalık</Weekly>
+		<StartTime>Başlangıç</StartTime>
+		<Duration>Süre</Duration>
+		<RepeatRec>Kaydı tekrarla</RepeatRec>
+		<StopManually>Kaydı Elle Durdur</StopManually>
+		<RepeatTimes>Tekrar Sayısı</RepeatTimes>
+		<StopTime>BitişZamanı</StopTime>
+		<Stop>Stop</Stop>
+		<Delete>Delete</Delete>
+		<Action>Eylem</Action>
+		<RecFullscreen>Tam ekran kayıt</RecFullscreen>
+		<RecRegion>Özel alan kayıt</RecRegion>
+		<SelectRegion>Bölge seç</SelectRegion>
+		<RecOnlyAudio>Sadece ses kayıt</RecOnlyAudio>
+		<Shutdown>Kapat</Shutdown>
+		<ShutdownAfterFinish>Görev tamamlandığında bilgisayarı kapat</ShutdownAfterFinish>
+		<Create>Oluştur</Create>
+		<Sunday>Pazar</Sunday>
+		<Monday>Pazartesi</Monday>
+		<Tuesday>Salı</Tuesday>
+		<Wednesday>Çarşamba</Wednesday>
+		<Thursday>Perşembe</Thursday>
+		<Friday>Cuma</Friday>
+		<Saturday>Cumartesi</Saturday>
+		<TaskNameWarn>Görev adı boş ya da başka bir görev adıyla aynı olamaz.</TaskNameWarn>
+		<StartTimeWarn>Lütfen gelecekte bir zaman tanımlayın.</StartTimeWarn>
+		<IntervalWarn>Aralık 1 saniyeden az olamaz.</IntervalWarn>
+		<StopTimeWarn>Lütfen bitiş zamanını başlangıç zamanından sonraya ayarlayın.</StopTimeWarn>
+		<RegionWarn>Seçili bölge boş olamaz.</RegionWarn>
+		<DailyTime>At [#time#] hergün</DailyTime>
+		<Waiting>Bekliyor</Waiting>
+		<Running>Çalışıyor</Running>
+		<Stopped>Durdu</Stopped>
+		<NoScheduleTask>Programlanmış görev yok</NoScheduleTask>
+		<ClosestTaskCountdown>En yakın programlanmış göreve [#time#] kaldı</ClosestTaskCountdown>
+	</SchedulerTask>
+	<Screenshot>
+		<HideInterface>Ekran görüntüsü alındığında beni gizle</HideInterface>
+		<IncludeCursor>Mouse hareketlerini kaydet</IncludeCursor>
+	</Screenshot>
+	<Record>
+		<Record>Kaydet</Record>
+		<Start>Başlat</Start>
+		<Pause>Duraklat</Pause>
+		<Resume>Yeniden Başlat</Resume>
+		<Stop>Durdur</Stop>
+		<ShowToolbar>Araç çubuğunu göster</ShowToolbar>
+		<AudioInput>Ses girdisi</AudioInput>
+		<AroundMouse>Fare etrafında</AroundMouse>
+		<WebCamera>Web kamerası</WebCamera>
+		<OnlyAudio>Sadece ses</OnlyAudio>
+		<None>Hiçbiri</None>
+		<SystemSound>Sistem sesi</SystemSound>
+		<Microphone>Mikrofon</Microphone>
+		<SysSoundAndMicrophone>Sistem sesi ve mikrofon</SysSoundAndMicrophone>
+		<ViewLogs>Logları görüntüle</ViewLogs>
+		<Processing>İşleniyor</Processing>
+		<FileName>Dosya adı</FileName>
+		<Size>Boyut</Size>
+		<Duration>Süre</Duration>
+		<Delete>Sil</Delete>
+		<Remove>Kaldır</Remove>
+		<Rename>Yeniden Adlandır</Rename>
+		<Play>Oynat</Play>
+		<Convert>Çevir</Convert>
+		<VideoEdit>Video Düzenle</VideoEdit>
+		<RemoveTip>Seçili dosya(lar)yı listeden silmek istediğine emin misin?</RemoveTip>
+		<DeleteTip>Seçili dosya(lar)ı tamamen silmek istediğine emin misin?</DeleteTip>
+		<FileNotFound>Belirtilen dosya bulunamadı:</FileNotFound>
+		<FileNameExist>Bu dizinde aynı adlı bir dosya zaten var:</FileNameExist>
+		<AudioQualityHigh>Yüksek</AudioQualityHigh>
+		<AudioQualityStandard>Standart</AudioQualityStandard>
+		<AudioQualityLow>Düşük</AudioQualityLow>
+		<Recording>Kaydediyor...</Recording>
+		<Paused>Duraklatıldı</Paused>
+		<Volume>Birim</Volume>
+		<ConnectCameraTip>Bu işlem için web kamerası gerekli. Lütfen önce bir web kamerası bağlayıp yeniden dene.</ConnectCameraTip>
+		<SelectCamera>Web kamerası seç</SelectCamera>
+		<OutputResolution>Çıktı çözünürlüğü</OutputResolution>
+		<ComponentsError>Kayıt hatası, düzeltmek ister misiniz?</ComponentsError>
+		<FixSucceed>Problem başarıyla düzeltildi.</FixSucceed>
+		<FixFail>Problem düzeltilemedi, lütfen programı tekrar kurmayı deneyin.</FixFail>
+	</Record>
+	<Upload>
+		<ToYouTube>YouTube'a Yükle</ToYouTube>
+		<ToFTP>FTP'ye yükle</ToFTP>
+		<Settings>Ayarları yükle</Settings>
+		<OnYouTubeCom>youtube.com'a yükle</OnYouTubeCom>
+		<Login>Giriş Yap</Login>
+		<YouTubeUserName>Kullanıcı Adı(Email):</YouTubeUserName>
+		<UserNameNotBlank>Eposta boş bırakılamaz</UserNameNotBlank>
+		<Password>Şifre:</Password>
+		<PasswordNotBlank>Şifre boş bırakılamaz</PasswordNotBlank>
+		<YouTubeLoginNote>Not: YouTube'a video yüklemek için "Daha az güvenli uygulamalara erişim" seçeneğini etkinleştirmelisin.</YouTubeLoginNote>
+		<OpenWeb>Yükleme tamamlandığında video sayfasını aç</OpenWeb>
+		<SetVideoInfo>Yüklemeden önce video bilgisini ayarla</SetVideoInfo>
+		<FtpServer>FTP sunucusu</FtpServer>
+		<FtpHostName>Sunucu ismi:</FtpHostName>
+		<FtpHostNameTip>FTP sunucusunun ismi veya IP adresi</FtpHostNameTip>
+		<FtpPort>Port:</FtpPort>
+		<FtpPortTip>Boş bırakılırsa otomatik olarak port 21 kullanılacaktır</FtpPortTip>
+		<FtpUserName>Kullanıcı Adı:</FtpUserName>
+		<FtpUserNameTip>Boş bırakılırsa, misafir kullanıcı kullanılacaktır </FtpUserNameTip>
+		<FtpPasswordTip>Misafir kullanıcıysan Kullanıcı Şifresi kısmını boş bırak</FtpPasswordTip>
+		<FtpRemoteDir>Uzak dizin:</FtpRemoteDir>
+		<FtpRemoteDirTip>Boş bırakılırsa kök dizin ayarlanacaktır</FtpRemoteDirTip>
+		<HostNotBlank>Sunucu adı boş bırakılamaz</HostNotBlank>
+		<PasswordNeed>Misafir olmayan kullanıcılar için şifre belirtilmelidir</PasswordNeed>
+		<VideoInfo>Video bilgisi</VideoInfo>
+		<File>Dosya:</File>
+		<Title>Başlık:</Title>
+		<Desc>Açıklama:</Desc>
+		<Tags>Anahtar kelimeler:</Tags>
+		<Category>Kategori:</Category>
+		<TagsTip>Etiketleri şununla ayır ","</TagsTip>
+		<Public>Herkese açık</Public>
+		<Private>Özel</Private>
+		<Successful>Başarıyla yüklendi</Successful>
+		<Failed>Yükleme başarısız</Failed>
+		<Waiting>Yükleme işlemi bekleniyor</Waiting>
+		<Uploading>Yükleniyor</Uploading>
+		<CheckNetwork>Lütfen sunucuyla ağ bağlantısını kontrol et</CheckNetwork>
+		<PermissionDenied>İzin verilmedi</PermissionDenied>
+		<AuthFailed>Doğrulama başarısız</AuthFailed>
+		<ImageTitle>[#Website#]'sine yükle</ImageTitle>
+		<ImageSecurityTips>Dosyalarınız %100 güvenlikle korunmaktadır</ImageSecurityTips>
+		<Optional>Tercihe Bağlı</Optional>
+		<OptionalTitle>Başlık</OptionalTitle>
+		<OptionalPassword>Şifre</OptionalPassword>
+		<TitleTips>Bu imaja isim verebilirsiniz</TitleTips>
+		<PassswordTips>Ziyaretçilerin imajınızı görmek için şifre girmesini iste</PassswordTips>
+		<ShareOn>[#Twitter#]'da Paylaş</ShareOn>
+		<YouTubeFileHelp>Geçersiz dosya formatı, YouTube'a uyumlu formata dönüştürmekle ilgili bilgi alın.</YouTubeFileHelp>
+		<NotYouTubeSupported>Dosyan YouTube tarafından desteklenmiyor:</NotYouTubeSupported>
+		<ContinueUploading>Yüklemeye devam edilsin mi?</ContinueUploading>
+	</Upload>	
+</Apowersoft>

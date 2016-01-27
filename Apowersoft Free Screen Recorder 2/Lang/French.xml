@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Apowersoft LangName="Français" Time="04/27/2015">
+	<Comm> 
+		<Region>Région</Region>
+		<RegionFullScreen>Plein-écran</RegionFullScreen>
+		<Options>Options</Options>
+		<Help>Aide</Help>
+		<OnlineSupport>Support en ligne</OnlineSupport>
+		<Purchase>Achat</Purchase>
+		<Updates>Vérification des mises à jour</Updates>
+		<About>À propos</About>
+		<Language>Langue</Language>
+		<Tools>Outils</Tools>
+		<Exit>Quitter</Exit>
+		<UserGuide>Guide d'utilisateur</UserGuide>
+		<Register>S'inscrire</Register>
+		<Forum>Forum</Forum>
+		<Support>Support</Support>
+		<Screenshot>Capture d'écran</Screenshot>
+		<Ready>Prêt</Ready>
+		<Default>Par défaut</Default>
+		<Width>Largeur</Width>
+		<Height>Hauteur</Height>
+		<FileName>Nom du fichier</FileName>
+		<DontShowAgain>Ne plus l'afficher</DontShowAgain>
+		<Finished>Terminé</Finished>
+		<HotkeyRegisterError>Le raccourci clavier est déjà enregistré par une autre application:</HotkeyRegisterError>
+		<OpenMainWindow>Ouvrir [#AppName#]</OpenMainWindow>
+		<ResetWarnings>Tous les avertissements de dialogue ont été remis à zéro!</ResetWarnings>
+		<ProVersion>Version Pro</ProVersion>
+		<CloseActionTitle>Fermeture</CloseActionTitle>
+		<CloseActionMinimizeToSystemTray>Réduire la barre d'état</CloseActionMinimizeToSystemTray>
+		<CloseActionExitProgram>Quitter le programme</CloseActionExitProgram>
+		<IsStillRunning>Le [#AppName#] est toujours en marche...</IsStillRunning>
+		<FaildSaveFile>Enregistrement d'image échoué.</FaildSaveFile>
+		<FaildPrintImage>Imprimerie d'image échouée.</FaildPrintImage>
+		<FaildCopyToClipboard>Copie d'image dans le bloc-notes échouée.</FaildCopyToClipboard>
+		<HotkeyChangeAsk>Voulez-vous changer le raccourci clavier maintenant?</HotkeyChangeAsk>
+		<CaptureImageTips>Cliquez, maintenez et faites glisser une région</CaptureImageTips>
+		<Confirm>Confirmer</Confirm>
+		<Error>Erreur</Error>
+		<Custom>Personnalisation</Custom>
+		<SelectRegion>Sélectionner une région</SelectRegion>
+		<Status>État</Status>
+	</Comm>
+	<Button> 
+		<Close>Fermer</Close>
+		<OK>OK</OK>
+		<Cancel>Annuler</Cancel>
+		<Register>S'enregistrer</Register>
+		<OrderNow>Acheter maintenant</OrderNow>
+		<CopyToClipboard>Copier dans le presse-papier</CopyToClipboard>
+		<SaveAs>Enregistrer sous...</SaveAs>
+		<Yes>Oui</Yes>
+		<No>Non</No>
+		<Evaluate>Évaluer</Evaluate>
+		<Settings>Paramètres</Settings>
+		<ResetWarnings>Réinitialiser les avertissements de dialogue</ResetWarnings>
+		<Save>Enregistrer</Save>
+		<Edit>Éditer</Edit>
+		<Upload>Uploader</Upload>
+		<Share>Partager</Share>
+		<TakeScreenshot>Prendre une capture d'écran</TakeScreenshot>
+		<Minimizetray>Minimiser dans la barre</Minimizetray>
+		<OpenFolder>Ouvrir le dossier</OpenFolder>
+		<SelectAll>Sélectionner tout</SelectAll>
+		<DeselectAll>Annuler toutes les sélections</DeselectAll>
+		<ReCapture>Re-capturer</ReCapture>
+		<SendEmail>Envoyer un mail</SendEmail>
+		<Print>Imprimer</Print>
+	</Button>
+	<Options>
+		<General>Général</General>
+		<AutoStart>Exécutez le programme au démarrage de Windows.</AutoStart>
+		<ConfirmQuit>Rappelez-moi lorsque le programme s'arrête.</ConfirmQuit>
+		<HideInterface>Minimiser pendant l'enregistrement</HideInterface>
+		<IncludeCursor>Inclure le curseur dans la capture.</IncludeCursor>
+		<HotkeyEnable>Activer les raccourcis clavier.</HotkeyEnable>
+		<HotkeyScreenshot>Raccourcis clavier pour la capture d'écran</HotkeyScreenshot>
+		<HotkeyStartRecording>Enregistrer</HotkeyStartRecording>
+		<HotkeyStopRecording>Arrêter</HotkeyStopRecording>
+		<HotkeyPauseRecording>Pause/Reprise</HotkeyPauseRecording>
+		<HotkeyShowRecToolbar>Afficher/Masquer la barre d'outil</HotkeyShowRecToolbar>		
+		<DefaultOutputDir>Dossier de sortie par défaut</DefaultOutputDir>
+		<ChooseOutputFolder>Choisit le dossier pour mettre la capture d'écran</ChooseOutputFolder>
+		<Recording>Enregistrerment</Recording>
+		<ShowCountdown>Afficher le compte à rebours avant l'enregistrement</ShowCountdown>
+		<Beep>Biper au Démarrage de l'enregistrement</Beep>
+		<ShowBoundary>Montrer les limites d'enregistrement</ShowBoundary>
+		<ShowToolbar>Afficher la barre d'outil d'enregistrement</ShowToolbar>
+		<RecordOnStart>Enregistrer automatiquement lorsque le programme démarre</RecordOnStart>
+		<VideoFormat>Format de vidéo:</VideoFormat>
+		<OptimizeVideo>Optimiser la vidéo</OptimizeVideo>
+		<DisableScreenSaver>Désactiver le fond d'écran</DisableScreenSaver>
+		<HideDesktopIcons>Masquer les icônes de bureau</HideDesktopIcons>
+		<HideTaskbar>Masquer automatiquement la barre des tâches</HideTaskbar>
+		<Advanced>Avancée</Advanced>
+		<MouseStyleSettings>Paramètres de souris</MouseStyleSettings>
+		<AudioInputSettings>Entrée audio</AudioInputSettings>
+		<AdvVideoSettings>Paramètres avancés de vidéo</AdvVideoSettings>
+		<SystemSound>Système son:</SystemSound>
+		<Microphone>Microphone:</Microphone>
+		<AudioQuality>Qualité d'audio:</AudioQuality>
+		<OpenSoundDialog>Ouvrir la boîte de dialogue du son</OpenSoundDialog>
+		<Format>Format</Format>
+		<Codec>Codec:</Codec>
+		<Bitrate>Bitrate:</Bitrate>
+		<FrameRate>Fréquence d'images:</FrameRate>
+		<AccessibleMode>Activer le mode d'accessibilité</AccessibleMode>
+		<AnimateMouseButtons>Animer les boutons de souris</AnimateMouseButtons>
+		<AnimateMouseClicks>Animer les clics de souris</AnimateMouseClicks>
+		<LeftMouseClickColor>Couleur d'animation clic gauche:</LeftMouseClickColor>
+		<RightMouseClickColor>Couleur d'animation clic droit:</RightMouseClickColor>
+		<ShowMouseHotspot>Afficher les points de souris</ShowMouseHotspot>
+		<MouseHotspotColor>Couleur des points de souris:</MouseHotspotColor>
+		<MouseHotspotSize>Taille des points de souris:</MouseHotspotSize>
+	</Options>
+	<PaintEdit> 
+		<Rectangle>Rectangle</Rectangle>
+		<Ellipse>Ellipse</Ellipse>
+		<Arrow>Flèche</Arrow>
+		<CurveArrow>Flèche courbée</CurveArrow>
+		<Pencil>Crayon</Pencil>
+		<HighLight>Souligne</HighLight>
+		<Text>Texte</Text>
+		<Undo>Annuler</Undo>
+		<Clear>Tout supprimer</Clear>
+		<Line>Ligne</Line>
+		<Thin>Fine</Thin>
+		<Medium>Moyen</Medium>
+		<Thick>Gros</Thick>
+		<Blur>Flou</Blur>
+		<BlurPixelate>Pixelate</BlurPixelate>
+		<BlurSmooth>Lisse</BlurSmooth>
+	</PaintEdit>
+	<Register> 
+		<TrialVersion>C'est une version d'essai</TrialVersion>
+		<Tips>Après s’être enregistré, le programme vous permet d’utiliser toutes ses fonctions, vous prévient des mises à jour et d'autres informations concernant les produits.</Tips>
+		<Note>Remarque: L’adresse email est sensible à la casse.</Note>
+		<EmailAddress>Adresse email</EmailAddress>
+		<LicenseCode>Numéro de licence</LicenseCode>
+		<ThankYou>Merci de vous être enregistré</ThankYou>
+		<RegistredFor>Enregistré pour [#email@email.com#]</RegistredFor>
+		<InvalidLicense>Le numéro de licence est invalide, ou les codes ne correspondent pas à cette version.</InvalidLicense>
+		<InvalidEmail>Adresse email invalide![#NewLine#]Veuillez vous assurer d'avoir entrer une adresse email correcte.</InvalidEmail>
+		<ChangeLicense>Changer la licence</ChangeLicense>
+		<TechnicalSupport>Support technique</TechnicalSupport>
+		<TrialVersionReminder>Rappel de version d'essai</TrialVersionReminder>
+		<Benefits>Achetez maintenant et obtenez ces avantages</Benefits>
+		<BenefitsGot>Vous avez obtenu ces bénéfices</BenefitsGot>
+		<Benefits1> Vous ne verrez plus aucun rappel.</Benefits1>
+		<Benefits2> Toutes les limitations de la version d’essai seront retirées.</Benefits2>
+		<Benefits3> Mises à jour gratuites pour la même version principale.</Benefits3>
+		<Benefits4> Support technique par email gratuit et à vie.</Benefits4>
+		<Benefits5> Garantie de remboursement de 30 jours.</Benefits5>
+		<TrialDaysLeft>Version d'essai sera expirée dans [#Days#] jours</TrialDaysLeft>
+		<TrialExpired>Version d'essai expirée</TrialExpired>
+	</Register>
+	<Updates>  
+		<NewVersion>Version nouvelle de [#AppName#].[#NewLine#] est détecté, voulez-vous faire la mise à jour?</NewVersion>
+		<LatestVersion>Vous utilisez la dernière version maintenant!</LatestVersion>
+	</Updates>
+	<SchedulerTask>
+		<Title>Planificateur des tâches</Title>
+		<CreateTask>créer une tâche</CreateTask>
+		<TaskList>Liste des tâches</TaskList>
+		<TaskName>Nom</TaskName>
+		<Trigger>Déclencheur</Trigger>
+		<Daily>Journal</Daily>
+		<Weekly>Hebdomadaire</Weekly>
+		<StartTime>Démarrage</StartTime>
+		<Duration>Durée</Duration>
+		<RepeatRec>Répéter l’enregistrement</RepeatRec>
+		<StopManually>Arrêter l’enregistrement manuellement</StopManually>
+		<RepeatTimes>Répéter des fois</RepeatTimes>
+		<StopTime>L'heure de fin</StopTime>
+		<Stop>Arrêt</Stop>
+		<Delete>Supprimer</Delete>
+		<Action>Action</Action>
+		<RecFullscreen>Enregistrer en plein écran</RecFullscreen>
+		<RecRegion>Enregistrer une zone personnalisée</RecRegion>
+		<SelectRegion>Sélectionner la région</SelectRegion>
+		<RecOnlyAudio>Enregistrer uniquement l'audio</RecOnlyAudio>
+		<Shutdown>Arrêter</Shutdown>
+		<ShutdownAfterFinish>Arrêter l'ordinateur dès la tache accomplie</ShutdownAfterFinish>
+		<Create>Créer</Create>
+		<Sunday>Dimanche</Sunday>
+		<Monday>Lundi</Monday>
+		<Tuesday>Mardi</Tuesday>
+		<Wednesday>Mercredi</Wednesday>
+		<Thursday>Jeudi</Thursday>
+		<Friday>Vendredi</Friday>
+		<Saturday>Samedi</Saturday>
+		<TaskNameWarn>Le nom de la tache ne peut pas être vide ni identique que la tache existante.</TaskNameWarn>
+		<StartTimeWarn>Veuillez définir une heure de début.</StartTimeWarn>
+		<IntervalWarn>L'intervalle ne devrait pas être inférieur à 1 seconde.</IntervalWarn>
+		<StopTimeWarn>Veuillez définir l'heure de fin plus tard que l'heure de début.</StopTimeWarn>
+		<RegionWarn>La région personnalisée ne doit pas être vide.</RegionWarn>
+		<DailyTime>à [#time#] tous les jours</DailyTime>
+		<Waiting>Attente</Waiting>
+		<Running>Fonctionnement</Running>
+		<Stopped>Arrêt</Stopped>
+		<NoScheduleTask>Aucune tâche planifiée</NoScheduleTask>
+		<ClosestTaskCountdown>La tâche planifiée la plus proche reste [#time#]</ClosestTaskCountdown>
+	</SchedulerTask>
+	<Screenshot>
+		<HideInterface>Cacher l'interface lors de la capture</HideInterface>
+		<IncludeCursor>Capturer le curseur de la souris</IncludeCursor>
+	</Screenshot>
+	<Record>
+		<Record>Enregistrer</Record>
+		<Start>Commencer</Start>
+		<Pause>Pause</Pause>
+		<Resume>Reprendre</Resume>
+		<Stop>Arrêter</Stop>
+		<ShowToolbar>Afficher la barre d'outil</ShowToolbar>
+		<AudioInput>Entré audio</AudioInput>
+		<AroundMouse>Autour de la souris</AroundMouse>
+		<WebCamera>Webcam</WebCamera>
+		<OnlyAudio>Audio</OnlyAudio>
+		<None>Aucun</None>
+		<SystemSound>Système son</SystemSound>
+		<Microphone>Microphone</Microphone>
+		<SysSoundAndMicrophone>Système son et microphone</SysSoundAndMicrophone>
+		<ViewLogs>Voir le journal</ViewLogs>
+		<Processing>En cours</Processing>
+		<FileName>Nom du fichier</FileName>
+		<Size>Taille</Size>
+		<Duration>Durée</Duration>
+		<Delete>Supprimer</Delete>
+		<Remove>Déplacer</Remove>
+		<Rename>Renommer</Rename>
+		<Play>Jouer</Play>
+		<Convert>Convertir</Convert>
+		<VideoEdit>Éditer Vidéo</VideoEdit>
+		<RemoveTip>Êtes-vous sûr de déplacer les fichiers sélectionnés depuis la liste?</RemoveTip>
+		<DeleteTip>Êtes-vous sûr de supprimer complètement les fichiers sélectionnés?</DeleteTip>
+		<FileNotFound>Le fichier spécifié est introuvable:</FileNotFound>
+		<FileNameExist>Il existe déjà un fichier avec le même nom dans le répertoire:</FileNameExist>
+		<AudioQualityHigh>Haut</AudioQualityHigh>
+		<AudioQualityStandard>Standard</AudioQualityStandard>
+		<AudioQualityLow>Bas</AudioQualityLow>
+		<Recording>Au cours d'enregistrement...</Recording>
+		<Paused>En pause</Paused>
+		<Volume>Volume</Volume>
+		<ConnectCameraTip>Oops, cela nécessite un Webcam. Veuillez connecter une webcam et essayer à nouveau.</ConnectCameraTip>
+		<SelectCamera>Sélectionner une webcam</SelectCamera>
+		<OutputResolution>Résolution de sortie</OutputResolution>
+		<ComponentsError>Erreur des composants d'enregistrement, corriger maintenant?</ComponentsError>
+		<FixSucceed>Le problème est résolu avec succès!</FixSucceed>
+		<FixFail>Impossible de résoudre le problème, veuillez essayer de réinstaller le programme.</FixFail>
+	</Record>
+	<Upload>
+		<ToYouTube>Uploader sur YouTube</ToYouTube>
+		<ToFTP>Uploader sur FTP</ToFTP>
+		<Settings>Paramètres pour uploader</Settings>
+		<OnYouTubeCom>Uploader depuis youtube.com</OnYouTubeCom>
+		<Login>Se connecter</Login>
+		<YouTubeUserName>Adresse e-mail:</YouTubeUserName>
+		<UserNameNotBlank>L'Email ne doit pas être vide</UserNameNotBlank>
+		<Password>Mote de passe:</Password>
+		<PasswordNotBlank>Le mot de passe ne doit pas être vide</PasswordNotBlank>
+		<YouTubeLoginNote>Remarque: vous devez activer « accès aux applications moins sûres » pour uploader des vidéos sur YouTube.</YouTubeLoginNote>
+		<OpenWeb>Ouvrir la page de vidéo lorsque la vidéo a été uploadée avec succès</OpenWeb>
+		<SetVideoInfo>Paramètre de vidéo avant l'uploader</SetVideoInfo>
+		<FtpServer>Serveur de FTP</FtpServer>
+		<FtpHostName>Nom de Domaine:</FtpHostName>
+		<FtpHostNameTip>Nom ou address IP du serveur FTP</FtpHostNameTip>
+		<FtpPort>Port:</FtpPort>
+		<FtpPortTip>Si vous le laissez vide, le port 21 par défaut sera utilisé</FtpPortTip>
+		<FtpUserName>Nom d'utilisateur:</FtpUserName>
+		<FtpUserNameTip>Si vous le laissez vide, l'utilisateur anonyme sera utilisée</FtpUserNameTip>
+		<FtpPasswordTip>Mot de passe d'utilisateur, laissez - le vide si vous utilisez un utilisateur anonyme</FtpPasswordTip>
+		<FtpRemoteDir>Répertoire distant:</FtpRemoteDir>
+		<FtpRemoteDirTip>Si vous le laissez vide, le répertoire racine sera réglé</FtpRemoteDirTip>
+		<HostNotBlank>Le nom de domaine ne doit pas être vide</HostNotBlank>
+		<PasswordNeed>Le mot de passe spécifié est requis pour l'utilisateur non-anonyme</PasswordNeed>
+		<VideoInfo>Informations de la vidéo</VideoInfo>
+		<File>Fichier:</File>
+		<Title>Titre:</Title>
+		<Desc>Description:</Desc>
+		<Tags>Étiquettes:</Tags>
+		<Category>Catégorie:</Category>
+		<TagsTip>Séparez les tags par« , » </TagsTip>
+		<Public>Public</Public>
+		<Private>Privé</Private>
+		<Successful>Uploadé avec succès</Successful>
+		<Failed>Uploading échoué</Failed>
+		<Waiting>Attendre le processus d'uploading</Waiting>
+		<Uploading>Uploading</Uploading>
+		<CheckNetwork>Veuillez vérifier la connexion du serveur</CheckNetwork>
+		<PermissionDenied>Permission refusée</PermissionDenied>
+		<AuthFailed>Authentification échouée</AuthFailed>
+		<ImageTitle>Télécharger sur [#Website#]</ImageTitle>
+		<ImageSecurityTips>Votre fichier est 100% sécurisé avec la protection stricte</ImageSecurityTips>
+		<Optional>Optionnel</Optional>
+		<OptionalTitle>Titre</OptionalTitle>
+		<OptionalPassword>Mot de passe</OptionalPassword>
+		<TitleTips>Vous pouvez nommer votre image</TitleTips>
+		<PassswordTips>Exiger que les visiteurs doivent entrer le mot de passe pour voir votre image</PassswordTips>
+		<ShareOn>Partager sur [#Twitter#]</ShareOn>
+		<YouTubeFileHelp>Format de fichier invalide, apprendre à convertir au format compatible avec YouTube.</YouTubeFileHelp>
+		<NotYouTubeSupported>Votre fichier n'est pas supporté par YouTube:</NotYouTubeSupported>
+		<ContinueUploading>Continuer à uploader?</ContinueUploading>
+	</Upload>	
+</Apowersoft>

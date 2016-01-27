@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Apowersoft LangName="Nederlands" Time="04/27/2015">
+	<Comm> 
+		<Region>Regio</Region>
+		<RegionFullScreen>Volledig scherm</RegionFullScreen>
+		<Options>Opties</Options>
+		<Help>Hulp</Help>
+		<OnlineSupport>Online ondersteuning</OnlineSupport>
+		<Purchase>Purchase</Purchase>
+		<Updates>Controleer op updates</Updates>
+		<About>Over</About>
+		<Language>Taal</Language>
+		<Tools>Hulpmiddelen</Tools>
+		<Exit>Verlaten</Exit>
+		<UserGuide>Gebruiksaanwijzing</UserGuide>
+		<Register>Registreren</Register>
+		<Forum>Forum</Forum>
+		<Support>Ondersteuning</Support>
+		<Screenshot>Screenshot</Screenshot>
+		<Ready>Klaar</Ready>
+		<Default>Standaard</Default>
+		<Width>Breedte</Width>
+		<Height>Hoogte</Height>
+		<FileName>Bestandsnaam</FileName>
+		<DontShowAgain>Toon dit niet opnieuw</DontShowAgain>
+		<Finished>Voltooid</Finished>
+		<HotkeyRegisterError>Sneltoets is al geregistreerd door andere toepassingen:</HotkeyRegisterError>
+		<OpenMainWindow>Open [#AppName#]</OpenMainWindow>
+		<ResetWarnings>Alle dialoogwaarschuwingen werden ongedaan gemaakt!</ResetWarnings>
+		<ProVersion>Pro-Versie</ProVersion>
+		<CloseActionTitle>Sluit knop actie</CloseActionTitle>
+		<CloseActionMinimizeToSystemTray>Minimaliseer naar systeemblad</CloseActionMinimizeToSystemTray>
+		<CloseActionExitProgram>Programma verlaten</CloseActionExitProgram>
+		<IsStillRunning>De [#AppName#] is nog bezig...</IsStillRunning>
+		<FaildSaveFile>Kon de afbeelding niet opslaan.</FaildSaveFile>
+		<FaildPrintImage>Kon geen afbeelding afdrukken.</FaildPrintImage>
+		<FaildCopyToClipboard>Kon geen afbeelding naar het klembord kopiëren.</FaildCopyToClipboard>
+		<HotkeyChangeAsk>Wilt u nu de sneltoets veranderen?</HotkeyChangeAsk>
+		<CaptureImageTips>Klik, hou vast en sleep naar de juist plaats</CaptureImageTips>
+		<Confirm>Bevestigen</Confirm>
+		<Error>Fout</Error>
+		<Custom>Aangepast</Custom>
+		<SelectRegion>Regio selecteren</SelectRegion>
+		<Status>Status</Status>
+	</Comm>
+	<Button> 
+		<Close>Sluit</Close>
+		<OK>OK</OK>
+		<Cancel>Annuleer</Cancel>
+		<Register>Registreer</Register>
+		<OrderNow>Koop nu</OrderNow>
+		<CopyToClipboard>Kopieer naar klembord</CopyToClipboard>
+		<SaveAs>Opslaan als...</SaveAs>
+		<Yes>Ja</Yes>
+		<No>Nee</No>
+		<Evaluate>Evalueer</Evaluate>
+		<Settings>Instellingen</Settings>
+		<ResetWarnings>Maak dialoogvensters ongedaan</ResetWarnings>
+		<Save>Opslaan</Save>
+		<Edit>Bewerk</Edit>
+		<Upload>Uploaden</Upload>
+		<Share>Delen</Share>
+		<TakeScreenshot>Maak een beeldschermopname</TakeScreenshot>
+		<Minimizetray>Minimaliseer naar systeemvak</Minimizetray>
+		<OpenFolder>Open Map</OpenFolder>
+		<SelectAll>Alles Selecteren</SelectAll>
+		<DeselectAll>Deselecteer Alles</DeselectAll>
+		<ReCapture>Neem opnieuw op</ReCapture>
+		<SendEmail>Email verzenden</SendEmail>
+		<Print>Afdrukken</Print>
+	</Button>
+	<Options>
+		<General>Algemeen</General>
+		<AutoStart>Start het programma als windows opstart.</AutoStart>
+		<ConfirmQuit>Herinner mij eraan als het programma afsluit.</ConfirmQuit>
+		<HideInterface>Minimaliseer naar blad tijdens opname</HideInterface>
+		<IncludeCursor>Voeg de cursor toe in de opname.</IncludeCursor>
+		<HotkeyEnable>Schakel sneltoetsen in.</HotkeyEnable>
+		<HotkeyScreenshot>Snelkoppeling voor beeldschermopname</HotkeyScreenshot>
+		<HotkeyStartRecording>Begin met opnemen</HotkeyStartRecording>
+		<HotkeyStopRecording>Stop met opnemen</HotkeyStopRecording>
+		<HotkeyPauseRecording>Pauzeer/Hervat opname</HotkeyPauseRecording>
+		<HotkeyShowRecToolbar>Toon/Verberg opname taakbalk</HotkeyShowRecToolbar>
+		<DefaultOutputDir>Default output directory:</DefaultOutputDir>
+		<ChooseOutputFolder>Selecteer folder om screenshots in op te slaan</ChooseOutputFolder>
+		<Recording>Opnemen</Recording>
+		<ShowCountdown>Tel af voor start opname</ShowCountdown>
+		<Beep>Biep bij Start opname</Beep>
+		<ShowBoundary>Toon opname-limiet</ShowBoundary>
+		<ShowToolbar>Toon opname taakbalk</ShowToolbar>
+		<RecordOnStart>Neem automatisch op zodra het programma start</RecordOnStart>
+		<VideoFormat>Videoformaat:</VideoFormat>
+		<OptimizeVideo>Optimaliseer video</OptimizeVideo>
+		<DisableScreenSaver>Schakel screensaver uit</DisableScreenSaver>
+		<HideDesktopIcons>Verberg bureaublad-iconen</HideDesktopIcons>
+		<HideTaskbar>Verberg taakbalk automatisch</HideTaskbar>
+		<Advanced>Geavanceerd</Advanced>
+		<MouseStyleSettings>Instellingen muisstijl</MouseStyleSettings>
+		<AudioInputSettings>Instellingen audio-input</AudioInputSettings>
+		<AdvVideoSettings>Geavanceerde video-instellingen</AdvVideoSettings>
+		<SystemSound>Systeemgeluid:</SystemSound>
+		<Microphone>Microfoon:</Microphone>
+		<AudioQuality>Geluidskwaliteit:</AudioQuality>
+		<OpenSoundDialog>Open geluidsdialoog</OpenSoundDialog>
+		<Format>Formaat</Format>
+		<Codec>Codec:</Codec>
+		<Bitrate>Bitrate:</Bitrate>
+		<FrameRate>Frame rate:</FrameRate>
+		<AccessibleMode>Toegankelijkheidsmodus activeren</AccessibleMode>
+		<AnimateMouseButtons>Animeer muisknoppen</AnimateMouseButtons>
+		<AnimateMouseClicks>Animateer muisklikken</AnimateMouseClicks>
+		<LeftMouseClickColor>Linker muisknop animatie-kleur:</LeftMouseClickColor>
+		<RightMouseClickColor>Rechter muisknop animatie-kleur:</RightMouseClickColor>
+		<ShowMouseHotspot>Laat muis hot spot zien</ShowMouseHotspot>
+		<MouseHotspotColor>Kleur muis hot spot:</MouseHotspotColor>
+		<MouseHotspotSize>Muis hot spot formaat:</MouseHotspotSize>
+	</Options>
+	<PaintEdit> 
+		<Rectangle>Rechthoek</Rectangle>
+		<Ellipse>Ovaal</Ellipse>
+		<Arrow>Solid-lijn pijlen</Arrow>
+		<CurveArrow>Kromme Pijl</CurveArrow>
+		<Pencil>Penseel</Pencil>
+		<HighLight>Markeer</HighLight>
+		<Text>Tekst</Text>
+		<Undo>Reductie</Undo>
+		<Clear>Wis</Clear>
+		<Line>Lijn</Line>
+		<Thin>Dun</Thin>
+		<Medium>Medium</Medium>
+		<Thick>Thick</Thick>
+		<Blur>Vervaging</Blur>
+		<BlurPixelate>Pixelvorming</BlurPixelate>
+		<BlurSmooth>Glad</BlurSmooth>
+	</PaintEdit>
+	<Register> 
+		<TrialVersion>Dit is een proefversie</TrialVersion>
+		<Tips>Na registratie, laat het programma u toe - met volledige werking van alle functies - op de hoogte te blijven van upgrades en nieuwe informatie over onze producten.</Tips>
+		<Note>Opgelet: E-mailadres is hoofdletter-gevoelig.</Note>
+		<EmailAddress>E-mailAdres</EmailAddress>
+		<LicenseCode>Licentiecode</LicenseCode>
+		<ThankYou>Bedankt voor uw registratie</ThankYou>
+		<RegistredFor>Geregistreerd voor [#email@email.com#]</RegistredFor>
+		<InvalidLicense>The licentiecode is ongeldig, of stemt niet overeen met deze versie.</InvalidLicense>
+		<InvalidEmail>Ongeldig e-mailadres![#NewLine#] Zorg er aub voor dat u een juist e-mailadres invoert.</InvalidEmail>
+		<ChangeLicense>Wijzig licentie</ChangeLicense>
+		<TechnicalSupport>Technische ondersteuning</TechnicalSupport>
+		<TrialVersionReminder>Herinnering proefversie</TrialVersionReminder>
+		<Benefits>Koop nu en krijg deze voordelen</Benefits>
+		<BenefitsGot>U heeft deze voordelen</BenefitsGot>
+		<Benefits1> U zal geen herinneringen meer zien</Benefits1>
+		<Benefits2> Alle beperkingen van de proefversie zullen worden verwijderd</Benefits2>
+		<Benefits3> Gratis updates binnen dezelfde hoofdversie.</Benefits3>
+		<Benefits4> Gratis levenslange technische ondersteuning via e-mail.</Benefits4>
+		<Benefits5> 30-dagen, geld terug-garantie.</Benefits5>
+		<TrialDaysLeft>Proefversie zal over [#Days#] dagen verlopen</TrialDaysLeft>
+		<TrialExpired>Proefversie verlopen</TrialExpired>
+	</Register>
+	<Updates>
+		<NewVersion>Een nieuwe versie van [#AppName#].[#NewLine#] is gedetecteerd, wilt u nu updaten?</NewVersion>
+		<LatestVersion>U gebruikt de meest recentie versie!</LatestVersion>
+	</Updates>
+	<SchedulerTask>
+		<Title>Takenplanner</Title>
+		<CreateTask>Taak instellen</CreateTask>
+		<TaskList>Takenlijst</TaskList>
+		<TaskName>Naam</TaskName>
+		<Trigger>Trigger</Trigger>
+		<Daily>Dagelijks</Daily>
+		<Weekly>Wekelijks</Weekly>
+		<StartTime>Starttijd</StartTime>
+		<Duration>Duurtijd</Duration>
+		<RepeatRec>Herhaal opname</RepeatRec>
+		<StopManually>Stop handmatig opnemen</StopManually>
+		<RepeatTimes>hoeveel keer wilt u opnemen</RepeatTimes>
+		<StopTime>Stoptijd</StopTime>
+		<Stop>Stop</Stop>
+		<Delete>Wis</Delete>
+		<Action>Actie</Action>
+		<RecFullscreen>Neem volledig scherm op</RecFullscreen>
+		<RecRegion>Neem normaal gebied op</RecRegion>
+		<SelectRegion>Selecteer regio</SelectRegion>
+		<RecOnlyAudio>Enkel audio opnemen</RecOnlyAudio>
+		<Shutdown>Uitschakelen</Shutdown>
+		<ShutdownAfterFinish>Computer uitschakelen na voltooien taak</ShutdownAfterFinish>
+		<Create>Creëer</Create>
+		<Sunday>Zondag</Sunday>
+		<Monday>Maandag</Monday>
+		<Tuesday>Dinsdag</Tuesday>
+		<Wednesday>Woensdag</Wednesday>
+		<Thursday>Donderdag</Thursday>
+		<Friday>Vrijdag</Friday>
+		<Saturday>Zaterdag</Saturday>
+		<TaskNameWarn>De taaknaam kan niet leeg zijn of hetzelfde zijn als een bestaande taak.</TaskNameWarn>
+		<StartTimeWarn>Stel alstublieft een starttijd in de toekomst in.</StartTimeWarn>
+		<IntervalWarn>De tussenpoze moet minimaal 1 seconde zijn.</IntervalWarn>
+		<StopTimeWarn>De stoptijd dient later te zijn dan de starttijd.</StopTimeWarn>
+		<RegionWarn>De aangepaste regio kan niet leeg zijn.</RegionWarn>
+		<DailyTime>Om [#time#] iedere dag</DailyTime>
+		<Waiting>Wachten</Waiting>
+		<Running>Loopt</Running>
+		<Stopped>Gestopt</Stopped>
+		<NoScheduleTask>Geen geplande taak</NoScheduleTask>
+		<ClosestTaskCountdown>De eerstvolgende geplande taak start binnen [#time#]</ClosestTaskCountdown>
+	</SchedulerTask>
+	<Screenshot>
+		<HideInterface>Verberg mij tijdens screenshot</HideInterface>
+		<IncludeCursor>Leg muiscursor vast</IncludeCursor>
+	</Screenshot>
+	<Record>
+		<Record>Opnemen</Record>
+		<Start>Start</Start>
+		<Pause>Pauzeer</Pause>
+		<Resume>Hervat</Resume>
+		<Stop>Stop</Stop>
+		<ShowToolbar>Toon taakbalk</ShowToolbar>
+		<AudioInput>Audio-input</AudioInput>
+		<AroundMouse>Rond muis</AroundMouse>
+		<WebCamera>Webcamera</WebCamera>
+		<OnlyAudio>Alleen audio</OnlyAudio>
+		<None>Geen</None>
+		<SystemSound>Systeemgeluid</SystemSound>
+		<Microphone>Microfoon</Microphone>
+		<SysSoundAndMicrophone>Systeemgeluid en microfoon</SysSoundAndMicrophone>
+		<ViewLogs>Logs bekijken</ViewLogs>
+		<Processing>Processing</Processing>
+		<FileName>Bestandsnaam</FileName>
+		<Size>Grootte</Size>
+		<Duration>Duur</Duration>
+		<Delete>Wis</Delete>
+		<Remove>Verwijder</Remove>
+		<Rename>Hernoem</Rename>
+		<Play>Speel</Play>
+		<Convert>Converteren</Convert>
+		<VideoEdit>Video Bewerken</VideoEdit>
+		<RemoveTip>Weet u zeker dat u de geselecteerde bestand(en) uit de lijst wilt verwijderen?</RemoveTip>
+		<DeleteTip>Weet u zeker dat u de geselecteerde bestand(en) volledig wilt verwijderen?</DeleteTip>
+		<FileNotFound>Het gespecificeerde bestand kan niet worden gevonden:</FileNotFound>
+		<FileNameExist>Er bestaat al een bestand met dezelfde naam in de folder:</FileNameExist>
+		<AudioQualityHigh>Hoog</AudioQualityHigh>
+		<AudioQualityStandard>Standaard</AudioQualityStandard>
+		<AudioQualityLow>Laag</AudioQualityLow>
+		<Recording>Aan het opnemen...</Recording>
+		<Paused>Gepauzeerd</Paused>
+		<Volume>Volume</Volume>
+		<ConnectCameraTip>Oeps, hier is een webcam voor nodig. Verbind een webcam en probeer opnieuw.</ConnectCameraTip>
+		<SelectCamera>Selecteer een webcam</SelectCamera>
+		<OutputResolution>Output resolutien</OutputResolution>
+		<ComponentsError>Foutmelding bij opnemen componenten, nu oplossen?</ComponentsError>
+		<FixSucceed>Het probleem is succesvol opgelost!</FixSucceed>
+		<FixFail>Oplossen probleem niet gelukt, installeer het programma alstublieft opnieuw.</FixFail>
+	</Record>
+	<Upload>
+		<ToYouTube>Upload naar YouTube</ToYouTube>
+		<ToFTP>Upload naar FTP</ToFTP>
+		<Settings>Upload instellingen</Settings>
+		<OnYouTubeCom>Upload op youtube.com</OnYouTubeCom>
+		<Login>Login</Login>
+		<YouTubeUserName>E-mailadres:</YouTubeUserName>
+		<UserNameNotBlank>Email kan niet leeg zijn</UserNameNotBlank>
+		<Password>Wachtwoord:</Password>
+		<PasswordNotBlank>Wachtwoord kan niet leeg zijn</PasswordNotBlank>
+		<YouTubeLoginNote>Let op: U dient "Toegang voor minder veilige apps" inschakelen voor het uploaden van video's naar YouTube.</YouTubeLoginNote>
+		<OpenWeb>Open de video zodra de upload is voltooid</OpenWeb>
+		<SetVideoInfo>Voer video informatie in voor uploaden</SetVideoInfo>
+		<FtpServer>FTP server</FtpServer>
+		<FtpHostName>Host naam:</FtpHostName>
+		<FtpHostNameTip>Naam of IP adres van de FTP server</FtpHostNameTip>
+		<FtpUserName>Gebruikersnaam:</FtpUserName>
+		<FtpPort>Poort:</FtpPort>
+		<FtpPortTip>Indien leeg, wordt automatisch poort 21 gebruikt</FtpPortTip>
+		<FtpUserNameTip>Indien leeg, wordt anonieme gebruiker gebruikt</FtpUserNameTip>
+		<FtpPasswordTip>Gebruikerswachtwoord, laat leeg indien anonieme gebruiker wordt gebruikt</FtpPasswordTip>
+		<FtpRemoteDir>Externe folder:</FtpRemoteDir>
+		<FtpRemoteDirTip>Indien leeg, wordt root folder ingesteld</FtpRemoteDirTip>
+		<HostNotBlank>Host naam kan niet leeg zijn</HostNotBlank>
+		<PasswordNeed>Voor niet-anonieme gebruiker is wachtwoord vereist</PasswordNeed>
+		<VideoInfo>Video informatie</VideoInfo>
+		<File>Bestand:</File>
+		<Title>Titel:</Title>
+		<Desc>Omschrijving:</Desc>
+		<Tags>Tags:</Tags>
+		<Category>Categorie:</Category>
+		<TagsTip>Scheid tags met ","</TagsTip>
+		<Public>Publiek</Public>
+		<Private>Prive€</Private>
+		<Successful>Succesvol geupload</Successful>
+		<Failed>Uploaden mislukt</Failed>
+		<Waiting>Wachten op uploaden</Waiting>
+		<Uploading>Uploaden</Uploading>
+		<CheckNetwork>Controleer alstublieft de netwerkverbinding van de server</CheckNetwork>
+		<PermissionDenied>Toegang geweigerd</PermissionDenied>
+		<AuthFailed>Authenticatie mislukt</AuthFailed>
+		<ImageTitle>Upload naar [#Website#]</ImageTitle>
+		<ImageSecurityTips>Uw bestanden zijn 100% veilig met de veiligheidsbescherming</ImageSecurityTips>
+		<Optional>Optioneel</Optional>
+		<OptionalTitle>Titel</OptionalTitle>
+		<OptionalPassword>Wachtwoord</OptionalPassword>
+		<TitleTips>U kunt een naam instellen voor deze afbeelding</TitleTips>
+		<PassswordTips>Vraag bezoekers een wachtwoord in te voeren om de afbeelding te zien</PassswordTips>
+		<ShareOn>Deel op [#Twitter#]</ShareOn>
+		<YouTubeFileHelp>Ongeldig bestandsformaat, leer hoe u het omzet in een formaat geschikt voor YouTube.</YouTubeFileHelp>
+		<NotYouTubeSupported>Uw bestand wordt niet ondersteund door YouTube:</NotYouTubeSupported>
+		<ContinueUploading>Doorgaan met uploaden?</ContinueUploading>
+	</Upload>	
+</Apowersoft>

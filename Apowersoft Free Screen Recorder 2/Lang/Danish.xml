@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Apowersoft LangName="Dansk" Time="04/27/2015">
+	<Comm> 
+		<Region>Område</Region>
+		<RegionFullScreen>Fuldskærm</RegionFullScreen>
+		<Options>Valgmuligheder</Options>
+		<Help>Hjælp</Help>
+		<OnlineSupport>Online support</OnlineSupport>
+		<Purchase>Køb</Purchase>
+		<Updates>Tjek efter opdateringer</Updates>
+		<About>Om</About>
+		<Language>Sprog</Language>
+		<Tools>Værktøjer</Tools>
+		<Exit>Luk</Exit>
+		<UserGuide>Brugerguide</UserGuide>
+		<Register>Registrer</Register>
+		<Forum>Forum</Forum>
+		<Support>Support</Support>
+		<Screenshot>Screenshot</Screenshot>
+		<Ready>Klar</Ready>
+		<Default>Standard</Default>
+		<Width>Bredde</Width>
+		<Height>Højde</Height>
+		<FileName>Filnavn</FileName>
+		<DontShowAgain>Vis ikke det her igen</DontShowAgain>
+		<Finished>Færdig</Finished>
+		<HotkeyRegisterError>Genvejstast er allerede registreret af andre applikationer:</HotkeyRegisterError>
+		<OpenMainWindow>Åbn [#AppName#]</OpenMainWindow>
+		<ResetWarnings>Alle dialog-advarsler er blevet nulstillet!</ResetWarnings>
+		<ProVersion>Pro Version</ProVersion>
+		<CloseActionTitle>Ønsker du at</CloseActionTitle>
+		<CloseActionMinimizeToSystemTray>Minimér til statusikon</CloseActionMinimizeToSystemTray>
+		<CloseActionExitProgram>Luk program</CloseActionExitProgram>
+		<IsStillRunning>[#AppName#] kører stadig...</IsStillRunning>
+		<FaildSaveFile>Billedet blev ikke gemt</FaildSaveFile>
+		<FaildPrintImage>Billedet blev ikke printet</FaildPrintImage>
+		<FaildCopyToClipboard>Billedet blev ikke kopieret til klippeværktøjet</FaildCopyToClipboard>
+		<HotkeyChangeAsk>Ønsker du at ændre genvejstasten nu?</HotkeyChangeAsk>
+		<CaptureImageTips>Tryk, hold og træk et område</CaptureImageTips>
+		<Confirm>Bekræft</Confirm>
+		<Error>Fejl</Error>
+		<Custom>Brugerdefineret</Custom>
+		<SelectRegion>Vælg område</SelectRegion>
+		<Status>Status</Status>
+	</Comm>
+	<Button> 
+		<Close>Luk</Close>
+		<OK>OK</OK>
+		<Cancel>Annuller</Cancel>
+		<Register>Registrer</Register>
+		<OrderNow>Køb nu</OrderNow>
+		<CopyToClipboard>Kopier til klippeværktøjet</CopyToClipboard>
+		<SaveAs>Gem som...</SaveAs>
+		<Yes>Ja</Yes>
+		<No>Nej</No>
+		<Evaluate>Evaluér</Evaluate>
+		<Settings>Indstillinger</Settings>
+		<ResetWarnings>Nulstil dialog-advarsler</ResetWarnings>
+		<Save>Gem</Save>
+		<Edit>Rediger</Edit>
+		<Upload>Upload</Upload>
+		<Share>Del</Share>
+		<TakeScreenshot>Tag Screenshot</TakeScreenshot>
+		<Minimizetray>Minimér Til Statusikon</Minimizetray>
+		<OpenFolder>Åbn mappe</OpenFolder>
+		<SelectAll>Vælg alle</SelectAll>
+		<DeselectAll>Fjern al markering</DeselectAll>
+		<ReCapture>Re-capture</ReCapture>
+		<SendEmail>Send E-mail</SendEmail>
+		<Print>Print</Print>
+	</Button>
+	<Options>
+		<General>Generelt</General>
+		<AutoStart>Kør programmet, når Windows starter</AutoStart>
+		<ConfirmQuit>Påmind mig, når programmet lukker</ConfirmQuit>
+		<HideInterface>Minimér til meddelelsesområde i løbet af optagelse</HideInterface>
+		<IncludeCursor>Inkludér markør i screenshot</IncludeCursor>
+		<HotkeyEnable>Slå genvejstaster til</HotkeyEnable>
+		<HotkeyScreenshot>Genvej til Screenshot</HotkeyScreenshot>
+		<HotkeyStartRecording>Start optagelse</HotkeyStartRecording>
+		<HotkeyStopRecording>Stop optagelse</HotkeyStopRecording>
+		<HotkeyPauseRecording>Pause/genoptag optagelse</HotkeyPauseRecording>
+		<HotkeyShowRecToolbar>Vis/Skjul optagelses-toolbar</HotkeyShowRecToolbar>
+		<DefaultOutputDir>Standard output bibliotek:</DefaultOutputDir>
+		<ChooseOutputFolder>Vælg mappe for at gemme screenshots</ChooseOutputFolder>
+		<Recording>Optager</Recording>
+		<ShowCountdown>Vis nedtælling før optagelse</ShowCountdown>
+		<Beep>Bip ved Start optagelse</Beep>
+		<ShowBoundary>Vis optagelsesgrænse </ShowBoundary>
+		<ShowToolbar>Vis optagelses-toolbar</ShowToolbar>
+		<RecordOnStart>Record automatically when the program starts</RecordOnStart>
+		<VideoFormat>Videoformat:</VideoFormat>
+		<OptimizeVideo>Optimimer video</OptimizeVideo>
+		<DisableScreenSaver>Slå pauseskærm fra</DisableScreenSaver>
+		<HideDesktopIcons>Skjul skrivebordikoner</HideDesktopIcons>
+		<HideTaskbar>Auto skjul proceslinje</HideTaskbar>
+		<Advanced>Avanceret</Advanced>
+		<MouseStyleSettings>Markør indstillinger</MouseStyleSettings>
+		<AudioInputSettings>Lydinput indstillinger</AudioInputSettings>
+		<AdvVideoSettings>Advancerede videoindstillinger</AdvVideoSettings>
+		<SystemSound>Systemlyd:</SystemSound>
+		<Microphone>Mikrofon:</Microphone>
+		<AudioQuality>Lydkvalitet:</AudioQuality>
+		<OpenSoundDialog>Åben lyddialog</OpenSoundDialog>
+		<Format>Format</Format>
+		<Codec>Codec:</Codec>
+		<Bitrate>Bitrate:</Bitrate>
+		<FrameRate>Frame rate:</FrameRate>
+		<AccessibleMode>Aktivér tilgængelig tilstand</AccessibleMode>
+		<AnimateMouseButtons>Animer museknapper</AnimateMouseButtons>
+		<AnimateMouseClicks>Animer museklik</AnimateMouseClicks>
+		<LeftMouseClickColor>Venstreklik animationsfarve:</LeftMouseClickColor>
+		<RightMouseClickColor>Højreklik animationsfarve:</RightMouseClickColor>
+		<ShowMouseHotspot>Vis musehotspot</ShowMouseHotspot>
+		<MouseHotspotColor>Musehotspot farve:</MouseHotspotColor>
+		<MouseHotspotSize>Musehotspot størrelse:</MouseHotspotSize>
+	</Options>
+	<PaintEdit> 
+		<Rectangle>Rektangel</Rectangle>
+		<Ellipse>Ellipse</Ellipse>
+		<Arrow>Pil</Arrow>
+		<CurveArrow>Bøj Pil</CurveArrow>
+		<Pencil>Blyant</Pencil>
+		<HighLight>Highlight</HighLight>
+		<Text>Tekst</Text>
+		<Undo>Fortryd</Undo>
+		<Clear>Ryd</Clear>
+		<Line>Linje</Line>
+		<Thin>Tynd</Thin>
+		<Medium>Mellem</Medium>
+		<Thick>Tyk</Thick>
+		<Blur>Sløret</Blur>
+		<BlurPixelate>Pixeler</BlurPixelate>
+		<BlurSmooth>Flydende</BlurSmooth>
+	</PaintEdit>
+	<Register> 
+		<TrialVersion>Dette er en prøveversion</TrialVersion>
+		<Tips>Når du har registreret dig, vil programmet give dig alle funktioner, notificere dig om opdateringer og information om vores produkt.</Tips>
+		<Note>Bemærk: E-mail-adresse skelner mellem store og små tegn.</Note>
+		<EmailAddress>E-mail-adresse</EmailAddress>
+		<LicenseCode>Licenskode</LicenseCode>
+		<ThankYou>Tak for din registrering</ThankYou>
+		<RegistredFor>[#email@email.com#] registreret</RegistredFor>
+		<InvalidLicense>Licenskoden er invalid eller matcher ikke med denne version.</InvalidLicense>
+		<InvalidEmail>Invalid E-mail-adresse![#NewLine#]Vær sikker på, at du skriver en rigtig E-mail-adresse.</InvalidEmail>
+		<ChangeLicense>Ændr licens</ChangeLicense>
+		<TechnicalSupport>Teknisk support</TechnicalSupport>
+		<TrialVersionReminder>Prøve kopier påmindelse</TrialVersionReminder>
+		<Benefits>Køb nu og få disse fordele</Benefits>
+		<BenefitsGot>Du har disse fordele</BenefitsGot>
+		<Benefits1> Ikke flere påmindelser eller vandmærker.</Benefits1>
+		<Benefits2> Ingen begrænsninger i forhold til alle funktioner.</Benefits2>
+		<Benefits3> Gratis opdateringer inden for den samme store version.</Benefits3>
+		<Benefits4> Gratis teknisk support over e-mail for altid.</Benefits4>
+		<Benefits5> 30 dages penge-tilbage-garanti.</Benefits5>
+		<TrialDaysLeft>Prøveversion vil udløbe efter [#Days#] dag(e)</TrialDaysLeft>
+		<TrialExpired>Prøveversion udløbet</TrialExpired>
+	</Register>
+	<Updates>
+		<NewVersion>En ny version af [#AppName#]. [#NewLine#] er fundet, ønsker du at opdatere nu?</NewVersion>
+		<LatestVersion>Du anvender den nyeste version!</LatestVersion>
+	</Updates>
+	<SchedulerTask>
+		<Title>Aktivitetsplanlægger</Title>
+		<CreateTask>Opret aktivitet</CreateTask>
+		<TaskList>Aktivitetsliste</TaskList>
+		<TaskName>Navn</TaskName>
+		<Trigger>Trigger</Trigger>
+		<Daily>Daglig</Daily>
+		<Weekly>Ugentlig</Weekly>
+		<StartTime>Start tid</StartTime>
+		<Duration>Varighed</Duration>
+		<RepeatRec>Gentag optagelse</RepeatRec>
+		<StopManually>Stop Optagelse manuelt</StopManually>
+		<RepeatTimes>Gentag Tider</RepeatTimes>
+		<StopTime>Stop tid</StopTime>
+		<Stop>Stop</Stop>
+		<Delete>Slet</Delete>
+		<Action>Handling</Action>
+		<RecFullscreen>Optag fuld skærm</RecFullscreen>
+		<RecRegion>Optag tilpasset område</RecRegion>
+		<SelectRegion>Vælg område</SelectRegion>
+		<RecOnlyAudio>Optag kun lyd</RecOnlyAudio>
+		<Shutdown>Luk ned</Shutdown>
+		<ShutdownAfterFinish>Luk computer ned, når aktiviteten er færdig</ShutdownAfterFinish>
+		<Create>Opret</Create>
+		<Sunday>Søndag</Sunday>
+		<Monday>Mandag</Monday>
+		<Tuesday>Tirsdag</Tuesday>
+		<Wednesday>Onsdag</Wednesday>
+		<Thursday>Torsdag</Thursday>
+		<Friday>Fredag</Friday>
+		<Saturday>Lørdag</Saturday>
+		<TaskNameWarn>Aktivitetsnavn kan ikke være tomt eller det samme som en eksisterende aktivitet.</TaskNameWarn>
+		<StartTimeWarn>Sæt venligst en starttid i fremtiden.</StartTimeWarn>
+		<IntervalWarn>Intervallet burde ikke være kortere end 1 sekund.</IntervalWarn>
+		<StopTimeWarn>Sæt venligst stoptiden til mere end starttiden.</StopTimeWarn>
+		<RegionWarn>Det tilpassede område burde ikke være tomt.</RegionWarn>
+		<DailyTime>Ved [#time#] hver dag</DailyTime>
+		<Waiting>Venter</Waiting>
+		<Running>Kører</Running>
+		<Stopped>Stoppet</Stopped>
+		<NoScheduleTask>Ingen planlagt aktivitet</NoScheduleTask>
+		<ClosestTaskCountdown>Den tætteste planlagte aktivitet forbliver [#time#]</ClosestTaskCountdown>
+	</SchedulerTask>
+	<Screenshot>
+		<HideInterface>Skjul mig, når der tages et screenshot</HideInterface>
+		<IncludeCursor>Capture musemarkør</IncludeCursor>
+	</Screenshot>
+	<Record>
+		<Record>Optag</Record>
+		<Start>Start</Start>
+		<Pause>Pause</Pause>
+		<Resume>Genoptag</Resume>
+		<Stop>Stop</Stop>
+		<ShowToolbar>Vis toolbar</ShowToolbar>
+		<AudioInput>Lydinput</AudioInput>
+		<AroundMouse>Rundt om mus</AroundMouse>
+		<WebCamera>Webcam</WebCamera>
+		<OnlyAudio>Kun lyd</OnlyAudio>
+		<None>Ingen/intet</None>
+		<SystemSound>Systemlyd</SystemSound>
+		<Microphone>Mikrofon</Microphone>
+		<SysSoundAndMicrophone>Systemlyd og mikrofon</SysSoundAndMicrophone>
+		<ViewLogs>Se logs</ViewLogs>
+		<Processing>Behandler</Processing>
+		<FileName>Filnavn</FileName>
+		<Size>Størrelse</Size>
+		<Duration>Varighed</Duration>
+		<Delete>Slet</Delete>
+		<Remove>Fjern</Remove>
+		<Rename>Omdøb</Rename>
+		<Play>Afspil</Play>
+		<Convert>Konverter</Convert>
+		<VideoEdit>Videoredigering</VideoEdit>
+		<RemoveTip>Er du sikker på at du vil fjerne valgt(e) fil(er) fra denne liste?</RemoveTip>
+		<DeleteTip>Er du sikker på at du vil slette valgte filer helt?</DeleteTip>
+		<FileNotFound>Den valgte fil kan ikke findes:</FileNotFound>
+		<FileNameExist>Der er allerede en fil med samme navn i biblioteket:</FileNameExist>
+		<AudioQualityHigh>Høj</AudioQualityHigh>
+		<AudioQualityStandard>Standard</AudioQualityStandard>
+		<AudioQualityLow>Lav</AudioQualityLow>
+		<Recording>Optager...</Recording>
+		<Paused>Pauset</Paused>
+		<Volume>Volumen</Volume>
+		<ConnectCameraTip>Ups, dette kræver et webcam. Venligst forbind et webcam og prøv igen.</ConnectCameraTip>
+		<SelectCamera>Vælg et webcam</SelectCamera>
+		<OutputResolution>Output opløsning</OutputResolution>
+		<ComponentsError>Fejl ved optagelseskomponenter, fiks det nu?</ComponentsError>
+		<FixSucceed>Problemet er succesfuldt fikset!</FixSucceed>
+		<FixFail>Kunne ikke fikse problemet, venligst prøv at geninstallere programmet.</FixFail>
+	</Record>
+	<Upload>
+		<ToYouTube>Upload til YouTube</ToYouTube>
+		<ToFTP>Upload til FTP</ToFTP>
+		<Settings>Upload indstillinger</Settings>
+		<OnYouTubeCom>Upload på youtube.com</OnYouTubeCom>
+		<Login>Login</Login>
+		<YouTubeUserName>Brugernavn(Email):</YouTubeUserName>
+		<UserNameNotBlank>Email bør ikke være tom</UserNameNotBlank>
+		<Password>Kodeord:</Password>
+		<PasswordNotBlank>Adgangskode bør ikke være tom</PasswordNotBlank>
+		<YouTubeLoginNote>Note: Du skal tillade "Adgang til mindre sikre apps" for at uploade videoer til YouTube.</YouTubeLoginNote>
+		<OpenWeb>Åbn videosiden, når uploadingen er fuldført</OpenWeb>
+		<SetVideoInfo>Skriv videoinfo inden upload</SetVideoInfo>
+		<FtpServer>FTP server</FtpServer>
+		<FtpHostName>Host navn:</FtpHostName>
+		<FtpHostNameTip>IP adressens og FTP serverens navn</FtpHostNameTip>
+		<FtpUserName>Brugernavn:</FtpUserName>
+		<FtpPort>Port:</FtpPort>
+		<FtpPortTip>Hvis tom, vil standard port 21 blive brugt</FtpPortTip>
+		<FtpUserNameTip>Hvis tom, vil anonym bruger blive brugt</FtpUserNameTip>
+		<FtpPasswordTip>Brugerens kodeord skal være tomt, hvis du bruger anonym bruger</FtpPasswordTip>
+		<FtpRemoteDir>Fjern mappe:</FtpRemoteDir>
+		<FtpRemoteDirTip>Hvis tom, vil startmappen blive brugt</FtpRemoteDirTip>
+		<HostNotBlank>Hostens navn bør ikke være tom</HostNotBlank>
+		<PasswordNeed>Kodeord skal være specificerede for ikke-anonyme brugere</PasswordNeed>
+		<VideoInfo>Videoinformation</VideoInfo>
+		<File>Fil:</File>
+		<Title>Titel:</Title>
+		<Desc>Beskrivelse:</Desc>
+		<Tags>Tags:</Tags>
+		<Category>Kategori:</Category>
+		<TagsTip>Separer tags med ","</TagsTip>
+		<Public>Offentlig</Public>
+		<Private>Privat</Private>
+		<Successful>Succesfuldt uploadet</Successful>
+		<Failed>Upload fejlede</Failed>
+		<Waiting>Venter på upload</Waiting>
+		<Uploading>Uploading</Uploading>
+		<CheckNetwork>Venligt, tjek netværksforbindelsen med serveren</CheckNetwork>
+		<PermissionDenied>Tilladelse nægtet</PermissionDenied>
+		<AuthFailed>Godkendelse mislykket</AuthFailed>
+		<ImageTitle>Upload til [#Website#]</ImageTitle>
+		<ImageSecurityTips>Dine filer er 100% sikre med sikkerhedsbeskyttelse</ImageSecurityTips>
+		<Optional>Valgfrit</Optional>
+		<OptionalTitle>Titel</OptionalTitle>
+		<OptionalPassword>Kodeord</OptionalPassword>
+		<TitleTips>Du kan bestemme et navn for dette billede</TitleTips>
+		<PassswordTips>Påkræv besøgere at skrive et kodeord for at se dit billede</PassswordTips>
+		<ShareOn>Del på [#Twitter#]</ShareOn>
+		<YouTubeFileHelp>Ugyldigt filformat, lær hvordan du kan konvertere det til et YouTube-understøttet format.</YouTubeFileHelp>
+		<NotYouTubeSupported>Din fil understøttes ikke af YouTube:</NotYouTubeSupported>
+		<ContinueUploading>Fortsæt upload?</ContinueUploading>
+	</Upload>	
+</Apowersoft>

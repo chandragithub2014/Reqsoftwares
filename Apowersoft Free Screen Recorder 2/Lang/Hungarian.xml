@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Apowersoft LangName="Magyar" Time="04/27/2015">
+	<Comm> 
+		<Region>Régió</Region>
+		<RegionFullScreen>Teljes képernyő</RegionFullScreen>
+		<Options>Beállítások</Options>
+		<Help>Segítség</Help>
+		<OnlineSupport>Online támogatás</OnlineSupport>
+		<Purchase>Vásárlás</Purchase>
+		<Updates>Frissítések keresése</Updates>
+		<About>Névjegy</About>
+		<Language>Nyelv</Language>
+		<Tools>Eszközök</Tools>
+		<Exit>Kilépés</Exit>
+		<UserGuide>Felhasználói kézikönyv</UserGuide>
+		<Register>Regisztráció</Register>
+		<Forum>Fórum</Forum>
+		<Support>Támogatás</Support>
+		<Screenshot>Képernyőkép</Screenshot>
+		<Ready>Kész</Ready>
+		<Default>Alapértelmezett</Default>
+		<Width>Szélesség</Width>
+		<Height>Magasság</Height>
+		<FileName>Fájlnév</FileName>
+		<DontShowAgain>Ne mutassa újra</DontShowAgain>
+		<Finished>Elkészült</Finished>
+		<HotkeyRegisterError>A gyorsbillentyűt már más alkalmazások használják:</HotkeyRegisterError>
+		<OpenMainWindow>[#AppName#] megnyitása</OpenMainWindow>
+		<ResetWarnings>Minden figyelmeztetés alaphelyzetbe állítva!</ResetWarnings>
+		<ProVersion>Pro változat</ProVersion>
+		<CloseActionTitle>Mi történjen?</CloseActionTitle>
+		<CloseActionMinimizeToSystemTray>Kicsinyítés a tálcára</CloseActionMinimizeToSystemTray>
+		<CloseActionExitProgram>Kilépés a programból</CloseActionExitProgram>
+		<IsStillRunning>A(z) [#AppName#] még fut...</IsStillRunning>
+		<FaildSaveFile>A kép mentése sikertelen</FaildSaveFile>
+		<FaildPrintImage>A kép nyomtatása sikertelen</FaildPrintImage>
+		<FaildCopyToClipboard>A kép vágólapra másolása sikertelen</FaildCopyToClipboard>
+		<HotkeyChangeAsk>Meg szeretné változtatni a gyorsbillentyűt?</HotkeyChangeAsk>
+		<CaptureImageTips>Kattintson rá, tartsa nyomva és húzza el a régiót</CaptureImageTips>
+		<Confirm>Megerősít</Confirm>
+		<Error>Hiba</Error>
+		<Custom>Egyéni</Custom>
+		<SelectRegion>Régió választás</SelectRegion>
+		<Status>Állapot</Status>
+	</Comm>
+	<Button> 
+		<Close>Bezárás</Close>
+		<OK>OK</OK>
+		<Cancel>Mégse</Cancel>
+		<Register>Regisztráció</Register>
+		<OrderNow>Vásárlás</OrderNow>
+		<CopyToClipboard>Vágólapra küldés</CopyToClipboard>
+		<SaveAs>Mentés másként...</SaveAs>
+		<Yes>Igen</Yes>
+		<No>Nem</No>
+		<Evaluate>Kipróbálás</Evaluate>
+		<Settings>Beállítások</Settings>
+		<ResetWarnings>Figyelmeztetések alaphelyzetbe állítása</ResetWarnings>
+		<Save>Mentés</Save>
+		<Edit>Szerkesztés</Edit>
+		<Upload>Feltöltés</Upload>
+		<Share>Megosztás</Share>
+		<TakeScreenshot>Képernyőkép készítése</TakeScreenshot>
+		<Minimizetray>Kicsinyítés a tálcára</Minimizetray>
+		<OpenFolder>Mappa megnyitása</OpenFolder>
+		<SelectAll>Mindent kiválaszt</SelectAll>
+		<DeselectAll>Összes kijelölés megszüntetése</DeselectAll>
+		<ReCapture>Újrarögzítés</ReCapture>
+		<SendEmail>E-mail küldése</SendEmail>
+		<Print>Nyomtatás</Print>
+	</Button>
+	<Options>
+		<General>Általános</General>
+		<AutoStart>Program betöltése a Windows indulásakor</AutoStart>
+		<ConfirmQuit>Jóváhagyás kérése a program bezárásakor</ConfirmQuit>
+		<HideInterface>Tálcára kicsinyítés rögzítés közben</HideInterface>
+		<IncludeCursor>Kurzor rögzítése</IncludeCursor>
+		<HotkeyEnable>Gyorsbillentyűk engedélyezése</HotkeyEnable>
+		<HotkeyScreenshot>Képernyőkép gyorsgomb</HotkeyScreenshot>
+		<HotkeyStartRecording>Rögzítés indítása</HotkeyStartRecording>
+		<HotkeyStopRecording>Rögzítés leállítása</HotkeyStopRecording>
+		<HotkeyPauseRecording>Rögzítés szüneteltetése/folytatása</HotkeyPauseRecording>
+		<HotkeyShowRecToolbar>Rögzítési eszköztár megjelenítése/elrejtése</HotkeyShowRecToolbar>
+		<DefaultOutputDir>Alapértelmezett kimeneti mappa:</DefaultOutputDir>
+		<ChooseOutputFolder>Válassza ki a képernyőképek mentésére használandó mappát</ChooseOutputFolder>
+		<Recording>Rögzítés</Recording>
+		<ShowCountdown>Visszaszámlálás megjelenítése rögzítés előtt</ShowCountdown>
+		<Beep>Csippantás rögzítés indításakor</Beep>
+		<ShowBoundary>Rögzítési határok megjelenítése</ShowBoundary>
+		<ShowToolbar>Rögzítési eszköztár megjelenítése</ShowToolbar>
+		<RecordOnStart>Rögzítés megkezdése a program indulásakor</RecordOnStart>
+		<VideoFormat>Videó formátuma:</VideoFormat>
+		<OptimizeVideo>Videó optimalizálása</OptimizeVideo>
+		<DisableScreenSaver>Képernyőkímélő letiltása</DisableScreenSaver>
+		<HideDesktopIcons>Asztali ikonok elrejtése</HideDesktopIcons>
+		<HideTaskbar>Tálca automatikus elrejtése</HideTaskbar>
+		<Advanced>Haladó</Advanced>
+		<MouseStyleSettings>Egérstílus beállításai</MouseStyleSettings>
+		<AudioInputSettings>Audióbemenet beállításai</AudioInputSettings>
+		<AdvVideoSettings>Speciális videóbeállítások</AdvVideoSettings>
+		<SystemSound>Rendszerhang:</SystemSound>
+		<Microphone>Mikrofon:</Microphone>
+		<AudioQuality>Hangminőség:</AudioQuality>
+		<OpenSoundDialog>Hangpanel megnyitása</OpenSoundDialog>
+		<Format>Formátum</Format>
+		<Codec>Kodek:</Codec>
+		<Bitrate>Bitráta:</Bitrate>
+		<FrameRate>Képkockasebesség:</FrameRate>
+		<AccessibleMode>Kisegítő lehetőségek engedélyezése</AccessibleMode>
+		<AnimateMouseButtons>Animált egérgombok</AnimateMouseButtons>
+		<AnimateMouseClicks>Animált egérkattintás</AnimateMouseClicks>
+		<LeftMouseClickColor>Balklikk-animáció színe:</LeftMouseClickColor>
+		<RightMouseClickColor>Jobbklikk-animáció színe:</RightMouseClickColor>
+		<ShowMouseHotspot>Kurzorjelölő megjelenítése</ShowMouseHotspot>
+		<MouseHotspotColor>Kurzorjelölő színe:</MouseHotspotColor>
+		<MouseHotspotSize>Kurzorjelölő mérete:</MouseHotspotSize>
+	</Options>
+	<PaintEdit> 
+		<Rectangle>Téglalap</Rectangle>
+		<Ellipse>Ellipszis</Ellipse>
+		<Arrow>Nyíl</Arrow>
+		<CurveArrow>Íves nyíl</CurveArrow>
+		<Pencil>Toll</Pencil>
+		<HighLight>Kiemelés</HighLight>
+		<Text>Szöveg</Text>
+		<Undo>Visszavonás</Undo>
+		<Clear>Törlés</Clear>
+		<Line>Vonal</Line>
+		<Thin>Vékony</Thin>
+		<Medium>Közepes</Medium>
+		<Thick>Vastag</Thick>
+		<Blur>Elmosás</Blur>
+		<BlurPixelate>Képpontok</BlurPixelate>
+		<BlurSmooth>Simítás</BlurSmooth>
+	</PaintEdit>
+	<Register> 
+		<TrialVersion>Ez egy próbaváltozat</TrialVersion>
+		<Tips>Regisztráció után a program minden funkciója használható, és értesítéseket kaphat a frissítésekről és a termékeket érintő hírekről.</Tips>
+		<Note>Figyelem: Az e-mail cím megkülönbözteti a kis- és nagybetűket.</Note>
+		<EmailAddress>E-mail cím</EmailAddress>
+		<LicenseCode>Licenckód</LicenseCode>
+		<ThankYou>Köszönjük, hogy regisztrált</ThankYou>
+		<RegistredFor>Regisztrálva a következő e-mail címre: [#email@email.com#]</RegistredFor>
+		<InvalidLicense>A licenckód érvénytelen, vagy nem ehhez a verzióhoz való.</InvalidLicense>
+		<InvalidEmail>Érvénytelen e-mail cím![#NewLine#]Ellenőrizze, hogy jó e-mail címet adott-e meg.</InvalidEmail>
+		<ChangeLicense>Licenc megváltoztatása</ChangeLicense>
+		<TechnicalSupport>Technikai támogatás</TechnicalSupport>
+		<TrialVersionReminder>Próbaváltozat emlékeztető</TrialVersionReminder>
+		<Benefits>Vásárolja meg a teljes változatot most, íme az előnyök</Benefits>
+		<BenefitsGot>Ezekhez az előnyökhöz jutott hozzá</BenefitsGot>
+		<Benefits1> Nincs több emlékeztető és vízjel.</Benefits1>
+		<Benefits2> Korlátlan funkciók.</Benefits2>
+		<Benefits3> Ingyenes frissítések a főverziókon belül.</Benefits3>
+		<Benefits4> Életre szóló e-mailes technikai támogatás.</Benefits4>
+		<Benefits5> 30 napos pénz-visszafizetési garancia.</Benefits5>
+		<TrialDaysLeft>A próbaváltozat [#Days#] nap múlva lejár</TrialDaysLeft>
+		<TrialExpired>A próbaváltozat lejárt</TrialExpired>
+	</Register>
+	<Updates>
+		<NewVersion>Új [#AppName#].[#NewLine#]érhető el. Szeretné most frissíteni a programot?</NewVersion>
+		<LatestVersion>A legfrissebb verziót használja!</LatestVersion>
+	</Updates>
+	<SchedulerTask>
+		<Title>Feladatütemező</Title>
+		<CreateTask>Feladat létrehozása</CreateTask>
+		<TaskList>Feladatlista</TaskList>
+		<TaskName>Név</TaskName>
+		<Trigger>Kiindító</Trigger>
+		<Daily>Napi</Daily>
+		<Weekly>Heti</Weekly>
+		<StartTime>Indítási idő</StartTime>
+		<Duration>Időtartam</Duration>
+		<RepeatRec>Rögzítés megismétlése</RepeatRec>
+		<StopManually>Rögzítés leállítása kézzel</StopManually>
+		<RepeatTimes>Ismétlések száma</RepeatTimes>
+		<StopTime>Befejezés ideje</StopTime>
+		<Stop>Leállítás</Stop>
+		<Delete>Törlés</Delete>
+		<Action>Esemény</Action>
+		<RecFullscreen>Teljes képernyő rögzítése</RecFullscreen>
+		<RecRegion>Egyéni terület rögzítése</RecRegion>
+		<SelectRegion>Régió kiválasztása</SelectRegion>
+		<RecOnlyAudio>Csak hang rögzítése</RecOnlyAudio>
+		<Shutdown>Leállítás</Shutdown>
+		<ShutdownAfterFinish>Számítógép leállítása a feladat befejezése után</ShutdownAfterFinish>
+		<Create>Létrehozás</Create>
+		<Sunday>Vasárnap</Sunday>
+		<Monday>Hétfő</Monday>
+		<Tuesday>Kedd</Tuesday>
+		<Wednesday>Szerda</Wednesday>
+		<Thursday>Csütörtök</Thursday>
+		<Friday>Péntek</Friday>
+		<Saturday>Szombat</Saturday>
+		<TaskNameWarn>A feladatnév nem lehet üres, vagy egy másik feladatéval megegyező.</TaskNameWarn>
+		<StartTimeWarn>Az indítási időpontnak a jövőben kell lennie.</StartTimeWarn>
+		<IntervalWarn>A gyakoriság nem lehet 1 másodpercnél kevesebb.</IntervalWarn>
+		<StopTimeWarn>A leállítás idejének későbbre kell esnie, mint a kezdésének.</StopTimeWarn>
+		<RegionWarn>Az egyéni régió nem lehet üres.</RegionWarn>
+		<DailyTime>Minden nap ekkor: [#time#]</DailyTime>
+		<Waiting>Várakozás</Waiting>
+		<Running>Fut</Running>
+		<Stopped>Leállítva</Stopped>
+		<NoScheduleTask>Nincs ütemezett feladat</NoScheduleTask>
+		<ClosestTaskCountdown>A következő ütemezett feladatig hátra van [#time#]</ClosestTaskCountdown>
+	</SchedulerTask>
+	<Screenshot>
+		<HideInterface>Rejts el képernyőkép-készítéskor</HideInterface>
+		<IncludeCursor>Egérkurzor rögzítése</IncludeCursor>
+	</Screenshot>
+	<Record>
+		<Record>Rögzítés</Record>
+		<Start>Start</Start>
+		<Pause>Szünet</Pause>
+		<Resume>Folytatás</Resume>
+		<Stop>Leállítás</Stop>
+		<ShowToolbar>Eszköztár megjelenítése</ShowToolbar>
+		<AudioInput>Audióbemenet</AudioInput>
+		<AroundMouse>Egér körül</AroundMouse>
+		<WebCamera>Webkamera</WebCamera>
+		<OnlyAudio>Csak hang</OnlyAudio>
+		<None>Semmi</None>
+		<SystemSound>Rendszerhang</SystemSound>
+		<Microphone>Mikrofon</Microphone>
+		<SysSoundAndMicrophone>Rendszerhang és mikrofon</SysSoundAndMicrophone>
+		<ViewLogs>Naplók megtekintése</ViewLogs>
+		<Processing>Feldolgozás</Processing>
+		<FileName>Fájlnév</FileName>
+		<Size>Méret</Size>
+		<Duration>Időtartam</Duration>
+		<Delete>Törlés</Delete>
+		<Remove>Eltávolítás</Remove>
+		<Rename>Átnevezés</Rename>
+		<Play>Lejátszás</Play>
+		<Convert>Konvertálás</Convert>
+		<VideoEdit>Videó szerkesztése</VideoEdit>
+		<RemoveTip>Biztosan eltávolítja a listáról a kijelölt fájlokat?</RemoveTip>
+		<DeleteTip>Biztosan teljesen eltávolítja a kijelölt fájlokat?</DeleteTip>
+		<FileNotFound>A megadott fájl nem található:</FileNotFound>
+		<FileNameExist>Már van ilyen nevű fájl a mappában:</FileNameExist>
+		<AudioQualityHigh>Magas</AudioQualityHigh>
+		<AudioQualityStandard>Átlagos</AudioQualityStandard>
+		<AudioQualityLow>Alacsony</AudioQualityLow>
+		<Recording>Rögzítés...</Recording>
+		<Paused>Szüneteltetve</Paused>
+		<Volume>Kötet</Volume>
+		<ConnectCameraTip>Hopsz, ehhez webkamera kell. Csatlakoztasson webkamerát és próbálkozzon újra.</ConnectCameraTip>
+		<SelectCamera>Webkamera kiválasztása</SelectCamera>
+		<OutputResolution>Kimeneti felbontás</OutputResolution>
+		<ComponentsError>Rögzítésikomponens-hiba, megoldás most?</ComponentsError>
+		<FixSucceed>A probléma sikeresen megoldva!</FixSucceed>
+		<FixFail>Nem sikerült megoldani a problémát, próbálja újratelepíteni a programot.</FixFail>
+	</Record>
+	<Upload>
+		<ToYouTube>Feltöltés: YouTube</ToYouTube>
+		<ToFTP>Feltöltés: FTP</ToFTP>
+		<Settings>Feltöltési beállítások</Settings>
+		<OnYouTubeCom>Feltöltés a Youtube.com-ra</OnYouTubeCom>
+		<Login>Bejelentkezés</Login>
+		<YouTubeUserName>Felhasználónév(Email):</YouTubeUserName>
+		<UserNameNotBlank>Az e-mail nem lehet üres</UserNameNotBlank>
+		<Password>Jelszó:</Password>
+		<PasswordNotBlank>A jelszó nem lehet üres</PasswordNotBlank>
+		<YouTubeLoginNote>Figyelem: A feltöltéshez engedélyeznie kell a YouTube "Kevésbé biztonságos alkalmazások engedélyezése" opcióját.</YouTubeLoginNote>
+		<OpenWeb>A videó weblapjának megnyitása, miután a feltöltés elkészült</OpenWeb>
+		<SetVideoInfo>Videóinformációk megadása feltöltés előtt</SetVideoInfo>
+		<FtpServer>FTP-szerver</FtpServer>
+		<FtpHostName>Kiszolgálónév:</FtpHostName>
+		<FtpHostNameTip>FTP-szerver neve vagy IP-címe</FtpHostNameTip>
+		<FtpPort>Port:</FtpPort>
+		<FtpPortTip>Ha üresen hagyja, az alapértelmezett port lesz használva (21)</FtpPortTip>
+		<FtpUserName>Felhasználónév:</FtpUserName>
+		<FtpUserNameTip>Ha üresen hagyja, anonim felhasználó lesz használva</FtpUserNameTip>
+		<FtpPasswordTip>Felhasználói jelszó, hagyja üresen, ha anonim felhasználóként jelentkezik be</FtpPasswordTip>
+		<FtpRemoteDir>Távoli könyvtár:</FtpRemoteDir>
+		<FtpRemoteDirTip>Ha üresen hagyja, a gyökérkönyvtár lesz használva</FtpRemoteDirTip>
+		<HostNotBlank>A kiszolgálónév nem lehet üres</HostNotBlank>
+		<PasswordNeed>Jelszót kell megadnia, ha nem anonim felhasználóként jelentkezik be</PasswordNeed>
+		<VideoInfo>Videó adatai</VideoInfo>
+		<File>Fájl:</File>
+		<Title>Cím:</Title>
+		<Desc>Leírás:</Desc>
+		<Tags>Tagek:</Tags>
+		<Category>Kategória:</Category>
+		<TagsTip>A tageket vesszővel válassza el egymástól: ","</TagsTip>
+		<Public>Publikus</Public>
+		<Private>Privát</Private>
+		<Successful>A feltöltés sikeres</Successful>
+		<Failed>A feltöltés sikertelen</Failed>
+		<Waiting>Várakozás a feltöltésre</Waiting>
+		<Uploading>Feltöltés</Uploading>
+		<CheckNetwork>Kérjük, ellenőrizze a szerverrel való hálózati kapcsolat állapotát</CheckNetwork>
+		<PermissionDenied>Hozzáférés megtagadva</PermissionDenied>
+		<AuthFailed>A hitelesítés sikertelen</AuthFailed>
+		<ImageTitle>Feltöltés ide: [#Website#]</ImageTitle>
+		<ImageSecurityTips>A fájljait 100%-os védelem tartja biztonságban</ImageSecurityTips>
+		<Optional>Opcionális</Optional>
+		<OptionalTitle>Cím</OptionalTitle>
+		<OptionalPassword>Jelszó</OptionalPassword>
+		<TitleTips>Megadhat egy nevet a képnek</TitleTips>
+		<PassswordTips>Jelszó kérése a látogatóktól a kép megtekintéséhez</PassswordTips>
+		<ShareOn>Megosztás: [#Twitter#]</ShareOn>
+		<YouTubeFileHelp>Érvénytelen fájlformátum! Nézzen utána, hogyan konvertálhatja YouTube-kompatibilis formátumba.</YouTubeFileHelp>
+		<NotYouTubeSupported>Ezt a fájlt a YouTube nem támogatja:</NotYouTubeSupported>
+		<ContinueUploading>Folytatja a feltöltést?</ContinueUploading>
+	</Upload>	
+</Apowersoft>

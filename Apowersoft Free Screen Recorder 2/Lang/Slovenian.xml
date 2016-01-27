@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Apowersoft LangName="Slovenščina" Time="04/24/2015">
+	<Comm> 
+		<Region>Področje</Region>
+		<RegionFullScreen>Celi zaslon</RegionFullScreen>
+		<Options>Možnosti</Options>
+		<Help>Pomoč</Help>
+		<OnlineSupport>Spletna podpora</OnlineSupport>
+		<Purchase>Nakup</Purchase>
+		<Updates>Pretevri za posodobitve</Updates>
+		<About>Vizitka</About>
+		<Language>Jezik</Language>
+		<Tools>Orodja</Tools>
+		<Exit>Izhod</Exit>
+		<UserGuide>Navodila za uporabo</UserGuide>
+		<Register>Registriraj</Register>
+		<Forum>Forum</Forum>
+		<Support>Podpora</Support>
+		<Screenshot>Zaslonski posnetek</Screenshot>
+		<Ready>Pripravljen</Ready>
+		<Default>Privzeto</Default>
+		<Width>Širina</Width>
+		<Height>Višina</Height>
+		<FileName>Ime datoteke</FileName>
+		<DontShowAgain>Tega več ne prikazuj</DontShowAgain>
+		<Finished>Končano</Finished>
+		<HotkeyRegisterError>Bližnjica je že registrirana z drugimi aplikacijami:</HotkeyRegisterError>
+		<OpenMainWindow>Opri [#AppName#]</OpenMainWindow>
+		<ResetWarnings>Vse pogovorna opozorila so bila ponastavljena!</ResetWarnings>
+		<ProVersion>Pro različica</ProVersion>
+		<CloseActionTitle>Ali želite</CloseActionTitle>
+		<CloseActionMinimizeToSystemTray>Pomanjšaj v programsko vrstico</CloseActionMinimizeToSystemTray>
+		<CloseActionExitProgram>Zapusti program</CloseActionExitProgram>
+		<IsStillRunning>Program [#AppName#] se še vedno izvaja...</IsStillRunning>
+		<FaildSaveFile>Ni uspelo shranjevanje slike</FaildSaveFile>
+		<FaildPrintImage>Ni uspelo tiskanje slike</FaildPrintImage>
+		<FaildCopyToClipboard>Ni uspelo kopiranje slike v odložišče</FaildCopyToClipboard>
+		<HotkeyChangeAsk>Ali želite zdaj spremeniti vročo tipko?</HotkeyChangeAsk>
+		<CaptureImageTips>Kliknite, držite in povlecite področje</CaptureImageTips>
+		<Confirm>Potrditev</Confirm>
+		<Error>Napaka</Error>
+		<Custom>Po meri</Custom>
+		<SelectRegion>Izberi področje</SelectRegion>
+		<Status>Stanje</Status>
+	</Comm>
+	<Button> 
+		<Close>Zapri</Close>
+		<OK>Vredu</OK>
+		<Cancel>Prekliči</Cancel>
+		<Register>Registriraj</Register>
+		<OrderNow>Takojšnji nakup</OrderNow>
+		<CopyToClipboard>Kopiraj v odložišče</CopyToClipboard>
+		<SaveAs>Shrani kot...</SaveAs>
+		<Yes>Da</Yes>
+		<No>Ne</No>
+		<Evaluate>Ocenjevanje</Evaluate>
+		<Settings>Nastavitve</Settings>
+		<ResetWarnings>Ponastavi pogovorna opozorila</ResetWarnings>
+		<Save>Shrani</Save>
+		<Edit>Uredi</Edit>
+		<Upload>Naloži</Upload>
+		<Share>Deli</Share>
+		<TakeScreenshot>Zajemi posntek zaslona</TakeScreenshot>
+		<Minimizetray>Pomanjšaj v programsko vrstico</Minimizetray>
+		<OpenFolder>Odpri mapo</OpenFolder>
+		<SelectAll>Izberi vse</SelectAll>
+		<DeselectAll>Odznači vse</DeselectAll> 
+		<ReCapture>Znova zajemi</ReCapture>
+		<SendEmail>Pošlji e-pošto</SendEmail>
+		<Print>Natisni</Print>
+	</Button>
+	<Options>
+		<General>Splošno</General>
+		<AutoStart>Zaženi program ob uagonu Windows</AutoStart>
+		<ConfirmQuit>Spomni me, ko se program zapre</ConfirmQuit>
+		<HideInterface>Pomanjšaj v programsko vrstico med snemanjem</HideInterface>
+		<IncludeCursor>V zajem vključi kazalec miške</IncludeCursor>
+		<HotkeyEnable>Omogoči bližnjice s tipkovnico</HotkeyEnable>
+		<HotkeyScreenshot>Bližnjica za zaslonski posnetek</HotkeyScreenshot>
+		<HotkeyStartRecording>Začni snemati</HotkeyStartRecording>
+		<HotkeyStopRecording>Ustavi snemanje</HotkeyStopRecording>
+		<HotkeyPauseRecording>Pavza/Zaključek snemanja</HotkeyPauseRecording>
+		<HotkeyShowRecToolbar>Prikaži/Skrij orodno vrstico za snemanje</HotkeyShowRecToolbar>
+		<DefaultOutputDir>Privzet izhodni imenik:</DefaultOutputDir>
+		<ChooseOutputFolder>Izberite izhodni imenik</ChooseOutputFolder>
+		<Recording>Snemanje</Recording>
+		<ShowCountdown>Prikaži odštevanje pred snemanjem</ShowCountdown>
+		<Beep>Pisk ob začetku/zaustavitvi snemanja</Beep>
+		<ShowBoundary>Prikaži meje snemanja</ShowBoundary>
+		<ShowToolbar>Prikaži orodno vrstico za snemanje</ShowToolbar>
+		<RecordOnStart>Record automatically when the program starts</RecordOnStart>
+		<VideoFormat>Format videa:</VideoFormat>
+		<OptimizeVideo>Optimiziraj video</OptimizeVideo>
+		<DisableScreenSaver>Onemogoči ohranjevalnik zaslona</DisableScreenSaver>
+		<HideDesktopIcons>Skrij ukone z namizja</HideDesktopIcons>
+		<HideTaskbar>Samodejno skrij opravilno vrstico</HideTaskbar>
+		<Advanced>Napredno</Advanced>
+		<MouseStyleSettings>Nastavitve sloga miške</MouseStyleSettings>
+		<AudioInputSettings>Nastavitve vhodnega zvoka</AudioInputSettings>
+		<AdvVideoSettings>Napredne nastavitve videa</AdvVideoSettings>
+		<SystemSound>Sistemski zvok:</SystemSound>
+		<Microphone>Mikrofon:</Microphone>
+		<AudioQuality>Kakovost zvoka:</AudioQuality>
+		<OpenSoundDialog>Odpri pogovorno okno zvoka</OpenSoundDialog>
+		<Format>Format</Format>
+		<Codec>Kodek:</Codec>
+		<Bitrate>Bitna hitrost:</Bitrate>
+		<FrameRate>Frekvenca sličic:</FrameRate>
+		<AccessibleMode>Omogoči dostopen način</AccessibleMode>
+		<AnimateMouseButtons>Animiraj gumbe miške</AnimateMouseButtons>
+		<AnimateMouseClicks>Animiraj klike kiške</AnimateMouseClicks>
+		<LeftMouseClickColor>Barva animacije levega klika:</LeftMouseClickColor>
+		<RightMouseClickColor>Barva animacije desnega klika:</RightMouseClickColor>
+		<ShowMouseHotspot>Prikaži vroče mesto miške</ShowMouseHotspot>
+		<MouseHotspotColor>Barva vročega mest amiške:</MouseHotspotColor>
+		<MouseHotspotSize>Velikost vročega mesta miške:</MouseHotspotSize>
+	</Options>
+	<PaintEdit> 
+		<Rectangle>Pravokotnik</Rectangle>
+		<Ellipse>Elipsa</Ellipse>
+		<Arrow>Puščica</Arrow>
+		<CurveArrow>Ukrivljena puščica</CurveArrow>
+		<Pencil>Pero</Pencil>
+		<HighLight>Označevanje</HighLight>
+		<Text>Besedilo</Text>
+		<Undo>Razveljavi</Undo>
+		<Clear>Počisti</Clear>
+		<Line>Črta</Line>
+		<Thin>Tanka</Thin>
+		<Medium>Srednja</Medium>
+		<Thick>Debela</Thick>
+		<Blur>Zameglitev</Blur>
+		<BlurPixelate>Kvadriranje</BlurPixelate>
+		<BlurSmooth>Glajenje</BlurSmooth>
+	</PaintEdit>
+	<Register> 
+		<TrialVersion>To je preiskusna različica</TrialVersion>
+		<Tips>Ko enkrat registrirate program vam le-ta omogoča, da v celoti izkoristite vse njegove funkcije, obveščanje o posodobitvah in informacijah o našem izdelku.</Tips>
+		<Note>Opomba: E-poštni naslov je občutljiv na male-VELIKE črke.</Note>
+		<EmailAddress>E-poštni naslov</EmailAddress>
+		<LicenseCode>Licenčn akoda</LicenseCode>
+		<ThankYou>Hvala za registracijo</ThankYou>
+		<RegistredFor>Registriran na ime [#email@email.com#]</RegistredFor>
+		<InvalidLicense>Licenčna koda je neveljavna ali se ne ujema s to različico.</InvalidLicense>
+		<InvalidEmail>Neveljaven e-poštni naslov![#NewLine#]Prosimo, poskrbite za vnos pravilnega e-poštnega naslova.</InvalidEmail>
+		<ChangeLicense>Spremeni licenco</ChangeLicense>
+		<TechnicalSupport>Tehnična podpora</TechnicalSupport>
+		<TrialVersionReminder>Opomnik preizkusne različice</TrialVersionReminder>
+		<Benefits>Kupite zdaj in pridobite naslednje ugodnosti:</Benefits>
+		<BenefitsGot>Imate te prednosti:</BenefitsGot>
+		<Benefits1> Ni več opominov ali vodnih žigov.</Benefits1>
+		<Benefits2> Ni omejitev vseh funkcij.</Benefits2>
+		<Benefits3> Brezplačne posodobitve znotraj glavne različice.</Benefits3>
+		<Benefits4> Brezplačna doživljenska podpora po elektronski pošti.</Benefits4>
+		<Benefits5> 30-dnevno jamčevanje vrnitve denarja.</Benefits5>
+		<TrialDaysLeft>Preizkusna različica bo potekla po [#Days#] dnevih</TrialDaysLeft>
+		<TrialExpired>Preizkusna različica je potekla</TrialExpired>
+	</Register>
+	<Updates>
+		<NewVersion>Nova različica programa [#AppName#].[#NewLine#] je bila zaznana. Ali jo želite zdaj posodobiti?</NewVersion>
+		<LatestVersion>Uporabljate zadnjo različico!</LatestVersion>
+	</Updates>
+	<SchedulerTask>
+		<Title>Rokovnik opravil</Title>
+		<CreateTask>Ustvari opravilo</CreateTask>
+		<TaskList>Seznam opravil</TaskList>
+		<TaskName>Ime</TaskName>
+		<Trigger>Sprožilec</Trigger>
+		<Daily>Dnevno</Daily>
+		<Weekly>Tedensko</Weekly>
+		<StartTime>Začetni čas</StartTime>
+		<Duration>Trajanje</Duration>
+		<RepeatRec>Ponovi snemanje</RepeatRec>
+		<StopManually>Ročno ustavi snemanje</StopManually>
+		<RepeatTimes>Ponovi krat</RepeatTimes>
+		<StopTime>Čas ustavitve</StopTime>
+		<Stop>Ustavi</Stop>
+		<Delete>Izbriši</Delete>
+		<Action>Akcija</Action>
+		<RecFullscreen>Snemaj celi zaslon</RecFullscreen>
+		<RecRegion>Snemaj področje po meri</RecRegion>
+		<SelectRegion>Izberi področje</SelectRegion>
+		<RecOnlyAudio>Snemaj samo zvok</RecOnlyAudio>
+		<Shutdown>Vgasni računalnik</Shutdown>
+		<ShutdownAfterFinish>Vgasni računalnik, ko zaključiš opravilo</ShutdownAfterFinish>
+		<Create>Ustvari</Create>
+		<Sunday>Nedelja</Sunday>
+		<Monday>Ponedeljek</Monday>
+		<Tuesday>Torek</Tuesday>
+		<Wednesday>Sreda</Wednesday>
+		<Thursday>Četrtek</Thursday>
+		<Friday>Petek</Friday>
+		<Saturday>Sobota</Saturday>
+		<TaskNameWarn>Opravilo ne sme biti prazno ali ali enako kot obstoječe opravilo.</TaskNameWarn>
+		<StartTimeWarn>Prosimo, nastavite začetni čas v prihodnosti.</StartTimeWarn>
+		<IntervalWarn>Interval ne sme biti manj kot 1 sekundo.</IntervalWarn>
+		<StopTimeWarn>Prosimo, nastavite čas za ustavitev kasneje od časa zagona.</StopTimeWarn>
+		<RegionWarn>Področje po meri ne sme biti prazno</RegionWarn>
+		<DailyTime>Ob [#time#] vsakodnevno</DailyTime>
+		<Waiting>Čakanje</Waiting>
+		<Running>zagnano</Running>
+		<Stopped>ustavljeno</Stopped>
+		<NoScheduleTask>Ni načrtovano opravilo</NoScheduleTask>
+		<ClosestTaskCountdown>Preostalo najbližje načrtovano opravilo [#time#]</ClosestTaskCountdown>
+	</SchedulerTask>
+	<Screenshot>
+		<HideInterface>Skrij vmesnik med zaslonskim posnetkom</HideInterface>
+		<IncludeCursor>Zajemi kazalec miške</IncludeCursor>
+	</Screenshot>
+	<Record>
+		<Record>Snemaj</Record>
+		<Start>Začni</Start>
+		<Pause>Pavziraj</Pause>
+		<Resume>Zaključi</Resume>
+		<Stop>Ustavi</Stop>
+		<ShowToolbar>Prikaži orodno vrstico</ShowToolbar>
+		<AudioInput>Zvočni vhod</AudioInput>
+		<AroundMouse>Okoli miške</AroundMouse>
+		<WebCamera>Spletna kamera</WebCamera>
+		<OnlyAudio>Samo zvok</OnlyAudio>
+		<None>Nič</None>
+		<SystemSound>Sistemski zvok</SystemSound>
+		<Microphone>Mikrofon</Microphone>
+		<SysSoundAndMicrophone>Sistemski zvok in mikrofon</SysSoundAndMicrophone>
+		<ViewLogs>Preglej dnevnike</ViewLogs>
+		<Processing>Obdelava</Processing>
+		<FileName>Ime datoteke</FileName>
+		<Size>Velikost</Size>
+		<Duration>Trajanje</Duration>
+		<Delete>Izbriši</Delete>
+		<Remove>Odstrani</Remove>
+		<Rename>Preimenuj</Rename>
+		<Play>Predvajaj</Play>
+		<Convert>Pretvori</Convert>
+		<VideoEdit>Uredi video</VideoEdit>
+		<RemoveTip>Ali res želite odstraniti izbrane datoteke s seznama?</RemoveTip>
+		<DeleteTip>Ali res želite izbrisati izbrane datoteke?</DeleteTip>
+		<FileNotFound>Navedene datoteke ni mogoče najti:</FileNotFound>
+		<FileNameExist>Že obstaja datoteka z istim imenom v imeniku:</FileNameExist>
+		<AudioQualityHigh>Visoka</AudioQualityHigh>
+		<AudioQualityStandard>Standardna</AudioQualityStandard>
+		<AudioQualityLow>Nizka</AudioQualityLow>
+		<Recording>Snemanje...</Recording>
+		<Paused>Na pavzi</Paused>
+		<Volume>Jakost</Volume>
+		<ConnectCameraTip>Opa. To zahteva spletno kamero. Prosimo, da povežete spletno kamero in ponovno poskusite.</ConnectCameraTip>
+		<SelectCamera>Izberi spletno kamero</SelectCamera>
+		<OutputResolution>Izhodna ločljivost</OutputResolution>
+		<ComponentsError>Napaka komponent za snemanje. Naj jo zdaj popravim?</ComponentsError>
+		<FixSucceed>Težava je uspešno popravljena!</FixSucceed>
+		<FixFail>Ni uspelo odpravljanje težave. Poskusite ponovno namestiti program.</FixFail>
+	</Record>
+	<Upload>
+		<ToYouTube>Naloži na YouTube</ToYouTube>
+		<ToFTP>Naloži na FTP</ToFTP>
+		<Settings>Nastavitve nalaganja</Settings>
+		<OnYouTubeCom>Naloži na youtube.com</OnYouTubeCom>
+		<Login>Prijava</Login>
+		<YouTubeUserName>Uporabniško ime (E-pošta):</YouTubeUserName>
+		<UserNameNotBlank>E-pošta ne sme biti prazna</UserNameNotBlank>
+		<Password>Geslo:</Password>
+		<PasswordNotBlank>Geslo ne sme biti prazno</PasswordNotBlank>
+		<YouTubeLoginNote>Opomba: Morate omogočiti "Dostop za manj varne aplikacije" za nalaganje video posnetkov na YouTube.</YouTubeLoginNote>
+		<OpenWeb>Odpri video stran po prenosu datotek</OpenWeb>
+		<SetVideoInfo>Pred nalaganjem nastavi informacije o videu</SetVideoInfo>
+		<FtpServer>FTP strežnik</FtpServer>
+		<FtpHostName>Ime gostitelja:</FtpHostName>
+		<FtpHostNameTip>Ime ali IP naslov FTP strežnika</FtpHostNameTip>
+		<FtpPort>Vrata:</FtpPort>
+		<FtpPortTip>Če pustite prazno, bodo uporabljena privzeta vrata 21</FtpPortTip>
+		<FtpUserName>Uporabniško ime:</FtpUserName>
+		<FtpUserNameTip>Če je prazno, bo uporabljen anonimni uporabnik</FtpUserNameTip>
+		<FtpPasswordTip>Uporabniško geslo pustite prazno, če se uporablja anonimni uporabnik</FtpPasswordTip>
+		<FtpRemoteDir>Oddaljen imenik:</FtpRemoteDir>
+		<FtpRemoteDirTip>Če pustite prazno, bo nastavljen korenski imenik</FtpRemoteDirTip>
+		<HostNotBlank>Ime gostitelja ne sme biti prazno</HostNotBlank>
+		<PasswordNeed>Geslo mora biti navedeno za neanonimnega uporabnika</PasswordNeed>
+		<VideoInfo>Informacije o videu</VideoInfo>
+		<File>Datoteka:</File>
+		<Title>Napis:</Title>
+		<Desc>Opis:</Desc>
+		<Tags>Oznake:</Tags>
+		<Category>Kategorija:</Category>
+		<TagsTip>Ločite oznake z ","</TagsTip>
+		<Public>Javno</Public>
+		<Private>Zasebno</Private>
+		<Successful>Nalaganje je uspelo</Successful>
+		<Failed>Nalaganje ni uspelo</Failed>
+		<Waiting>Čakanje na nalaganje</Waiting>
+		<Uploading>Nalaganje</Uploading>
+		<CheckNetwork>Prosimo, preverite omrežno povezavo s strežnikom</CheckNetwork>
+		<PermissionDenied>Dovoljenje je zavrnjeno</PermissionDenied>
+		<AuthFailed>Preverjanje pristnosti ni uspelo</AuthFailed>
+		<ImageTitle>Naloži na [#Website#]</ImageTitle>
+		<ImageSecurityTips>Vaše datoteke so 100% varne z varnostno zaščito</ImageSecurityTips>
+		<Optional>Neobvezno</Optional>
+		<OptionalTitle>Napis</OptionalTitle>
+		<OptionalPassword>Geslo</OptionalPassword>
+		<TitleTips>Lahko nastavite tudi ime za to sliko</TitleTips>
+		<PassswordTips>Zahtevaj od obiskovalcev vnos gesla, da si ogledajo vašo sliko</PassswordTips>
+		<ShareOn>Deli na [#Twitter#]</ShareOn>
+		<YouTubeFileHelp>Neveljaven format datoteke. Preberite kako jo pretvoriti v združljiv YouTube  format.</YouTubeFileHelp> 
+		<NotYouTubeSupported>Vaša datoteka ni podprta z YouTube:</NotYouTubeSupported> 
+		<ContinueUploading>Naj nadaljujem z nalaganjem?</ContinueUploading>
+	</Upload>	
+</Apowersoft>

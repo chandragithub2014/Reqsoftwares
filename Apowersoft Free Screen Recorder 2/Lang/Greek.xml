@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Apowersoft LangName="Ελληνικά" Time="04/27/2015">
+	<Comm>
+		<Region>Περιοχή</Region>
+		<RegionFullScreen>Πλήρης Οθόνη</RegionFullScreen>
+		<Options>Επιλογές</Options>
+		<Help>Βοήθεια</Help>
+		<OnlineSupport>Online Υποστήριξη</OnlineSupport>
+		<Purchase>Παραγγελία</Purchase>
+		<Updates>Έλεγχος για Ενημερώσεις</Updates>
+		<About>Σχετικά</About>
+		<Language>Γλώσσα</Language>
+		<Tools>Εργαλεία</Tools>
+		<Exit>Έξοδος</Exit>
+		<UserGuide>Εγχειρίδιο Χρήστη</UserGuide>
+		<Register>Εγγραφή</Register>
+		<Forum>φόρουμ</Forum>
+		<Support>Υποστήριξη</Support>
+		<Screenshot>Στιγμιότυπο</Screenshot>
+		<Ready>Σε Ετοιμότητα</Ready>
+		<Default>Προεπιλογή</Default>
+		<Width>Πλάτος</Width>
+		<Height>Ύψος</Height>
+		<FileName>Όνομα Αρχείου</FileName>
+		<DontShowAgain>Να μην εμφανιστεί ξανά</DontShowAgain>
+		<Finished>Ολοκληρώθηκε</Finished>
+		<HotkeyRegisterError>Το Hot key χρησιμοποιείται από άλλες εφαρμογές:</HotkeyRegisterError>
+		<OpenMainWindow>Άνοιγμα [#AppName#]</OpenMainWindow>
+		<ResetWarnings>Έχει γίνει επαναφορά σε όλους τους προειδοποιητικούς διαλόγους!</ResetWarnings>
+		<ProVersion>Pro Έκδοση</ProVersion>
+		<CloseActionTitle>Θέλετε να</CloseActionTitle>
+		<CloseActionMinimizeToSystemTray>Ελαχιστοποίηση στο πλαίσιο συστήματος</CloseActionMinimizeToSystemTray>
+		<CloseActionExitProgram>Έξοδος Προγράμματος</CloseActionExitProgram>
+		<IsStillRunning>Το [#AppName#] βρίσκεται ακόμα σε λειτουργία...</IsStillRunning>
+		<FaildSaveFile>Αδυναμία αποθήκευσης της εικόνας</FaildSaveFile>
+		<FaildPrintImage>Αδυναμία εκτύπωσης της εικόνας</FaildPrintImage>
+		<FaildCopyToClipboard>Αδυναμία αντιγραφής της εικόνας στα Πρόχειρα</FaildCopyToClipboard>
+		<HotkeyChangeAsk>Να γίνει αλλαγή του hotkey τώρα?</HotkeyChangeAsk>
+		<CaptureImageTips>Click, κρατήστε και σύρετε μια περιοχή</CaptureImageTips>
+		<Confirm>Επιβεβαίωση</Confirm>
+		<Error>Σφάλμα</Error>
+		<Custom>Προσαρμογή</Custom>
+		<SelectRegion>Επιλογή περιοχής</SelectRegion>
+		<Status>Status</Status>
+	</Comm>
+	<Button>
+		<Close>Κλείσιμο</Close>
+		<OK>OK</OK>
+		<Cancel>Ακύρωση</Cancel>
+		<Register>Εγγραφή</Register>
+		<OrderNow>Αγοράστε τώρα</OrderNow>
+		<CopyToClipboard>Αντιγραφή στα Πρόχειρα</CopyToClipboard>
+		<SaveAs>Αποθήκευση Ως...</SaveAs>
+		<Yes>Ναι</Yes>
+		<No>Όχι</No>
+		<Evaluate>Αξιολόγηση</Evaluate>
+		<Settings>Ρυθμίσεις</Settings>
+		<ResetWarnings>Επαναφορά προειδοποιητικών διαλόγων</ResetWarnings>
+		<Save>Αποθήκευση</Save>
+		<Edit>Επεξεργασία</Edit>
+		<Upload>Μεταφόρτωση</Upload>
+		<Share>Κοινοποίηση</Share>
+		<TakeScreenshot>Καταγραφή Στιγμιότυπου</TakeScreenshot>
+		<Minimizetray>Ελαχιστοποίηση στο Πλαίσιο</Minimizetray>
+		<OpenFolder>Άνοιγμα Φακέλου</OpenFolder>
+		<SelectAll>Επιλογή Όλων</SelectAll>
+		<DeselectAll>Αποεπιλογή όλων</DeselectAll>
+		<ReCapture>Καταγραφή Ξανά</ReCapture>
+		<SendEmail>Αποστολή Email</SendEmail>
+		<Print>Εκτύπωση</Print>
+	</Button>
+	<Options>
+		<General>Γενικά</General>
+		<AutoStart>Εκτέλεση προγράμματος με την εκκίνηση των Windows</AutoStart>
+		<ConfirmQuit>Υπενθύμιση με το κλείσιμο του προγράμματος</ConfirmQuit>
+		<HideInterface>Ελαχιστοποίηση στο πλαίσιο συστήματος κατά τη διάρκεια εγγραφής</HideInterface>
+		<IncludeCursor>Να εμπεριέχεται ο cursor στην καταγραφή</IncludeCursor>
+		<HotkeyEnable>Ενεργοποίηση συντομεύσεων πληκτρολογίου</HotkeyEnable>
+		<HotkeyScreenshot>Συντόμευση για Στιγμιότυπα</HotkeyScreenshot>
+		<HotkeyStartRecording>Έναρξη Εγγραφής</HotkeyStartRecording>
+		<HotkeyStopRecording>Διακοπή Εγγραφής</HotkeyStopRecording>
+		<HotkeyPauseRecording>Παύση/Συνέχιση Εγγραφής</HotkeyPauseRecording>
+		<HotkeyShowRecToolbar>Εμφάνιση/Απόκρυψη Γραμμής Εργαλείων Εγγραφής</HotkeyShowRecToolbar>
+		<DefaultOutputDir>Προ-επιλεγμένο directory εξόδου:</DefaultOutputDir>
+		<ChooseOutputFolder>Επιλογή φακέλου για την αποθήκευση στιγμιότυπων</ChooseOutputFolder>
+		<Recording>Εγγραφή</Recording>
+		<ShowCountdown>Εμφάνιση αντίστροφής μέτρησης πριν την έναρξη εγγραφής</ShowCountdown>
+		<Beep>Beep με Έναρξη Εγγραφής</Beep>
+		<ShowBoundary>Εμφάνιση Ορίων Εγγραφής</ShowBoundary>
+		<ShowToolbar>Εμφάνισης Γραμμής Εργαλείων Εγγραφής</ShowToolbar>
+		<RecordOnStart>Record automatically when the program starts</RecordOnStart>
+		<VideoFormat>Μορφή Video:</VideoFormat>
+		<OptimizeVideo>Βελτιστοποίηση Video</OptimizeVideo>
+		<DisableScreenSaver>Απενεργοποίηση Screen Saver</DisableScreenSaver>
+		<HideDesktopIcons>Απόκρυψη Desktop Eικονιδίων</HideDesktopIcons>
+		<HideTaskbar>Αυτόματη Απόκρυψη Τaskbar</HideTaskbar>
+		<Advanced>Για Προχωρημένους</Advanced>
+		<MouseStyleSettings>Ρυθμίσεις Mouse Style</MouseStyleSettings>
+		<AudioInputSettings>Ρυθμίσεις Audio Εισόδου</AudioInputSettings>
+		<AdvVideoSettings>Προηγμένες Video Ρυθμίσεις</AdvVideoSettings>
+		<SystemSound>Ήχος Συστήματος:</SystemSound>
+		<Microphone>Μικρόφωνο:</Microphone>
+		<AudioQuality>Ποιότητα Audio:</AudioQuality>
+		<OpenSoundDialog>Άνοιγμα Διαλόγου Ήχου</OpenSoundDialog>
+		<Format>Μορφή</Format>
+		<Codec>Codec:</Codec>
+		<Bitrate>Bitrate:</Bitrate>
+		<FrameRate>Frame rate:</FrameRate>
+		<AccessibleMode>Ενεργοποίηση λειτουργίας προσβασιμότητας</AccessibleMode>
+		<AnimateMouseButtons>Animate Κουμπιά Mouse</AnimateMouseButtons>
+		<AnimateMouseClicks>Animate Clicks Mouse</AnimateMouseClicks>
+		<LeftMouseClickColor>Αριστερό Click για Χρώμα Αnimation:</LeftMouseClickColor>
+		<RightMouseClickColor>Δεξί Click για Χρώμα Αnimation:</RightMouseClickColor>
+		<ShowMouseHotspot>Προβολή Mouse Hot Spot</ShowMouseHotspot>
+		<MouseHotspotColor>Χρώμα Mouse Hot Spot:</MouseHotspotColor>
+		<MouseHotspotSize>Μέγεθος Mouse Ηot Spot:</MouseHotspotSize>
+	</Options>
+	<PaintEdit>
+		<Rectangle>Ορογώνιο</Rectangle>
+		<Ellipse>Έλλειψη</Ellipse>
+		<Arrow>Βέλος</Arrow>
+		<CurveArrow>Κυρτό Βέλος</CurveArrow>
+		<Pencil>Μολύβι</Pencil>
+		<HighLight>Highlight</HighLight>
+		<Text>Κείμενο</Text>
+		<Undo>Αναίρεση</Undo>
+		<Clear>Εκκαθάριση</Clear>
+		<Line>Γραμμή</Line>
+		<Thin>Λεπτό</Thin>
+		<Medium>Μεσαίο</Medium>
+		<Thick>Παχύ</Thick>
+		<Blur>Θαμπάδα</Blur>
+		<BlurPixelate>Pixelate</BlurPixelate>
+		<BlurSmooth>Λεία</BlurSmooth>
+	</PaintEdit>
+	<Register>
+		<TrialVersion>Αυτή η έκδοση είναι δοκιμαστική</TrialVersion>
+		<Tips>Με το που κάνετε εγγραφή, το πρόγραμμα σας δίνει τη δυνατότητα πρόσβασης σε όλες τις λειτουργίες τους, καθώς και σε ενημερώσεις, αλλά και πληροφορίες σχετικά με τα προϊόντα μας.</Tips>
+		<Note>Σημείωση: Η διεύθυνση E-mail είναι ευαίσθητη σχετικά με πεζά-κεφαλαία.</Note>
+		<EmailAddress>Διεύθυνση Email</EmailAddress>
+		<LicenseCode>Κωδικός Άδειας</LicenseCode>
+		<ThankYou>Σας ευχαριστούμε για την εγγραφή σας</ThankYou>
+		<RegistredFor>Καταχωρημένο στο [#email@email.com#]</RegistredFor>
+		<InvalidLicense>Ο κωδικός άδειας δεν είναι έγκυρος ή δε συμφωνεί με τη συγκεκριμένη έκδοση.</InvalidLicense>
+		<InvalidEmail>Μη έγκυρη διεύθυνση Email![#NewLine#]Παρακαλώ βεβαιωθείτε ότι πληκτρολογήσατε τη σωστή διεύθυνση E-mail.</InvalidEmail>
+		<ChangeLicense>Αλλαγή Άδειας</ChangeLicense>
+		<TechnicalSupport>Τεχνική Υποστήριξη</TechnicalSupport>
+		<TrialVersionReminder>Υπενθύμιση Δοκιμαστικής Έκδοσης</TrialVersionReminder>
+		<Benefits>Αγοράστε τώρα και αποκτήστε όλα αυτά τα προνόμια:</Benefits>
+		<BenefitsGot>Έχετε αυτά τα προνόμια:</BenefitsGot>
+		<Benefits1>1. Όχι άλλες εμφανίσεις υπενθυμίσεων ή υδατογραφήματα.</Benefits1>
+		<Benefits2>2. Όχι άλλοι περιορισμοί στις λειτουργίες.</Benefits2>
+		<Benefits3>3. Δωρεάν ενημερώσεις εντός της ίδιας κύριας κατηγορίας.</Benefits3>
+		<Benefits4>4. Δωρεάν κι εφόρου ζωής τεχνική υποστήριξη μέσω email.</Benefits4>
+		<Benefits5>5. Εγγύηση επιστροφής χρημάτων εντός 30 ημερών.</Benefits5>
+		<TrialDaysLeft>Η δοκιμαστική έκδοση θα λήξει μετά από [#Days#] μέρες</TrialDaysLeft>
+		<TrialExpired>Η δοκιμαστική έκδοση έληξε</TrialExpired>
+	</Register>
+	<Updates>
+		<NewVersion>Εντοπίστηκε μια νέα έκδοση του [#AppName#].[#NewLine#] , θα θέλατε να προβείτε σε ενημέρωση τώρα?</NewVersion>
+		<LatestVersion>Χρησιμοποιείτε την πιο πρόσφατη έκδοση!</LatestVersion>
+	</Updates>
+	<SchedulerTask>
+		<Title>Προγραμματισμός Εργασιών</Title>
+		<CreateTask>Δημιουργία Εργασίας</CreateTask>
+		<TaskList>Λίστα Εργασιών</TaskList>
+		<TaskName>Όνομα</TaskName>
+		<Trigger>Έναυσμα</Trigger>
+		<Daily>Καθημερινά</Daily>
+		<Weekly>Εβδομαδιαία</Weekly>
+		<StartTime>Χρόνος Έναρξης</StartTime>
+		<Duration>Διάρκεια</Duration>
+		<RepeatRec>Επανάληψη Εγγραφής</RepeatRec>
+		<StopManually>Διακοπή Εγγραφής Χειροκίνητα</StopManually>
+		<RepeatTimes>Επανάληψη Φορές</RepeatTimes>
+		<StopTime>Χρόνος Διακοπής</StopTime>
+		<Stop>Διακοπή</Stop>
+		<Delete>Διαγραφή</Delete>
+		<Action>Ενέργεια</Action>
+		<RecFullscreen>Εγγραφή πλήρους οθόνης</RecFullscreen>
+		<RecRegion>Εγγραφή προσαρμοσμένου πεδίου</RecRegion>
+		<SelectRegion>Επιλογή Περιοχής</SelectRegion>
+		<RecOnlyAudio>Εγγραφή μόνο audio</RecOnlyAudio>
+		<Shutdown>Τερματισμός</Shutdown>
+		<ShutdownAfterFinish>Τερματισμός υπολογιστή με την ολοκλήρωση της εργασίας</ShutdownAfterFinish>
+		<Create>Δημιουργία</Create>
+		<Sunday>Κυριακή</Sunday>
+		<Monday>Δευτέρα</Monday>
+		<Tuesday>Τρίτη</Tuesday>
+		<Wednesday>Τετάρτη</Wednesday>
+		<Thursday>Πέμπτη</Thursday>
+		<Friday>Παρασκευή</Friday>
+		<Saturday>Σάββατο</Saturday>
+		<TaskNameWarn>Το όνομα της εργασίας δεν μπορεί να είναι κενό ή ίδιο με την ήδη υπάρχουσα εργασία.</TaskNameWarn>
+		<StartTimeWarn>Παρακαλώ ορίστε μελλοντικό χρόνο έναρξης.</StartTimeWarn>
+		<IntervalWarn>Το δίαστημα δεν θα πρέπει να είναι μικρότερο τους 1 δευτερολέπτου.</IntervalWarn>
+		<StopTimeWarn>Παρακαλώ ορίστε το χρόνο διακοπής αργότερα από το χρόνο έναρξης.</StopTimeWarn>
+		<RegionWarn>Η προσαρμοσμένη περιοχή δεν θα πρέπει να είναι κενή</RegionWarn>
+		<DailyTime>Στις [#time#] καθημερινά</DailyTime>
+		<Waiting>Σε Αναμονή</Waiting>
+		<Running>Σε Λειτουργία</Running>
+		<Stopped>Έγινε Διακοπή</Stopped>
+		<NoScheduleTask>Δεν υπάρχει προγραμματισμένη εργασία</NoScheduleTask>
+		<ClosestTaskCountdown>Η πιο κοντινά προγραμματισμένη εργασία σε [#time#]</ClosestTaskCountdown>
+	</SchedulerTask>
+	<Screenshot>
+		<HideInterface>Κρύψε με κατά την λήψη στιγμιότυπου οθόνης</HideInterface>
+		<IncludeCursor>Λήψη mouse cursor</IncludeCursor>
+	</Screenshot>
+	<Record>
+		<Record>Εγγραφή</Record>
+		<Start>Έναρξη</Start>
+		<Pause>Παύση</Pause>
+		<Resume>Συνέχιση</Resume>
+		<Stop>Διακοπή</Stop>
+		<ShowToolbar>Προβολή Γραμμής Εργαλείων</ShowToolbar>
+		<AudioInput>Audio Είσοδος</AudioInput>
+		<AroundMouse>Γύρω από Mouse</AroundMouse>
+		<WebCamera>Web Camera</WebCamera>
+		<OnlyAudio>Μόνο Αudio</OnlyAudio>
+		<None>Κανένα</None>
+		<SystemSound>Ήχος Συστήματος</SystemSound>
+		<Microphone>Μικρόφωνο</Microphone>
+		<SysSoundAndMicrophone>Ήχος Συστήματος και Μικρόφωνο</SysSoundAndMicrophone>
+		<ViewLogs>Προβολή logs</ViewLogs>
+		<Processing>Επεξεργασία</Processing>
+		<FileName>Όνομα Αρχείου</FileName>
+		<Size>Μέγεθος</Size>
+		<Duration>Διάρκεια</Duration>
+		<Delete>Διαγραφή</Delete>
+		<Remove>Αφαίρεση</Remove>
+		<Rename>Μετονομασία</Rename>
+		<Play>Play</Play>
+		<Convert>Μετατροπή</Convert>
+		<VideoEdit>Video Επεξεργασία</VideoEdit>
+		<RemoveTip>Επιβεβαίωση αφαίρεσης επιλεγμένων αρχείων από την λίστα?</RemoveTip>
+		<DeleteTip>Επιβεβαίωση οριστικής διαγραφής των επιλεγμένων αρχείων?</DeleteTip>
+		<FileNotFound>Αδυναμία εντοπισμού του συγκεκριμένου αρχείου:</FileNotFound>
+		<FileNameExist>Υπάρχει ήδη αρχείο με το ίδιο όνομα στο directory:</FileNameExist>
+		<AudioQualityHigh>Υψηλή</AudioQualityHigh>
+		<AudioQualityStandard>Κανονική</AudioQualityStandard>
+		<AudioQualityLow>Χαμηλή</AudioQualityLow>
+		<Recording>Εγγραφή σε εξέλιξη...</Recording>
+		<Paused>Παύση</Paused>
+		<Volume>Όγκος</Volume>
+		<ConnectCameraTip>Oops, απαιτείται Webcam. Παρακαλώ συνδέστε μια Webcam και προσπαθήστε ξανά!</ConnectCameraTip>
+		<SelectCamera>Επιλογή Webcam</SelectCamera>
+		<OutputResolution>Ανάλυση Εξόδου</OutputResolution>
+		<ComponentsError>Διαπιστώθηκε σφάλμα στα στοιχεία εγγραφής. Να γίνει επιδιόρθωση τώρα?</ComponentsError>
+		<FixSucceed>Η επιδιόρθωση του προβλήματος ήταν επιτυχής!</FixSucceed>
+		<FixFail>Αδυναμία επιδιόρθωσης του προβλήματος. Παρακαλώ, δοκιμάστε να εγκαταστήσετε ξανά το πρόγραμμα!</FixFail>
+	</Record>
+	<Upload>
+		<ToYouTube>Αποστολή στο YouTube</ToYouTube>
+		<ToFTP>Αποστολή σε FTP</ToFTP>
+		<Settings>Ρυθμίσεις αποστολής</Settings>
+		<OnYouTubeCom>Αναφόρτωση στο youtube.com</OnYouTubeCom>
+		<Login>Σύνδεση</Login>
+		<YouTubeUserName>Όνομα Χρήστη(Email):</YouTubeUserName>
+		<UserNameNotBlank>Το email δεν θα πρέπει να είναι κενό</UserNameNotBlank>
+		<Password>Κωδικός Πρόσβασης:</Password>
+		<PasswordNotBlank>Ο κωδικός πρόσβασης δεν θα πρέπει να είναι κενός</PasswordNotBlank>
+		<YouTubeLoginNote>Σημείωση: Χρειάζεται να Ενεργοποιήσετε "Πρόσβαση για λιγότερο ασφαλείς εφαρμογές" για αποστολή βίντεο στο YouTube.</YouTubeLoginNote>
+		<OpenWeb>Άνοιγμα σελίδας video μετά την ολοκλήρωση της μεταφόρτωσης</OpenWeb>
+		<SetVideoInfo>Ρύθμιση βίντεο πριν την αποστολή</SetVideoInfo>
+		<FtpServer>Εξυπηρετητής FTP</FtpServer>
+		<FtpHostName>Όνομα Κεντρικού Υπολογιστή:</FtpHostName>
+		<FtpHostNameTip>Όνομα ή Διεύθυνση IP του Εξυπηρετητή FTP</FtpHostNameTip>
+		<FtpPort>Θύρα:</FtpPort>
+		<FtpPortTip>Αν μείνει κενό, θα χρησιμοποιηθεί η προεπιλεγμένη θύρα 21</FtpPortTip>
+		<FtpUserName>Όνομα Χρήστη:</FtpUserName>
+		<FtpUserNameTip>Αν μείνει κενό, θα χρησιμοποιηθεί ανώνυμος χρήστης</FtpUserNameTip>
+		<FtpPasswordTip>Κωδικός Πρόσβασης Χρήστη, αφήστε το κενό αν χρησιμοποιείται ανώνυμος χρήστης</FtpPasswordTip>
+		<FtpRemoteDir>Απομακρυσμένος κατάλογος:</FtpRemoteDir>
+		<FtpRemoteDirTip>Αν μείνει κενό, θα οριστεί ο ριζικός κατάλογος</FtpRemoteDirTip>
+		<HostNotBlank>Το όνομα κεντρικού υπολογιστή δεν θα πρέπει να είναι κενό</HostNotBlank>
+		<PasswordNeed>Ο κωδικός πρόσβασης πρέπει να προσδιορίζεται για μη-ανώνυμο χρήστη</PasswordNeed>
+		<VideoInfo>Πληροφορίες βίντεο</VideoInfo>
+		<File>Αρχείο:</File>
+		<Title>Τίτλος:</Title>
+		<Desc>Περιγραφή:</Desc>
+		<Tags>Ετικέτες:</Tags>
+		<Category>Κατηγορία:</Category>
+		<TagsTip>Διαχωρισμός ετικετών με βάση ","</TagsTip>
+		<Public>Δημόσιοc</Public>
+		<Private>Προσωπικό</Private>
+		<Successful>Αποστολή επιτυχής</Successful>
+		<Failed>Αποτυχία αποστολής</Failed>
+		<Waiting>Αναμονή για αποστολή</Waiting>
+		<Uploading>Μεταφόρτωση</Uploading>
+		<CheckNetwork>Παρακαλώ ελέγξτε τη σύνδεση δικτύου με τον εξυπηρετητή</CheckNetwork>
+		<PermissionDenied>Άρνηση άδειας</PermissionDenied>
+		<AuthFailed>Αποτυχία ταυτοποίησης</AuthFailed>
+		<ImageTitle>Μεταφόρτωση στο [#Website#]</ImageTitle>
+		<ImageSecurityTips>Τα αρχεία σας είναι 100% ασφαλή με την ασφάλεια προστασίας</ImageSecurityTips>
+		<Optional>Προαιρετικά</Optional>
+		<OptionalTitle>Τίτλος</OptionalTitle>
+		<OptionalPassword>Κωδικός Πρόσβασης</OptionalPassword>
+		<TitleTips>Μπορεί να οριστεί όνομα για αυτή την εικόνα</TitleTips>
+		<PassswordTips>Απαίτηση εισαγωγής κωδικού πρόσβασης από τους επισκέπτες για προβολή της εικόνας</PassswordTips>
+		<ShareOn>Κοινοποίηση στο [#Twitter#]</ShareOn>
+		<YouTubeFileHelp>Άκυρη μορφή αρχείου, μάθετε πώς να το μετατρέψετε σε μορφή συμβατή με το YouTube.</YouTubeFileHelp>
+		<NotYouTubeSupported>Το αρχείο σας δεν υποστηρίζεται από το YouTube:</NotYouTubeSupported>
+		<ContinueUploading>Συνέχεια αναφόρτωσης;</ContinueUploading>
+	</Upload>	
+</Apowersoft>

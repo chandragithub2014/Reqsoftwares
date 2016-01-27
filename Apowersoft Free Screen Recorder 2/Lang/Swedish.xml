@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Apowersoft LangName="Svenska" Time="04/27/2015">
+	<Comm> 
+		<Region>Region</Region>
+		<RegionFullScreen>Helskräm</RegionFullScreen>
+		<Options>Alternativ</Options>
+		<Help>Hjälp</Help>
+		<OnlineSupport>Onlinesupport</OnlineSupport>
+		<Purchase>Köp</Purchase>
+		<Updates>Sök efter uppdateringar</Updates>
+		<About>Om</About>
+		<Language>Språk</Language>
+		<Tools>Verktyg</Tools>
+		<Exit>Avsluta</Exit>
+		<UserGuide>Användarguide</UserGuide>
+		<Register>Registrera</Register>
+		<Forum>Forum</Forum>
+		<Support>Support</Support>
+		<Screenshot>Skärmdump</Screenshot>
+		<Ready>Redo</Ready>
+		<Default>Standard</Default>
+		<Width>Bredd</Width>
+		<Height>Höjd</Height>
+		<FileName>Filnamn</FileName>
+		<DontShowAgain>Visa inte detta igen</DontShowAgain>
+		<Finished>Finished</Finished>
+		<HotkeyRegisterError>Hot key är redan registrerad av andra applikationer:</HotkeyRegisterError>
+		<OpenMainWindow>Öppns [#AppName#]</OpenMainWindow>
+		<ResetWarnings>Alla dialogvarningar har återställts!</ResetWarnings>
+		<ProVersion>Pro Version</ProVersion>
+		<CloseActionTitle>Vill du</CloseActionTitle>
+		<CloseActionMinimizeToSystemTray>Minimiera till aktivitetsfältet</CloseActionMinimizeToSystemTray>
+		<CloseActionExitProgram>Avsluta program</CloseActionExitProgram>
+		<IsStillRunning>[#AppName#] är fortfarande igång...</IsStillRunning>
+		<FaildSaveFile>Misslyckades med att sprara bilden</FaildSaveFile>
+		<FaildPrintImage>Misslyckades med att skriva ut bilden</FaildPrintImage>
+		<FaildCopyToClipboard>Misslyckaes med att kopiera bild till skrivbordet</FaildCopyToClipboard>
+		<HotkeyChangeAsk>Vill du ändra hotkey nn?</HotkeyChangeAsk>
+		<CaptureImageTips>Klicka, håll och dra regionen</CaptureImageTips>
+		<Confirm>Bekräfta</Confirm>
+		<Error>Fel</Error>
+		<Custom>Specialgjord</Custom>
+		<SelectRegion>Välj region</SelectRegion>
+		<Status>Status</Status>
+	</Comm>
+	<Button> 
+		<Close>Stäng</Close>
+		<OK>OK</OK>
+		<Cancel>Avbryt</Cancel>
+		<Register>Registrera</Register>
+		<OrderNow>Köp nu</OrderNow>
+		<CopyToClipboard>Kopiera till skrivbordet</CopyToClipboard>
+		<SaveAs>Spara som...</SaveAs>
+		<Yes>Ja</Yes>
+		<No>Nej</No>
+		<Evaluate>Utvärdera</Evaluate>
+		<Settings>Inställningar</Settings>
+		<ResetWarnings>Återställ varningar</ResetWarnings>
+		<Save>Spara</Save>
+		<Edit>Editera</Edit>
+		<Upload>Ladda upp</Upload>
+		<Share>Dela</Share>
+		<TakeScreenshot>Ta skärmdump</TakeScreenshot>
+		<Minimizetray>Minimera till aktivitetsfält</Minimizetray>
+		<OpenFolder>Öppna mapp</OpenFolder>
+		<SelectAll>Markera alla</SelectAll>
+		<DeselectAll>Avmarkera alla</DeselectAll>
+		<ReCapture>Ta om</ReCapture>
+		<SendEmail>Skcika Email</SendEmail>
+		<Print>Skriv ut</Print>
+	</Button>
+	<Options>
+		<General>Allmänt</General>
+		<AutoStart>Öppna program när Windows startar</AutoStart>
+		<ConfirmQuit>Påminn mig när programet avslutas</ConfirmQuit>
+		<HideInterface>Minimera till verktygsfältet under inspelning</HideInterface>
+		<IncludeCursor>Inkludera muspekare i bilden</IncludeCursor>
+		<HotkeyEnable>Aktivera tangentbordskommandon</HotkeyEnable>
+		<HotkeyScreenshot>Genvägar till skärmdump</HotkeyScreenshot>
+		<HotkeyStartRecording>Starta inspelning</HotkeyStartRecording>
+		<HotkeyStopRecording>Stoppa inspelning</HotkeyStopRecording>
+		<HotkeyPauseRecording>Pausa/Fortsätt inspelning</HotkeyPauseRecording>
+		<HotkeyShowRecToolbar>Visa/dölj verktygsfältet för inspelning</HotkeyShowRecToolbar>
+		<DefaultOutputDir>Välj utmatningsmapp:</DefaultOutputDir>
+		<ChooseOutputFolder>Välj mapp för sparade skärmdumpar</ChooseOutputFolder>
+		<Recording>Spelar in</Recording>
+		<ShowCountdown>Visa nedräkning innan inspelning</ShowCountdown>
+		<Beep>Pip vid Start av inspelning</Beep>
+		<ShowBoundary>Visa inspelningsgränser</ShowBoundary>
+		<ShowToolbar>Visa verktygsfältet för inspelning</ShowToolbar>
+		<RecordOnStart>Spela in automatiskt när programmet startas</RecordOnStart>
+		<VideoFormat>Videoformat:</VideoFormat>
+		<OptimizeVideo>Optimera video</OptimizeVideo>
+		<DisableScreenSaver>Avaktivera skrämsläckare</DisableScreenSaver>
+		<HideDesktopIcons>Dölj skrivbordsikoner</HideDesktopIcons>
+		<HideTaskbar>Dölj aktivitetsfältet automatiskt</HideTaskbar>
+		<Advanced>Avancerat</Advanced>
+		<MouseStyleSettings>Mus-stil inställningar</MouseStyleSettings>
+		<AudioInputSettings>Ljud-input inställningar</AudioInputSettings>
+		<AdvVideoSettings>Avancerade videoinställningar</AdvVideoSettings>
+		<SystemSound>Systemljud:</SystemSound>
+		<Microphone>Mikrofon:</Microphone>
+		<AudioQuality>Ljudkvalitet:</AudioQuality>
+		<OpenSoundDialog>Öppna ljuddialogen</OpenSoundDialog>
+		<Format>Format</Format>
+		<Codec>Codec:</Codec>
+		<Bitrate>Bithastighet:</Bitrate>
+		<FrameRate>Bildhastighet:</FrameRate>
+		<AccessibleMode>Aktivera tillgänglighetsläge</AccessibleMode>
+		<AnimateMouseButtons>Animera muspekaren</AnimateMouseButtons>
+		<AnimateMouseClicks>Animera muspeckarklick</AnimateMouseClicks>
+		<LeftMouseClickColor>Animeringsfärg för vänsterklick:</LeftMouseClickColor>
+		<RightMouseClickColor>Animeringsfärg för högerklick:</RightMouseClickColor>
+		<ShowMouseHotspot>Visa muspekarens hotspot</ShowMouseHotspot>
+		<MouseHotspotColor>Färg på muspekarens hotspot:</MouseHotspotColor>
+		<MouseHotspotSize>Storlek på musekarens hotsopt:</MouseHotspotSize>
+	</Options>
+	<PaintEdit> 
+		<Rectangle>Rektangel</Rectangle>
+		<Ellipse>Oval</Ellipse>
+		<Arrow>Pil</Arrow>
+		<CurveArrow>Böjd pil</CurveArrow>
+		<Pencil>Penna</Pencil>
+		<HighLight>Highlight</HighLight>
+		<Text>Text</Text>
+		<Undo>Ångra</Undo>
+		<Clear>Rensa</Clear>
+		<Line>Linje</Line>
+		<Thin>Tunn</Thin>
+		<Medium>Medium</Medium>
+		<Thick>Tjock</Thick>
+		<Blur>Suddighet</Blur>
+		<BlurPixelate>Pixelate</BlurPixelate>
+		<BlurSmooth>Smidig</BlurSmooth>
+	</PaintEdit>
+	<Register> 
+		<TrialVersion>Detta är en prova-på-version</TrialVersion>
+		<Tips>Efter registreringen så tillåter programet dig att använda alla sina funktioner, informera dig om uppdateringar och ger dig information om våra nya produkter.</Tips>
+		<Note>OBS!: Emailadressen skiljer på stora och små bokstäver.</Note>
+		<EmailAddress>Emailadress</EmailAddress>
+		<LicenseCode>Licenskod</LicenseCode>
+		<ThankYou>Tack för att du reistrerat dig</ThankYou>
+		<RegistredFor>Registrerad med [#email@email.com#]</RegistredFor>
+		<InvalidLicense>Licenskoden är ogiltig eller så matchar den inte versionen.</InvalidLicense>
+		<InvalidEmail>Invalid Email address![#NewLine#]Please make sure you enter a correct E-mail address.</InvalidEmail>
+		<ChangeLicense>Ändra licens</ChangeLicense>
+		<TechnicalSupport>Teknisksupport</TechnicalSupport>
+		<TrialVersionReminder>Påminnelse om prova-på-versionen</TrialVersionReminder>
+		<Benefits>Köp nu och ta del av dessa förmåner</Benefits>
+		<BenefitsGot>Du har fått dessa fördelar</BenefitsGot>
+		<Benefits1> Inga fler påminnelser eller vattenstämplar.</Benefits1>
+		<Benefits2> Ingen begränsning på funktionerna.</Benefits2>
+		<Benefits3> Gratis uppdateringar inom samma version.</Benefits3>
+		<Benefits4> Gratis teknisksupport via email livet ut.</Benefits4>
+		<Benefits5> 30 dagars pengarna-tillbaka-garanti.</Benefits5>
+		<TrialDaysLeft>Prova-på-versionen kommer ut gå om [#Days#] dagar</TrialDaysLeft>
+		<TrialExpired>Prova-på-versionen har utgått</TrialExpired>
+	</Register>
+	<Updates>
+		<NewVersion>En ny version av [#AppName#].[#NewLine#] har hittats, vill du uppdatera nu?</NewVersion>
+		<LatestVersion>Du använder den senaste versionen!</LatestVersion>
+	</Updates>
+	<SchedulerTask>
+		<Title>Uppgiftsplanerare</Title>
+		<CreateTask>Skapa uppgift</CreateTask>
+		<TaskList>Uppgiftslista</TaskList>
+		<TaskName>Namn</TaskName>
+		<Trigger>Trigger</Trigger>
+		<Daily>Dagligen</Daily>
+		<Weekly>Veckovis</Weekly>
+		<StartTime>Starttid</StartTime>
+		<Duration>Längs</Duration>
+		<RepeatRec>Repetera inspelning</RepeatRec>
+		<StopManually>Avbryt inspelning manuellt</StopManually>
+		<RepeatTimes>Repetera tider</RepeatTimes>
+		<StopTime>Stopptid</StopTime>
+		<Stop>Stopp</Stop>
+		<Delete>Radera</Delete>
+		<Action>Action</Action>
+		<RecFullscreen>Spela in helskräm</RecFullscreen>
+		<RecRegion>Spela in valt område</RecRegion>
+		<SelectRegion>Välj område</SelectRegion>
+		<RecOnlyAudio>Spela in enbart ljud</RecOnlyAudio>
+		<Shutdown>Stäng ner</Shutdown>
+		<ShutdownAfterFinish>Stäng ner dator när uppgiften är färdig</ShutdownAfterFinish>
+		<Create>Skapa</Create>
+		<Sunday>Söndag</Sunday>
+		<Monday>Måndag</Monday>
+		<Tuesday>Tisdag</Tuesday>
+		<Wednesday>Onsdag</Wednesday>
+		<Thursday>Torsdag</Thursday>
+		<Friday>Fredag</Friday>
+		<Saturday>Lördag</Saturday>
+		<TaskNameWarn>Uppgiftens namn kan inte vara blankt eller samma som en redan existerande fil.</TaskNameWarn>
+		<StartTimeWarn>Vänligen ställ in en starttid nästa gång.</StartTimeWarn>
+		<IntervalWarn>Intervallet kan inte vara kortare än 1 sekund.</IntervalWarn>
+		<StopTimeWarn>Vänligen bestäm en stopp tid som är senare än starttiden.</StopTimeWarn>
+		<RegionWarn>Valt område bör inte vara tomt.</RegionWarn>
+		<DailyTime>Klockan [#time#] varje dag</DailyTime>
+		<Waiting>Väntar</Waiting>
+		<Running>Igång</Running>
+		<Stopped>Stoppad</Stopped>
+		<NoScheduleTask>Ingen planerad uppgift</NoScheduleTask>
+		<ClosestTaskCountdown>Den närmsta planerade uppgiften är [#time#]</ClosestTaskCountdown>
+	</SchedulerTask>
+	<Screenshot>
+		<HideInterface>Göm mig vid skärmdump</HideInterface>
+		<IncludeCursor>Fånga muspekaren</IncludeCursor>
+	</Screenshot>
+	<Record>
+		<Record>Spela in</Record>
+		<Start>Starta</Start>
+		<Pause>Pausa</Pause>
+		<Resume>Forsätt</Resume>
+		<Stop>Stopp</Stop>
+		<ShowToolbar>Visa verktygsfält</ShowToolbar>
+		<AudioInput>Ljudinput</AudioInput>
+		<AroundMouse>Runt muspekaren</AroundMouse>
+		<WebCamera>Webbkamera</WebCamera>
+		<OnlyAudio>Endast ljud</OnlyAudio>
+		<None>Ingen</None>
+		<SystemSound>Systemljud</SystemSound>
+		<Microphone>Miikrofon</Microphone>
+		<SysSoundAndMicrophone>Systemljud och mikrofon</SysSoundAndMicrophone>
+		<ViewLogs>Visa loggar</ViewLogs>
+		<Processing>Bearbetar</Processing>
+		<FileName>Filnamn</FileName>
+		<Size>Storlek</Size>
+		<Duration>Längd</Duration>
+		<Delete>Radera</Delete>
+		<Remove>Ta bort</Remove>
+		<Rename>Döp om</Rename>
+		<Play>Spela</Play>
+		<Convert>Konvertera</Convert>
+		<VideoEdit>Videoredigering</VideoEdit>
+		<RemoveTip>Är du säker på att du vill radera markerade filer från listan?</RemoveTip>
+		<DeleteTip>Är du säker på att du vill radera filerna helt och hållet?</DeleteTip>
+		<FileNotFound>Den önskade filen kan inte hittas:</FileNotFound>
+		<FileNameExist>Det finns redan en fil med samma namn i registret:</FileNameExist>
+		<AudioQualityHigh>Hög</AudioQualityHigh>
+		<AudioQualityStandard>Standard</AudioQualityStandard>
+		<AudioQualityLow>Låg</AudioQualityLow>
+		<Recording>Spelar in...</Recording>
+		<Paused>Pausad</Paused>
+		<Volume>Volym</Volume>
+		<ConnectCameraTip>Oj, för detta krävs en webbkamera. Vänligen anslut en webbkamera och prova igen.</ConnectCameraTip>
+		<SelectCamera>välj webbkamera</SelectCamera>
+		<OutputResolution>Upplösning</OutputResolution>
+		<ComponentsError>Fel på inspelningskomponent, fixa det nu?</ComponentsError>
+		<FixSucceed>Problemet har fixats!</FixSucceed>
+		<FixFail>Misslyckades att fixa problemet, vänligen försök att installera om programet.</FixFail>
+	</Record>
+	<Upload>
+		<ToYouTube>Ladda upp på YouTube</ToYouTube>
+		<ToFTP>Ladda upp till FTP</ToFTP>
+		<Settings>Uppladdning inställningar</Settings>
+		<OnYouTubeCom>Ladda upp på youtube.com</OnYouTubeCom>
+		<Login>Logga in</Login>
+		<YouTubeUserName>Användarnamn(Email):</YouTubeUserName>
+		<UserNameNotBlank>Email kan inte lämnas tomt</UserNameNotBlank>
+		<Password>Lösenord:</Password>
+		<PasswordNotBlank>Lösenord kan inte lämnas tomt</PasswordNotBlank>
+		<YouTubeLoginNote>OBS!: Du måste aktivera "Tillåt för mindre säkra appar" för att ladda upp videos till YouTube.</YouTubeLoginNote>
+		<OpenWeb>Öppna videosida när upp laddningen är färdig</OpenWeb>
+		<SetVideoInfo>Ställ in video-info innan du laddar upp</SetVideoInfo>
+		<FtpServer>FTP server</FtpServer>
+		<FtpHostName>Host namn:</FtpHostName>
+		<FtpHostNameTip>FTP serverns namn eller IP-adress</FtpHostNameTip>
+		<FtpPort>Port:</FtpPort>
+		<FtpPortTip>Om den lämnas tom kommer default port 21 användas</FtpPortTip>
+		<FtpUserName>Användarnamn:</FtpUserName>
+		<FtpUserNameTip>Om den lämnas tom kommer anonym användare användas</FtpUserNameTip>
+		<FtpPasswordTip>Användar lösenord, lämnas tom om annym använadre används</FtpPasswordTip>
+		<FtpRemoteDir>Avlägset register:</FtpRemoteDir>
+		<FtpRemoteDirTip>Om den lämnas tom kommer root directory ställas in</FtpRemoteDirTip>
+		<HostNotBlank>Host namen kan inte lämnas tomt</HostNotBlank>
+		<PasswordNeed>Lösenord måste uppge för icke anonyma användare</PasswordNeed>
+		<VideoInfo>Videoinformation</VideoInfo>
+		<File>Fil:</File>
+		<Title>Titel:</Title>
+		<Desc>Beskrivning:</Desc>
+		<Tags>Taggar:</Tags>
+		<Category>Kategori:</Category>
+		<TagsTip>Separera taggar med ","</TagsTip>
+		<Public>Public</Public>
+		<Private>Privat</Private>
+		<Successful>Laddades upp</Successful>
+		<Failed>Uppladdningen misslyckades</Failed>
+		<Waiting>Väntar på uppladdning</Waiting>
+		<Uploading>Uploading</Uploading>
+		<CheckNetwork>Vänligen kontrollera nätverks-uppkopplingen med server</CheckNetwork>
+		<PermissionDenied>Tillstånd nekades</PermissionDenied>
+		<AuthFailed>Authentication misslyckades</AuthFailed>
+		<ImageTitle>Ladda upp till [#Website#]</ImageTitle>
+		<ImageSecurityTips>Dina filer är 100% säkra med säkerhetsskydd</ImageSecurityTips>
+		<Optional>Valfritt</Optional>
+		<OptionalTitle>Titel</OptionalTitle>
+		<OptionalPassword>Lösenord</OptionalPassword>
+		<TitleTips>Du kan bestämma ett namn för denna bild</TitleTips>
+		<PassswordTips>Begär lösenord från besökare för att visa dina bilder</PassswordTips>
+		<ShareOn>Dela på [#Twitter#]</ShareOn>
+		<YouTubeFileHelp>Ogiltigt filformat, lär dig hur du konverterar till YouTube-kompatibla format.</YouTubeFileHelp>
+		<NotYouTubeSupported>Din fil stödjs inte av YouTube</NotYouTubeSupported>
+		<ContinueUploading>Fortsätt uppladning?</ContinueUploading>
+	</Upload>	
+</Apowersoft>
